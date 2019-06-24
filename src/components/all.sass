@@ -2,13 +2,21 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #000
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+$body-color: #fff
+$background-color: #111;
+$black: #111
+.navbar
+  position: fixed !important;
+  width: 100%;
+  border-bottom: 1px solid white;
+
+.footer
+  border-top: 1px solid white;
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -111,7 +119,7 @@ $menu-label-color: $white-ter
     height: 1em
     vertical-align: middle
     display: inline
-
+  
 // blog roll
 .blog-list-item.is-featured
   background-color: #d6400033;
@@ -138,3 +146,27 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+html, body, p, ul, li, legend, textarea, h1, h2, h3, h4, .content h1, .content h2, .content h3, .content h4, .navbar, .navbar-item, .label
+  color: $body-color;
+  background-color: $background-color;
+
+.header-with-background 
+  background-color: $background-color;
+
+.contact-page
+  margin-top: 4rem;
+
+
+// Description section on Distro Page
+.distroDescription
+  max-width: 55rem;
+  margin: 0 auto;
+  border-bottom: 1px solid white
+
+.distroDescription__topText
+  margin-bottom: .6rem;
+
+.distroLabels
+  max-width: 55rem;
+  margin: 4rem auto;
