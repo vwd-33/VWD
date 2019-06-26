@@ -39,9 +39,10 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content contact-page">
-              <h1>Contact</h1>
+              <h1 className="contact__heading">Contact</h1>
               <form
                 name="contact"
+                className="contact__form"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
