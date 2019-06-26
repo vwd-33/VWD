@@ -10,7 +10,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="Vinlandic Werwolf Distribution"
-            style={{ width: '38em', height: '10em' }}
+            style={{ minWidth: '40%', maxHeight: '10rem' }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -71,6 +71,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <p className="copyright">Copyright 2019: Vinlandic Werwolf Distribution</p>
       </footer>
     )
   }
