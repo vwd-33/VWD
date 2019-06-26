@@ -10,13 +10,9 @@ export const ProductPageTemplate = ({
   labels,
 }) => (
   <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
+    <img
+      className="top-image"
+      src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
     />
     <h2
       className="has-text-weight-bold is-size-1 header-with-background"
@@ -36,10 +32,15 @@ export const ProductPageTemplate = ({
       {labels.map(labelSection => {
         return(
         <div>
-          <h3>{labelSection.title}</h3>
+          <h3 className="distro__labelTitle">{labelSection.title}:</h3>
           {labelSection.purchaseItems.map(itemData => {
             return(
-              <div>{itemData.labelMeta}: {itemData.price} <a href={itemData.url}>{itemData.title}</a> {itemData.description}</div>
+              <div className="distro__item">
+                <span className="distro__itemMeta">{itemData.labelMeta}: </span>
+                <a href={itemData.url} className="distro__itemTitle">{itemData.title}:</a>
+                <span className="distro__itemPrice"> {itemData.price} </span> 
+                <span className="distro__itemDescription">{itemData.description}</span>
+              </div>
             )
           })}
         </div>
