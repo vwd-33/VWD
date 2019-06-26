@@ -6,8 +6,7 @@ export default () => (
     <section className="section">
       <div className="container">
         <div className="content thankyoupage">
-          <h1 className="thankYou__text">Thank you!</h1>
-          <p>This is a custom thank you page for form submissions</p>
+          <h1 className="thankYou__text">Thank you! Email sent!</h1>
         </div>
       </div>
     </section>
