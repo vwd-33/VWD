@@ -13,9 +13,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
+              <h2 className="index__title">{title}</h2>
               <PageContent className="content" content={content} />
             </div>
           </div>
@@ -26,19 +24,20 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 }
 
 AboutPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  title: PropTypes.string.isRequired,
 }
 
 const AboutPage = ({ data }) => {
+  const { frontmatter } = data.markdownRemark
   const { markdownRemark: post } = data
 
   return (
     <Layout>
       <AboutPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
+        title={frontmatter.title}
         content={post.html}
       />
     </Layout>
