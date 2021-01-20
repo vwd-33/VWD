@@ -34,7 +34,7 @@ export const ProductPageTemplate = ({
         return(
         <div>
           <h3 className="distro__labelTitle">{labelSection.title}:</h3>
-          <p className="distro__itemTitle">{labelSection.purchaseItems}</p>
+          <p className="distro__itemTitle">{labelSection.body}</p>
         </div>
         )
       })}
@@ -101,7 +101,7 @@ export const productPageQuery = graphql`
         }
         labels {
           title
-          purchaseItems
+          body
         }
       }
     }

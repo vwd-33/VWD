@@ -15,27 +15,7 @@ description2:
     - text: – Regarding items listed in “Available VINLANDIC WERWOLF releases” and “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for potential wholesale orders / trades, but keep in mind that they cannot be guaranteed due to limited quantities!
 labels:
   - title: "Available VINLANDIC WERWOLF releases"
-    purchaseItems:
-      - labelMeta: VWD 02
-        price: $10.00
-        title: V/A – Power Electronics Against Communism II CD
-        description: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
-        url: https://www.bitchute.com/video/1P56GmYGnaZi/
-      - labelMeta: VWD 03
-        price: $10.00
-        title: V/A – Power Electronics Against Communism II CD
-        description: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
-        url: https://www.bitchute.com/video/1P56GmYGnaZi/
-      - labelMeta: VWD 04
-        price: $10.00
-        title: V/A – Power Electronics Against Communism II CD
-        description: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
-        url: https://www.bitchute.com/video/1P56GmYGnaZi/
+  - body: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
   - title: "Available VINLANDIC WERWOLF 2 releases"
-    purchaseItems:
-      - labelMeta: VWD 05
-        price: $10.00
-        title: V/A – Power Electronics Against Communism II CD
-        description: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
-        url: https://www.bitchute.com/video/1P56GmYGnaZi/
+  - body: "(Compilation of politically incorrect Power Electronics projects. Contributions from: Genocide Lolita, Plantation, Streicher, Straight Arm Salute, Blood Soil, and more…)"
 ---
