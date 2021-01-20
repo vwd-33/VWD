@@ -7,6 +7,7 @@ description2:
   emailText: ALL orders by Email to
   email: vinlandicwerwolf@hotmail.com
   descriptionList:
+    - text: You can also use this website's contact form to place an order!
     - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
         THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING. **"
     - text: All orders ship from the United States. All prices are in USD.
