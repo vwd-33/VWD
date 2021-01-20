@@ -78,6 +78,9 @@ export default () => (
             node {
               excerpt(pruneLength: 400)
               id
+              fields {
+                slug
+              }
               frontmatter {
                 title
                 templateKey
@@ -99,9 +102,3 @@ export default () => (
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
-
-/* Had:
-              fields {
-                slug
-              }
-              after id above */
