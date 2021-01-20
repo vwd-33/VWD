@@ -32,6 +32,8 @@ description2:
         something is wrong with your order please send an email and we will be
         very open to reaching a compromise that is fair & honest for both
         parties!
+    - text: "                                                                Last
+        Distro Update: January 20, 2020"
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
