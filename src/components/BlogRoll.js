@@ -24,9 +24,7 @@ class BlogRoll extends React.Component {
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${
-                            post.title
-                          }`,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
                     </div>
@@ -44,7 +42,7 @@ class BlogRoll extends React.Component {
                     </span>
                   </p>
                 </header>
-                <p className="blogPost__excerpt">
+                <p>
                   {post.excerpt}
                   <br />
                   <br />
@@ -80,9 +78,6 @@ export default () => (
             node {
               excerpt(pruneLength: 400)
               id
-              fields {
-                slug
-              }
               frontmatter {
                 title
                 templateKey
@@ -104,3 +99,9 @@ export default () => (
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
+
+/* Had:
+              fields {
+                slug
+              }
+              after id above */

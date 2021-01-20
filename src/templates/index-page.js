@@ -10,6 +10,7 @@ export const IndexPageTemplate = ({ image, title, content, contentComponent }) =
   return (
     <div>
       <img
+        alt="Top part of page"
         className="top-image"
         src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
       />

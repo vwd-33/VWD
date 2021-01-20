@@ -11,6 +11,7 @@ export const ProductPageTemplate = ({
 }) => (
   <div className="content">
     <img
+      alt="top product"
       className="top-image"
       src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
     />
@@ -33,7 +34,7 @@ export const ProductPageTemplate = ({
         return(
         <div>
           <h3 className="distro__labelTitle">{labelSection.title}:</h3>
-          {labelSection.purchaseItems.map(itemData => {
+          {labelSection.purchaseItems?.map(itemData => {
             return(
               <div className="distro__item">
                 <span className="distro__itemMeta">{itemData.labelMeta}: </span>
