@@ -13,6 +13,7 @@ const Navbar = class extends React.Component {
   }
   componentDidMount () {
       const m=document.createElement("script");
+      m.setAttribute("id", "mcjs")
       const p=document.getElementsByTagName("script")[0];
       m.async=1;
       m.src="https://chimpstatic.com/mcjs-connected/js/users/2f28a1660890d2f972dc09983/3c244bee894f7f5b8afa108f6.js";
