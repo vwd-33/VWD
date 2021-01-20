@@ -8,6 +8,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <img
+          alt="blog-img-top"
           className="top-image"
           src={'/img/blog-index.jpg'}
         />

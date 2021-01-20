@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/thumbnail.png'
+/* eslint-disable */
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -10,6 +10,13 @@ const Navbar = class extends React.Component {
       active: false,
       navBarActiveClass: '',
     }
+  }
+  componentDidMount () {
+      const m=document.createElement("script");
+      const p=document.getElementsByTagName("script")[0];
+      m.async=1;
+      m.src="https://chimpstatic.com/mcjs-connected/js/users/2f28a1660890d2f972dc09983/3c244bee894f7f5b8afa108f6.js";
+      p.parentNode.insertBefore(m,p);
   }
 
   toggleHamburger = () => {
@@ -60,9 +67,9 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
+              {/* <Link className="navbar-item" to="/about">
                 About
-              </Link>
+              </Link> */}
               <Link className="navbar-item" to="/distro">
                 Distro
               </Link>
