@@ -34,16 +34,7 @@ export const ProductPageTemplate = ({
         return(
         <div>
           <h3 className="distro__labelTitle">{labelSection.title}:</h3>
-          {labelSection.purchaseItems?.map(itemData => {
-            return(
-              <div className="distro__item">
-                <span className="distro__itemMeta">{itemData.labelMeta}: </span>
-                <a href={itemData.url} className="distro__itemTitle">{itemData.title}:</a>
-                <span className="distro__itemPrice"> {itemData.price} </span> 
-                <span className="distro__itemDescription">{itemData.description}</span>
-              </div>
-            )
-          })}
+          <p className="distro__itemTitle">{labelSection.purchaseItems}</p>
         </div>
         )
       })}
@@ -110,13 +101,7 @@ export const productPageQuery = graphql`
         }
         labels {
           title
-          purchaseItems {
-            labelMeta
-            price
-            title
-            description
-            url
-          }
+          purchaseItems
         }
       }
     }
