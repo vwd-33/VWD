@@ -6,5 +6,7 @@ description: The new V.W.D. website is now live! This "blog" section  will be
   used periodically for updates on releases & distro stock.
 featuredpost: true
 featuredimage: /img/vwd-logo-censored-3-copy.png
+tags:
+  - new-web-site
 ---
 https://www.bitchute.com/channel/dmHt5oiZNNGO/
