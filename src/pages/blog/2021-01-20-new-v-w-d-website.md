@@ -10,4 +10,4 @@ tags:
   - VWD
   - website
 ---
-New releases & big update coming soon.
+New releases & a big distro update coming soon.
