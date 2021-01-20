@@ -34,7 +34,7 @@ const Footer = class extends React.Component {
                         Distro
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <a
                         className="navbar-item"
                         href="/admin/"
@@ -43,7 +43,7 @@ const Footer = class extends React.Component {
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
