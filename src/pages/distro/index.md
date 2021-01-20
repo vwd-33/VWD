@@ -1509,15 +1509,13 @@ labels:
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
   - title: PINS, PATCHES, ETC (photos coming soon | email for now)
     body: >-
-      
-
       ENDSIEG (usa) - logo METAL PIN: $8.00
 
 
       MOHAREBEH (usa) - logo METAL PIN: $8.00
 
 
-      \------------------------------------------------------------------------------------------------------
+      \---------------------------------------------------------------------------------------------------------------------
 
 
       ABSURD (ger) - Ulfhednir PATCH: $5.00
