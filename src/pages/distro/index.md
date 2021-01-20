@@ -2,7 +2,7 @@
 templateKey: product-page
 path: /distro
 title: Distro
-image: /img/jumbotron.jpg
+image: /img/slogan.jpeg
 description2:
   emailText: ALL orders by Email to
   email: vinlandicwerwolf@hotmail.com
