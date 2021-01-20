@@ -100,4 +100,29 @@ labels:
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
       DARK FURY (pol) - "Flooded Lands" TAPE: $8.00 (Doomsday Elite version!)
+  - title: CDs
+    body: >-
+      ABSURD (Ger) - "Blutgericht" CD: $13.00
+
+      ABSURD (Ger) - "Der fünfzehnjährige Krieg" CD: $15.00
+
+      ABSURD (Ger) - "Facta Loquuntur" CD: $13.00
+
+      ABSURD (Ger) - "Promo 11/2019 A.Y.P.S." DIGISLEEVE CD: $7.00
+
+      ABSURD (Ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
+
+      ABSURD / GRAND BELIAL'S KEY / SIGRBLOT (ger/usa/swe) - "Weltenfeind" split CD: $13.00
+  - title: TAPES
+    body: |-
+      ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
+      ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
+  - title: 12" / 10" VINYL
+    body: 'ABSURD (GER) - "Werwolfthron" 12" LP: $23.00'
+  - title: 7" VINYL
+    body: |-
+      ABSURD (ger) - "Thuringian Pagan Madness" 7" EP: $13.00
+      AKTION T4 (fra/swe) - "Der Ostfeldzug" 7" EP: $13.00
+  - title: T-SHIRTS
+    body: "WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00"
 ---
