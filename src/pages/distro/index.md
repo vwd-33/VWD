@@ -1454,8 +1454,6 @@ labels:
       WODULF (gre) - "Zerezat" 7" EP: $10.00
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
-      
-
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
 
 
@@ -1480,7 +1478,7 @@ labels:
       OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL): $18.00
 
 
-      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP: $18.00
+      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M, L): $18.00
 
 
       SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L): $18.00
@@ -1492,7 +1490,10 @@ labels:
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) split TSHIRT: $18.00
+      NOKTURNE / MALÉFICE (usa/fra) split TSHIRT (S, XL): $15.00
+
+
+      ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
 
 
       PLANTATION (usa) "Heraldry of Nations" TANK TOP (L only): $15.00
@@ -1509,7 +1510,8 @@ labels:
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
 
-      CORNELIU CODREANU tribute TSHIRT (S, M): $12.00WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
+
+      CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
   - title: PINS, PATCHES, ETC (photos coming soon | email for now)
     body: >-
       ENDSIEG (usa) - logo METAL PIN: $8.00
