@@ -156,8 +156,6 @@ labels:
       DARK FURY (pol) - "Flooded Lands" TAPE: $8.00 *(Doomsday Elite version!)*
   - title: CDs
     body: >-
-      
-
       ABSURD (Ger) - "Blutgericht" CD: $13.00
 
 
@@ -411,9 +409,6 @@ labels:
 
 
       FLAMEN (ita) - "Furor Lunae" DIGIPACK CD: $12.00
-
-
-      FOREST (Rus) - "Песнью В Жатве Горя" CD: $15.00
 
 
       FRANGAR (Ita) - "Trincerocrazia" CD: $13.00
