@@ -258,7 +258,7 @@ labels:
       BLOOD LIBEL (Can) - "Hate Propaganda Compendium" CD: $12.00
 
 
-      BLOOD LIBEL (Can) - "Museum of Gas and Mirrors" CD: $12.00
+      BLOOD LIBEL (Can) - "Museums of Gas and Mirrors" CD: $12.00
 
 
       BLUT UND EHRE (ger) - "Ygg Vidrir" CD: $14.00
