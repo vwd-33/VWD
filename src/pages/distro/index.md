@@ -136,8 +136,6 @@ labels:
       *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
   - title: Exclusive Distribution
     body: >-
-      
-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
 
 
@@ -150,10 +148,13 @@ labels:
       ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
 
 
+      DARK FURY (pol) - "Flooded Lands" TAPE: $8.00 *(Doomsday Elite version!)*
+
+
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
 
-      DARK FURY (pol) - "Flooded Lands" TAPE: $8.00 *(Doomsday Elite version!)*
+      DEFILE (usa) - "Poser Holocaust" TAPE: $7.00
   - title: CDs
     body: >-
       ABSURD (Ger) - "Blutgericht" CD: $13.00
