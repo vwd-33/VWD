@@ -1468,7 +1468,7 @@ labels:
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL): $20.00
 
 
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (S, L, XL): $20.00
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00
 
 
       OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL): $18.00
