@@ -346,7 +346,7 @@ labels:
       DER STÜRMER (gre) - "Carelian Pagan Madness" CD: $15.00
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $15.00
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $14.00
 
 
       DER STÜRMER / RAVENDARK'S MONARCHAL CANTICLE (gre/bra) - split CD: $15.00
