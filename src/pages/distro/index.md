@@ -880,8 +880,6 @@ labels:
       V/A - "Svensk Arisk Black Metal" CD: $10.00
   - title: TAPES
     body: >-
-      
-
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
 
 
@@ -889,9 +887,6 @@ labels:
 
 
       ACHERONTAS (Gre) - "Tat Tvam Asi" TAPE: $6.00
-
-
-      AKASHAH (US) - "The Dance of Beltaine Fire" TAPE: $6.00
 
 
       ANTICHRIST (Can) - "Sacrament of Blood" TAPE: $10.00
