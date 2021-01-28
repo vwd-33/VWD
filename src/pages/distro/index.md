@@ -25,7 +25,7 @@ description2:
         “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for
         potential wholesale orders / trades, but keep in mind that they cannot
         be guaranteed due to limited quantities!"
-    - text: "- Please allow up to 2 weeks for your order to ship. Patience is a
+    - text: "- Please allow up to 14 days for your order to ship. Patience is a
         virtue!"
     - text: We are NOT responsible for lost or damaged packages. All orders are
         carefully packed and once it's handed off to the post office it becomes
