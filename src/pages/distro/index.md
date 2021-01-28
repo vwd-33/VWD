@@ -790,9 +790,6 @@ labels:
       TOTENBURG (Ger) - "Art und Kampf" CD: $13.00
 
 
-      TOTENBURG (Ger) - "Mit uns das Blut, der Tod mit euch" CD: $15.00
-
-
       TOTENBURG (Ger) - "Pestpogrom" CD: $15.00
 
 
