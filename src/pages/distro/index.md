@@ -970,9 +970,6 @@ labels:
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TAPE: $8.00
 
 
-      EISENWINTER (swiss) - "Monumentales Scheitern" TAPE: $8.00
-
-
       EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
@@ -1219,8 +1216,6 @@ labels:
       XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
-      
-
       ABSURD (GER) - "Werwolfthron" 12" LP: $23.00
 
 
@@ -1273,9 +1268,6 @@ labels:
 
 
       DEVILRY (Fin) - "Treuelied" 12" LP: $28.00
-
-
-      EISENWINTER (swiss) - "Verkommen, entartet und verreckt" 12" LP: $28.00
 
 
       ETERNAL STRIFE (US) - "Vinlandic Hate Brigade" 12" LP: $20.00
