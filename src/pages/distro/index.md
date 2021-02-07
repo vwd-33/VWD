@@ -38,8 +38,6 @@ description2:
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
-      
-
       *VWD 02:* V/A – Power Electronics Against Communism II CD: $10.00 
 
 
@@ -98,9 +96,6 @@ labels:
 
 
       *VWD 41:* SVETOVID / VRILDOM (usa/arg) - split CD: $10.00
-
-
-      *VWD 42:* KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" TAPE: $8.00
 
 
       *VWD 43:* SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" TAPE: $8.50
@@ -1022,9 +1017,6 @@ labels:
 
 
       KRYPTEIA (Gre) - "Hellenic Martial Virtue" TAPE: $6.00
-
-
-      KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" TAPE: $8.00
 
 
       LONE WOLF INSURGENT (usa) - "Hunter" TAPE: $7.00
