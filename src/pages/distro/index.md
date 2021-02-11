@@ -902,9 +902,6 @@ labels:
       ASSASSINATION (Ger) - "Red Magick Faction" TAPE: $9.00
 
 
-      ASSASSINATION (ger) - "Seeds of the Master" TAPE: $10.00
-
-
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
 
 
