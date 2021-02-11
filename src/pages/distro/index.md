@@ -1340,9 +1340,6 @@ labels:
       VRILDOM (Arg) – “Terra Australis Ignota” 12″ LP: $25.00
 
 
-      WEHRHAMMER (Ger) - "Jahre der Wut" DOUBLE 12" LP: $33.00
-
-
       WEREWOLF BLOODORDER (Bra) - "Rites of Murder and Sacrifice" 12" LP: $23.00
 
 
