@@ -1244,9 +1244,6 @@ labels:
       DARK FURY (pol) - "Flooded Lands" 12" LP: $22.00
 
 
-      DARK FURY (pol) - "This Story Happened Before" 12" LP: $18.00
-
-
       DARK FURY (pol) - "Vae Victis!" 12" LP: $18.00
 
 
