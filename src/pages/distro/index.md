@@ -998,9 +998,6 @@ labels:
       HAMMERGOAT / SADISTIK GOATHAMMER (bra/chi) - "Ritual of Nekro Penetration" TAPE: $8.00
 
 
-      HOLOCAUST (Ger) - "The Call Of Thuringian Woods" TAPE: $8.00
-
-
       IRAE (por) - "Lurking in the Depths" TAPE: $9.00
 
 
