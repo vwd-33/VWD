@@ -1004,9 +1004,6 @@ labels:
       IRAE (por) - "The Maniac Perversion Of My Soul" TAPE: $9.00
 
 
-      JUDAS ISCARIOT (US) - "Heaven In Flames" TAPE: $6.00
-
-
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
 
 
