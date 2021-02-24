@@ -938,9 +938,6 @@ labels:
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
 
 
-      CRUCIFIER (usa) - "Thy Sulfur Throne On High" TAPE: $6.00
-
-
       DARK FURY (Pol) - "Semper Fidelis" TAPE: $6.00
 
 
