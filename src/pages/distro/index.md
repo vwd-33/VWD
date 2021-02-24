@@ -1205,9 +1205,6 @@ labels:
       ABSURD (Ger) - "Der Fünfzehnjährige Krieg" DOUBLE 12" LP: $38.00
 
 
-      ABSURD (Ger) - "Facta Loquuntur" 12" LP: $22.00
-
-
       ABSURD (Ger) - "Sonnenritter" 12" LP: $26.00
 
 
