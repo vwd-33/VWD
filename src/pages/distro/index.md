@@ -938,9 +938,6 @@ labels:
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
 
 
-      DARK FURY (Pol) - "Semper Fidelis" TAPE: $6.00
-
-
       DARKTHULE (Gre) - "Wolforder" TAPE: $8.00
 
 
@@ -1094,9 +1091,6 @@ labels:
       SEGES FINDERE (Bra) - "Live Warnoise" TAPE: $7.00
 
 
-      SEMPER FIDELIS / WEREWOLF (Pol) - split TAPE: $8.00
-
-
       SOMNOLENCE (US) - "As Midgard Weeps" TAPE: $6.00
 
 
@@ -1134,9 +1128,6 @@ labels:
 
 
       TODESSTRAFE (ita) - "Under The Sign Of The Storm" TAPE: $8.50
-
-
-      TOTENBURG (Ger) - "Endzeit" TAPE: $8.00
 
 
       TRIGGER (US) - "Trigger" TAPE: $8.00
