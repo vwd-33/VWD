@@ -1148,9 +1148,6 @@ labels:
       VELES (pol) - "Black Hateful Metal" TAPE: $10.00
 
 
-      VENEDAE (pol) - Siedem Kamiennych Oblicz TAPE: $8.00
-
-
       VERMINE (fra) - "Un Nouvel Ordre Noir - Ère de l'Intolérance" TAPE: $7.00
 
 
