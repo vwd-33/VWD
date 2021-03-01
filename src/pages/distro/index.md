@@ -620,7 +620,7 @@ labels:
       OVADER (Bul) - "Wotankult" CD: $10.00
 
 
-      PANTHEON (usa) - "Krihapentswor" CD: $13.00
+      PANTHEON (usa) - "Krihapentswor" CD: $15.00
 
 
       PANZERFAUST (Pol) - "I, Phallus God" CD: $10.00
