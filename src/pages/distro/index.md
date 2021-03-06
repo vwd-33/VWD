@@ -305,7 +305,7 @@ labels:
       DAEMONLUST (Fin) - "Death, The Heart of Satan" CD: $14.00
 
 
-      DARK FURY (Pol) - "On The Trail of a Victor" DOUBLE CD: $14.00
+      DARK FURY (Pol) - "On The Trail of a Victor" DOUBLE CD: $15.00
 
 
       DARK FURY (pol) - "Flooded Lands" CD: $10.00
@@ -359,7 +359,7 @@ labels:
       DROWNING THE LIGHT / VAMPYRIC BLOOD (Aus/Fin) - split CD: $15.00
 
 
-      DYSANGELIUM (Fin) - "Dysangelium" DOUBLE CD: $18.00
+      DYSANGELIUM (Fin) - "Dysangelium" DOUBLE CD: $17.00
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
