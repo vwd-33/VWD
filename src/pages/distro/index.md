@@ -725,7 +725,7 @@ labels:
       SPEAR OF LONGINUS (Aus) - "Nada Brahma" CD: $15.00
 
 
-      SPEAR OF LONGINUS (Aus) - "Nazi Occult Metal" CD: $15.00
+      SPEAR OF LONGINUS (Aus) - "N.O.M." CD: $15.00
 
 
       STELLA ARJA (rus) - “Borning Star by Myself” CD: $14.00
@@ -767,7 +767,7 @@ labels:
       THALLIUM (Bra) - "Armanenschaft" CD: $10.00
 
 
-      THE RAUNCHOUS BROTHERS (usa) - "Hail Metal....Destroy Faggotry!" CD: $13.00
+      THE RAUNCHOUS BROTHERS (usa) - "Hail Metal....Destroy F.!" CD: $13.00
 
 
       THE SHADOW ORDER / GROM (gre/usa) - "Sons of Zeus" CD: $15.00
