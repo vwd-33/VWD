@@ -791,9 +791,6 @@ labels:
       TWO RUNES (Fin) - "Herää Eurooppa!" CD: $14.00
 
 
-      TWO RUNES / NOKTURNE / MOHAREBEH / ARYANWÜLF / ORDER OF THE DEATH'S HEAD - "Ancient Order Eternal" CD: $10.88
-
-
       VAMPYRIC BLOOD (fin) - Watching the Nights Rot in Eternal Melancholy CD: $12.00
 
 
