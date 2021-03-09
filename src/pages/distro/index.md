@@ -1208,9 +1208,6 @@ labels:
       ASKE (fin) - "Goatfuck / Saatan Legio" 12" LP: $25.00
 
 
-      BOUND FOR GLORY (usa) - "Last Act of Defiance" PICTURE DISC 12" LP: $32.00
-
-
       BRAUNAU (ger) - "Braunau - Unsere Lösung Heißt Gewalt" 12" LP: $28.00
 
 
