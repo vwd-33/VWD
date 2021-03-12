@@ -1184,19 +1184,19 @@ labels:
       XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
-      ABSURD (GER) - "Werwolfthron" 12" LP: $23.00
+      ABSURD (ger) - "Werwolfthron" 12" LP: $23.00
 
 
-      ABSURD (Ger) - "Asgardsrei" 12" LP: $17.00   (suffers from some corner dings/bends)
+      ABSURD (ger) - "Asgardsrei" 12" LP: $17.00   (suffers from some corner dings/bends)
 
 
-      ABSURD (Ger) - "Der Fünfzehnjährige Krieg" DOUBLE 12" LP: $38.00
+      ABSURD (ger) - "Der Fünfzehnjährige Krieg" DOUBLE 12" LP: $38.00
 
 
-      ABSURD (Ger) - "Sonnenritter" 12" LP: $26.00
+      ABSURD (ger) - "Sonnenritter" 12" LP: $26.00
 
 
-      ABSURD / PANTHEON (Ger/US) - "Wolfskrieger / Galdur Vikodlaks" 12" LP: $26.00
+      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" 12" LP: $26.00
 
 
       ARGHOSLENT (usa) - "Arsenal of Glory" 12" LP: $28.00
@@ -1229,28 +1229,28 @@ labels:
       DEVILRY (Fin) - "Treuelied" 12" LP: $28.00
 
 
-      ETERNAL STRIFE (US) - "Vinlandic Hate Brigade" 12" LP: $20.00
+      ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" 12" LP: $20.00
 
 
-      ETERNAL STRIFE (US) - "When The World Comes Crumbling Down" 12" LP: $20.00
+      ETERNAL STRIFE (usa) - "When The World Comes Crumbling Down" 12" LP: $20.00
 
 
-      FLOODED CHURCH OF ASMODEUS (Fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" 12" LP: $20.00
+      FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" 12" LP: $20.00
 
 
-      FUNERAL (Fra) - "Black Flame Of Unholy Hate" 12" LP: $26.00
+      FUNERAL (fra) - "Black Flame Of Unholy Hate" 12" LP: $26.00
 
 
-      FYRDUNG (Swe) - "Hyperborea" 12" LP: $23.00
+      FYRDUNG (swe) - "Hyperborea" 12" LP: $23.00
 
 
-      GESTAPO 666 (Fra) - "Nostalgiah" 12" LP: $25.00
+      GESTAPO 666 (fra) - "Nostalgiah" 12" LP: $25.00
 
 
-      HAMMER (Fin) - "Rautasiipien Alla" 12" LP: $26.00
+      HAMMER (fin) - "Rautasiipien Alla" 12" LP: $26.00
 
 
-      IDOLATRY (Can) - "In Nomine Mortis" 12" LP: $18.00
+      IDOLATRY (can) - "In Nomine Mortis" 12" LP: $18.00
 
 
       IRAE (por) - "Satanic Secrets from the Mausoleum" 12" LP: $18.00
@@ -1259,7 +1259,7 @@ labels:
       JOTUNHEIM (swe) - "Jotunheim" 12" LP: $18.00
 
 
-      KOHORT (Pol) - "Megiddo Eve" 12" LP: $18.00
+      KOHORT (pol) - "Megiddo Eve" 12" LP: $18.00
 
 
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" 12" LP: $18.00
@@ -1268,13 +1268,13 @@ labels:
       KVASIR'S BLOOD (usa) - Triumph of The Will 12" LP: $25.00
 
 
-      LORD OF EVIL (Pol) - "Satan's Soldiers" 12" LP: $25.00
+      LORD OF EVIL (pol) - "Satan's Soldiers" 12" LP: $25.00
 
 
-      MOHAREBEH (US) - "We Are At War!!!" 12" LP: $20.00
+      MOHAREBEH (usa) - "We Are At War!!!" 12" LP: $20.00
 
 
-      ORDER OF THE DEATH'S HEAD (Fra) - "Rehearsal 2013" 12" LP: $26.00
+      ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" 12" LP: $26.00
 
 
       ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" 12" LP: $25.00
@@ -1286,16 +1286,16 @@ labels:
       PERMAFROST (ger) - "Porcus Christus" 12" LP: $18.00
 
 
-      SEIGNEUR VOLAND (Fra) - "Consumatum Est" 12" LP: $26.00
+      SEIGNEUR VOLAND (fra) - "Consumatum Est" 12" LP: $26.00
 
 
       SELBSTMORD (pol) - "Dawn of a New Era" 12" LP: $20.00
 
 
-      SONS OF SATAN (Swe) - "In Times of Fire" 12" LP: $26.00
+      SONS OF SATAN (swe) - "In Times of Fire" 12" LP: $26.00
 
 
-      SPEAR OF LONGINUS (Aus) - "Nothing is forever, and, forever is nothing" 12" LP: $20.00
+      SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" 12" LP: $20.00
 
 
       SVETOVID (US) - "Nature's Fury" 12" LP: $20.00
@@ -1304,13 +1304,13 @@ labels:
       THOR'S HAMMER (pol) - The Fate Worse Than Death 12" LP: $20.00
 
 
-      VRILDOM (Arg) - "Thus Spoke the Austral Wind…" 12" LP: $25.00
+      VRILDOM (arg) - "Thus Spoke the Austral Wind…" 12" LP: $25.00
 
 
-      VRILDOM (Arg) – “Terra Australis Ignota” 12″ LP: $25.00
+      VRILDOM (arg) – “Terra Australis Ignota” 12″ LP: $25.00
 
 
-      WEREWOLF BLOODORDER (Bra) - "Rites of Murder and Sacrifice" 12" LP: $23.00
+      WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" LP: $23.00
 
 
       WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" LP: $20.00
