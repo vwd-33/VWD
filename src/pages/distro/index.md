@@ -305,22 +305,25 @@ labels:
       DAEMONLUST (Fin) - "Death, The Heart of Satan" CD: $14.00
 
 
-      DARK FURY (Pol) - "On The Trail of a Victor" DOUBLE CD: $15.00
+      DARK FURY (pol) - "Flooded Lands" CD: $10.88
 
 
-      DARK FURY (pol) - "Flooded Lands" CD: $10.00
+      DARK FURY (pol) - "On The Trail of a Victor" DOUBLE CD: $15.00
 
 
-      DARK FURY (pol) - "Saligia" CD: $10.00
+      DARK FURY (pol) - "Saligia" CD: $10.88
 
 
-      DARK FURY (pol) - "Semper Fidelis" CD: $10.00
+      DARK FURY (pol) - "Semper Fidelis" CD: $10.88
 
 
-      DARK FURY (pol) - "W.A.R." CD: $10.00
+      DARK FURY (pol) - "This Story Happened Before" CD: $10.88
 
 
-      DARK FURY / POPRAVA (pol/czech) - "Furor Slavica" CD: $10.00
+      DARK FURY (pol) - "W.A.R." CD: $10.88
+
+
+      DARK FURY / POPRAVA (pol/czech) - "Furor Slavica" CD: $10.88
 
 
       DEAD KOMMUNIST (fin) - "Dead Kommunist" CD: $12.00
@@ -533,19 +536,19 @@ labels:
       KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $13.00
 
 
-      LASCOWIEC (usa) - " A Warcry Rises Above The Frozen Lands " CD: $10.00
+      LASCOWIEC (usa) - " A Warcry Rises Above The Frozen Lands " CD: $10.88
 
 
-      LASCOWIEC (usa) - "Frostwinds of the Apocalypse" CD: $10.00
+      LASCOWIEC (usa) - "Frostwinds of the Apocalypse" CD: $10.88
 
 
-      LASCOWIEC (usa) - "Isolation" CD: $10.00
+      LASCOWIEC (usa) - "Isolation" CD: $10.88
 
 
-      LASCOWIEC (usa) - "Survival" CD: $10.00
+      LASCOWIEC (usa) - "Survival" CD: $10.88
 
 
-      LASCOWIEC (usa) - "Winds of Victory" CD: $10.00
+      LASCOWIEC (usa) - "Winds of Victory" CD: $10.88
 
 
       LEGION (Pol) - "Lata Walk Ulicznych" CD: $10.00
@@ -746,10 +749,10 @@ labels:
       SVARTR STURM (can) - "En Route Vers Le Front" CD: $12.00
 
 
-      SVETOVID (usa) - "Nature's Fury" CD: $10.00
+      SVETOVID (usa) - "Nature's Fury" CD: $10.88
 
 
-      SVETOVID (usa) - "Valhallan Dreams" CD: $10.00
+      SVETOVID (usa) - "Valhallan Dreams" CD: $10.88
 
 
       SVETOVID (usa) - "Waiting For The End" DOUBLE CD: $15.00
@@ -1184,7 +1187,7 @@ labels:
       ABSURD (GER) - "Werwolfthron" 12" LP: $23.00
 
 
-      ABSURD (Ger) - "Asgardsrei" 12" LP: $17.00
+      ABSURD (Ger) - "Asgardsrei" 12" LP: $17.00   (suffers from some corner dings/bends)
 
 
       ABSURD (Ger) - "Der Fünfzehnjährige Krieg" DOUBLE 12" LP: $38.00
@@ -1214,7 +1217,7 @@ labels:
       DARK FURY (pol) - "Flooded Lands" 12" LP: $22.00
 
 
-      DARK FURY (pol) - "Vae Victis!" 12" LP: $18.00
+      DARK FURY (pol) - "Vae Victis!" 12" LP: $20.00
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" 12" LP: 26.00
@@ -1280,13 +1283,13 @@ labels:
       PANTHEON OF BLOOD (fin) - "Voices Rooted in Blood" 12" LP: $25.00
 
 
-      PERMAFROST (ger) - "Porcus Christus" 12" LP
+      PERMAFROST (ger) - "Porcus Christus" 12" LP: $18.00
 
 
       SEIGNEUR VOLAND (Fra) - "Consumatum Est" 12" LP: $26.00
 
 
-      SELBSTMORD (pol) - "Dawn of a New Era" 12" LP: $18.00
+      SELBSTMORD (pol) - "Dawn of a New Era" 12" LP: $20.00
 
 
       SONS OF SATAN (Swe) - "In Times of Fire" 12" LP: $26.00
