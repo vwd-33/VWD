@@ -677,9 +677,6 @@ labels:
       SAMMAS EQUINOX - "Tulikehrät" DIGIPACK CD: $14.00
 
 
-      SANGUINE RELIC (usa) - "Bitter Reflection In Luminous Shadows" DIGIPACK CD: $15.00
-
-
       SEGES FINDER (Bra) - "Mortal Grinder" CD: $10.00
 
 
