@@ -1390,6 +1390,10 @@ labels:
       WODULF (gre) - "Zerezat" 7" EP: $10.00
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
+      INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE: {$26.00 for S-XL
+      | $28.00 for XXL and above}   (pre-order until April 20th)
+
+
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
 
 
@@ -1449,33 +1453,20 @@ labels:
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
   - title: PINS, PATCHES, ETC (photos coming soon | email for now)
-    body: >-
+    body: |-
       ENDSIEG (usa) - logo METAL PIN: $8.00
-
-
-      ![]()
-
 
       MOHAREBEH (usa) - logo METAL PIN: $8.00
 
 
-      ![]()
-
-
-      \---------------------------------------------------------------------------------------------------------------------
-
 
       MOHAREBEH (usa) - logo PATCH (black or white): $6.00
 
-
       NOKTURNE (usa) - Sigil Mord PATCH: $6.00
-
 
       NOKTURNE (usa) - Totenkopf Banner PATCH: $6.00
 
-
       ORDER OF THE DEATH'S HEAD (fra) - Jewicide PATCH (black or white): $6.00
-
 
       THE RAUNCHOUS BROTHERS (usa) - PATCH: $6.00
 ---
