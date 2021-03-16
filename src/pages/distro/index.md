@@ -1093,12 +1093,6 @@ labels:
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
 
 
-      COSMIC BREATH (usa) - "Becoming the Shadows"  TAPE: $8.00
-
-
-      COSMIC BREATH (usa) - "Five Pointed Snow Mounds" TAPE: $8.00
-
-
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
 
 
@@ -1276,9 +1270,6 @@ labels:
       PANZERJAGER (usa) - "The Will to Survive" TAPE: $8.00
 
 
-      RAVEN DARK (rus) - "Рождением Смерть Предвкушая / Foretasting The Death By Birth" TAPE: $10.00
-
-
       RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
 
 
@@ -1342,16 +1333,10 @@ labels:
       SUNCHARIOT / WANGELEN (US/Chile) - "Lunar Misanthropy" TAPE: $7.00
 
 
-      SUNWHEEL (pol) - "Prophecies of Aryan Moon" TAPE: $8.00
-
-
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
       SURT (US) - "Yggdrasil" TAPE: $8.00
-
-
-      SWERDTHEGAN (usa) - "Rally Around the Banner of Our Blood" TAPE: $8.00
 
 
       SWERDTHEGAN / SACRIFICIAL MASSACRE (usa) - "Our Glory Is Our Ancient Blood" TAPE: $8.00
