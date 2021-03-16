@@ -1018,9 +1018,6 @@ labels:
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
 
 
-      ABYSSIC HATE (aus) - "Eternal Damnation / Betrayed" TAPE: $10.00
-
-
       ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
@@ -1153,19 +1150,10 @@ labels:
       HAMMERGOAT / SADISTIK GOATHAMMER (bra/chi) - "Ritual of Nekro Penetration" TAPE: $8.00
 
 
-      HATE FOREST (ukr) - "Battlefields" TAPE: $8.00
-
-
       IRAE (por) - "Lurking in the Depths" TAPE: $9.00
 
 
       IRAE (por) - "The Maniac Perversion Of My Soul" TAPE: $9.00
-
-
-      KAEVUM (nor) - "Natur" TAPE: $8.50
-
-
-      KATAXU (pol) - "Hunger of Elements" TAPE: $8.00
 
 
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
