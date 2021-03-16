@@ -928,12 +928,6 @@ labels:
       THUNDERBOLT (pol) - "The Sons of the Darkness" CD: $13.00
 
 
-      TOTALE VERNICHTUNG (austria) - "Feuerbesttaung" CD: $14.00
-
-
-      TOTALE VERNICHTUNG (austria) - "Ritualmordlegenden" CD: $14.00
-
-
       TOTENBURG (ger) - "Art und Kampf" CD: $13.00
 
 
