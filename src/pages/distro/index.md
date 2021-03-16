@@ -1423,10 +1423,10 @@ labels:
       WITCHCRAFT (Fin) - "Diablerie" TAPE: $8.00
 
 
-      WITHSWORD (usa) - "Withsword" TAPE: $8.00
+      WITCHSWORD (usa) - "Withsword" TAPE: $8.00
 
 
-      WITHSWORD / FELLWINTER (usa) - split TAPE: $8.00
+      WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
 
 
       WODULF (gre) - "Zerezat" TAPE: $8.00
