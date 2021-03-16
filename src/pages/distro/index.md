@@ -850,9 +850,6 @@ labels:
       SEVERE STORM (pol) - "The Awakening" DIGIPACK CD: $10.00
 
 
-      SIEG ODER TOD (Ger) - "Die Hoffnung Stirbt Zuletzt" CD: $15.00
-
-
       SIGEFOLC / HADAK URA / HEIDENTOR / WOLVES EYES / PANZERJAGER - split DIGIPACK CD: $10.00
 
 
