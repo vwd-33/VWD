@@ -718,9 +718,6 @@ labels:
       NORDVREDE (Nor) - "State of the Art" CD: $12.00
 
 
-      NORDVREDE (nor) "Confrontation" CD: $12.00
-
-
       NORRHEM (Fin) - "Voima ja Kunnia" CD: $15.00
 
 
