@@ -1478,9 +1478,6 @@ labels:
       ARYAN KAMPF 88 (bul) - "Belgian Steel" 12" LP: $30.00
 
 
-      ARYAN KAMPF 88 (bul) - "Dernière Salve" 12" LP: $30.00
-
-
       ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" 12" LP: $30.00
 
 
@@ -1728,7 +1725,7 @@ labels:
       PANTHEON (usa) - "Thangorodrim" 7" EP: $10.50
 
 
-      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $12.00
+      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $13.00
 
 
       SS1488 (austria) - "The Jew Hammer" 7" EP: $12.00
