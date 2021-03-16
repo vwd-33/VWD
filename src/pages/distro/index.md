@@ -1719,9 +1719,6 @@ labels:
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $13.00
 
 
-      SS1488 (austria) - "The Jew Hammer" 7" EP: $12.00
-
-
       STRAIGHT ARM SALUTE / VERI & MAA (fin) - split 7" EP: $10.00
 
 
