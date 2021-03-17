@@ -580,16 +580,13 @@ labels:
       IRAE (por) - "Lurking in the Depths" DIGIPACK CD: $14.00
 
 
-      IRREVERENT (US) - "Blasphemous Crucifix Profanation" CD: $12.00
+      IRREVERENT (usa) - "Blasphemous Crucifix Profanation" CD: $12.00
 
 
-      JUDAS ISCARIOT (US) - "Dethroned, Conquered and Forgotten" CD: $10.00
+      JUDAS ISCARIOT (usa) - "Dethroned, Conquered and Forgotten" CD: $10.00
 
 
-      JUDAS ISCARIOT (US) - "Heaven In Flames" CD: $10.00
-
-
-      JUDAS ISCARIOT (US) - "To Embrace the Corpses Bleeding" CD: $10.00
+      JUDAS ISCARIOT (usa) - "Heaven In Flames" CD: $10.00
 
 
       KOENIGSGRAB (rus) - "KoenigsGrab" CD: $10.00
