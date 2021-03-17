@@ -742,9 +742,6 @@ labels:
       PAGAN SKULL (fin) - "White Genocide" CD: $12.00
 
 
-      PANTHEON (usa) - "Krihapentswor" CD: $15.00
-
-
       PANZERFAUST (Pol) - "I, Phallus God" CD: $10.00
 
 
