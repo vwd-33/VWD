@@ -1508,9 +1508,6 @@ labels:
       KOHORT (pol) - "Megiddo Eve" 12" LP: $18.00
 
 
-      KOMMANDEMENT (bel) - "732 Anno Domini" 12" LP: $30.00
-
-
       KOMMANDEMENT (bel) - "Bientôt Le Renouveau" 12" LP: $30.00
 
 
