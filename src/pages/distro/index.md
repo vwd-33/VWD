@@ -979,9 +979,6 @@ labels:
       WOLFENBURG (pol) - “Imperium Wilkow” CD: $12.00
 
 
-      WOLFNACHT (gre) - "Dawn of Heathens / Zeit der Cherusker" DIGIPACK CD: $15.00
-
-
       WOLFNACHT (gre) - "Project Ordensburg" CD: $14.00
 
 
