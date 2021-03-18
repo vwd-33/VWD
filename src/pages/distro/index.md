@@ -986,9 +986,6 @@ labels:
 
 
       V/A - "Svensk Arisk Black Metal" CD: $10.00
-
-
-      V/A - "Veriyhteys 1" CD (featuring Vapaudenristi, Genocide Wolves, Pagan Skull & more): $13.00
   - title: TAPES
     body: >-
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
@@ -1124,9 +1121,6 @@ labels:
 
 
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
-
-
-      KRSNA SS - "Aryanoise Rehearsal" TAPE: $10.00
 
 
       KRYPTEIA (gre) - "Hellenic Martial Virtue" TAPE: $10.00
