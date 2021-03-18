@@ -191,9 +191,6 @@ labels:
       ABSURD (Ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
 
 
-      ABSURD / GRAND BELIAL'S KEY / SIGRBLOT (ger/usa/swe) - "Weltenfeind" split CD: $13.00
-
-
       ADORIA / FEUERNACHT / STAHLFRONT (ger) - "Wehrwolf Jugend" CD: $15.00
 
 
@@ -713,9 +710,6 @@ labels:
 
 
       NORDVREDE (Nor) - "State of the Art" CD: $12.00
-
-
-      NORRHEM (Fin) - "Voima ja Kunnia" CD: $15.00
 
 
       NOXIA (ger) - "The Age of Wisdom" DIGIPACK CD: $10.00
