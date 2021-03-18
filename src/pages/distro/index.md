@@ -1096,9 +1096,6 @@ labels:
       E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
 
 
-      EISENWINTER (swiss) - "Antreten zum verrecken" TAPE: $10.00
-
-
       EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
@@ -1280,9 +1277,6 @@ labels:
 
 
       SPEAR OF LONGINUS (aus) - "TYONS" TAPE: $8.50
-
-
-      STRAIGHT ARM SALUTE (fin) - "The New Rise of NS" TAPE: $8.00
 
 
       STWORZ (Pol) - Po Czasu Kres tape: $6.00
