@@ -44,9 +44,6 @@ labels:
       *VWD 09:* BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.88
 
 
-      *VWD 15:* BILSKIRNIR (ger) - "In Solitary Silence" TAPE: $8.00
-
-
       *VWD 16:* WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
 
 
@@ -997,9 +994,6 @@ labels:
       V/A - "Veriyhteys 1" CD (featuring Vapaudenristi, Genocide Wolves, Pagan Skull & more): $13.00
   - title: TAPES
     body: >-
-      ABSURD (ger) - "Werwolfthron" TAPE: $10.00
-
-
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
 
 
@@ -1043,9 +1037,6 @@ labels:
 
 
       BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
-
-
-      BILSKIRNIR (ger) - "In Solitary Silence" TAPE: $8.00
 
 
       BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
