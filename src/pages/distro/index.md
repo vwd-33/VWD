@@ -113,9 +113,6 @@ labels:
       *VWD 46:* RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
 
 
-      *VWD 47:* DER STÜRMER / EVIL (gre/bra) - "Unica Fede - Unica Volonta (Live at Hot Shower)" Pro CS: $8.50
-
-
       *VWD 49:* BLUTKULT / CELTIC DANCE (ger/por) "We are the roar of thunder" TAPE: $8.00
 
 
@@ -1076,9 +1073,6 @@ labels:
 
 
       DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
-
-
-      DER STÜRMER / EVIL (gre/bra) - "Unica Fede - Unica Volonta (Live at Hot Shower)" Pro CS: $8.50
 
 
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TAPE: $8.00
