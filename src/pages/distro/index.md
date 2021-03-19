@@ -1174,9 +1174,6 @@ labels:
       NECROSLEEZER (can) - "Pope Kill" TAPE: $7.00
 
 
-      NEKROKRIST SS (fin) - "Hymns Of Despair And Death" TAPE: $8.50
-
-
       NEKROKRIST SS (fin) - "Nekrokrist SS" TAPE: $8.50
 
 
@@ -1560,9 +1557,6 @@ labels:
 
 
       WOODTEMPLE (pol) - "Forgotten Pride" 12" LP: $18.00
-
-
-      XENOPHOBIC EJACULATION / REEK OF THE UNZEN GAS FUMES (Fin/Jap) - "Waffenbruderschaft/Aseveljeys / 毒" PICTURE DISC 12" LP: $38.00
   - title: 7" VINYL
     body: >-
       ABSURD (ger) - "Thuringian Pagan Madness" 7" EP (different cover art):
