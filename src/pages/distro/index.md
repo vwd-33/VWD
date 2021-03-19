@@ -1645,9 +1645,6 @@ labels:
 
 
       STRAIGHT ARM SALUTE / VERI & MAA (fin) - split 7" EP: $10.00
-
-
-      WODULF (gre) - "Zerezat" 7" EP: $10.00
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
       INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE: {$26.00 for S-XL
