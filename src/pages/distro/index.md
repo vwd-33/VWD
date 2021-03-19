@@ -1421,9 +1421,6 @@ labels:
       DER STÜRMER / WODULF (gre) - "Pavlistarvm Terra Mater Live" 12" LP: $28.00
 
 
-      DEVILRY (Fin) - "Stormbolt" 10" MLP: $18.00
-
-
       DEVILRY (Fin) - "Treuelied" 12" LP: $28.00
 
 
