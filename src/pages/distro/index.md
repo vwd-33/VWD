@@ -59,9 +59,6 @@ labels:
       *VWD 24:* SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
-      *VWD 25:* FORLORN WINDS (usa) - "HEL" 7" EP: $10.50
-
-
       *VWD 26:* WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.50
 
 
@@ -1594,9 +1591,6 @@ labels:
 
 
       EVIL / WALSUNG (bra) - split 7" EP: $13.00
-
-
-      FORLORN WINDS (usa) - "HEL" 7" EP: $10.50
 
 
       GRAFVOLLUTH / Slavecrushing Tyrant (US/Pol) - split 7" EP: $8.00
