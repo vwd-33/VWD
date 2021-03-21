@@ -1690,7 +1690,7 @@ labels:
       WOLFNACHT (gre) - "Blut und Boden" TSHIRT (M only): $23.00
 
 
-      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXL, XXXL): $15.00
+      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $15.00
 
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
