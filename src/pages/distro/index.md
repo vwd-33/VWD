@@ -1463,9 +1463,6 @@ labels:
       KOHORT (pol) - "Megiddo Eve" 12" LP: $18.00
 
 
-      KOMMANDEMENT (bel) - "Bientôt Le Renouveau" 12" LP: $30.00
-
-
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" 12" LP: $18.00
 
 
