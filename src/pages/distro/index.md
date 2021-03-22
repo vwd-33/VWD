@@ -1285,9 +1285,6 @@ labels:
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" TAPE: $8.00
 
 
-      THUNDERBOLT (pol) - "The Sons of the Darkness" TAPE: $8.00
-
-
       TODESSTRAFE (ita) - "Under The Sign Of The Storm" TAPE: $8.50
 
 
