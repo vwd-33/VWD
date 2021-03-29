@@ -841,9 +841,6 @@ labels:
       STOSSTRUPP (gre) - “Wir Kommen/Rehearsal 110”  CD: $12.00
 
 
-      STRAIGHT ARM SALUTE (fin) - "The New Rise Of NS" CD: $13.00
-
-
       STRIKE FORCE - "Blood And Iron - A Collection Of Strength" CDR BOX: $10.00
 
 
