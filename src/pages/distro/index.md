@@ -1624,7 +1624,7 @@ labels:
       DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (L, XL): $20.00
 
 
-      DREADFUL RELIC (gre) - TSHIRT (S, XXL): $20.00
+      DREADFUL RELIC (gre) - TSHIRT (S only): $20.00
 
 
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
