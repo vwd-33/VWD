@@ -1090,9 +1090,6 @@ labels:
       FÖRGJORD (fin) - "Uhripuu" TAPE: $8.00
 
 
-      GOATBLOOD (aus) - "Hate Divison" TAPE: $8.00
-
-
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
