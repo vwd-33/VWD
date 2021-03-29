@@ -65,9 +65,6 @@ labels:
       *VWD 27:* BLUTKULT / MALÉFICE (ger/fra) - "Der Geist der Vergangenheit" TAPE: $8.00
 
 
-      *VWD 28:* PANTHEON (usa) - "Thangorodrim" 7" EP
-
-
       *VWD 29:* AYYADIEH (usa) - "Oath of Allegiance" CD: $10.00
 
 
@@ -333,9 +330,6 @@ labels:
 
 
       CELTIC DANCE (Por) - "Regressus Ad Uterum" DIGIPACK CD: $10.00
-
-
-      COLD NORTHERN VENGEANCE (US) - "Maelstrom" CD: $10.00
 
 
       CROSS OF IRON (pol) - "In The Steelstorms" CD: $8.00
@@ -1385,9 +1379,6 @@ labels:
       ARGHOSLENT (usa) - "Unconquered Soldiery" 12" LP: $22.00
 
 
-      ARYAN KAMPF 88 (bul) - "Belgian Steel" 12" LP: $30.00
-
-
       ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" 12" LP: $30.00
 
 
@@ -1615,9 +1606,6 @@ labels:
 
 
       NOKTURNE / MALÉFICE - split 7" EP: $9.00
-
-
-      PANTHEON (usa) - "Thangorodrim" 7" EP: $10.50
 
 
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $13.00
