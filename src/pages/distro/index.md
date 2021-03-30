@@ -140,7 +140,7 @@ labels:
       *VWD 62:* DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
 
 
-      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.88
+      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.00
   - title: Exclusive Distribution
     body: >-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
