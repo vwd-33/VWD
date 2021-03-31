@@ -344,7 +344,7 @@ labels:
       DARK FURY (pol) - "Flooded Lands" CD: $10.88
 
 
-      DARK FURY (pol) - "On The Trail of a Victor" DOUBLE CD: $15.00
+      DARK FURY (pol) - "On The Trail of a Victor" 2CD: $15.00
 
 
       DARK FURY (pol) - "Saligia" CD: $10.88
@@ -395,7 +395,7 @@ labels:
       DREADMOON (usa) - "Dreadmoon" CD: $10.00
 
 
-      DYSANGELIUM (Fin) - "Dysangelium" DOUBLE CD: $17.00
+      DYSANGELIUM (Fin) - "Dysangelium" 2CD: $17.00
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
@@ -715,7 +715,7 @@ labels:
       OVADER (Bul) - "Wotankult" CD: $10.00
 
 
-      PAGAN HELLFIRE (can) - "Chant of Forgotten Times" DOUBLE CD: $16.00
+      PAGAN HELLFIRE (can) - "Chant of Forgotten Times" 2CD: $16.00
 
 
       PAGAN SKULL (fin) - "White Genocide" CD: $12.00
@@ -865,7 +865,7 @@ labels:
       SVETOVID (usa) - "Valhallan Dreams" CD: $10.88
 
 
-      SVETOVID (usa) - "Waiting For The End" DOUBLE CD: $15.00
+      SVETOVID (usa) - "Waiting For The End" 2CD: $15.00
 
 
       SVETOVID / VRILDOM (usa/arg) - split CD: $10.00
