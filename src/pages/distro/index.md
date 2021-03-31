@@ -1388,7 +1388,7 @@ labels:
       DARK FURY (pol) - "Vae Victis!" 12" LP: $20.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" 12" LP: $22.00  (has very minor corner dings + ring wear)
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" 12" LP: $22.00  (has minor corner dings + ring wear)
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" 12" LP: $26.00
