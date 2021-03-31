@@ -1349,9 +1349,6 @@ labels:
       dings/bends)
 
 
-      ABSURD (ger) - "Der Fünfzehnjährige Krieg" DOUBLE 12" LP: $38.00
-
-
       ABSURD (ger) - "Sonnenritter" 12" LP: $26.00
 
 
