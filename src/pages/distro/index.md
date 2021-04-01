@@ -499,9 +499,6 @@ labels:
       GRAND BELIAL'S KEY (usa) - “Mocking the Philanthropist” CD: $13.00
 
 
-      GRAVELAND (pol) - "In the Glare of Burning Churches" SLIPCASE CD: $10.00
-
-
       GRAVELAND (pol) - "Pamięć i przeznaczenie" CD: $10.00
 
 
