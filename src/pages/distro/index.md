@@ -215,9 +215,6 @@ labels:
       ARYAN BLOOD (Ger) - "Eternal Strife" MCD: $10.00
 
 
-      ARYAN HAMMER (fin) - "Einsatzkommando Finnland" CD: $10.00
-
-
       ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
 
 
