@@ -1657,7 +1657,7 @@ labels:
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
 
 
-      BEHOLD BARBARITY "D.J.S.U.U" TSHIRT (L, XL): $20.00
+      BEHOLD BARBARITY "D.J.S.U.U" TSHIRT (L only): $20.00
 
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
