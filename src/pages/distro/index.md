@@ -1606,7 +1606,7 @@ labels:
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL): $20.00
 
 
-      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (L, XL): $20.00
+      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (XL only): $20.00
 
 
       DREADFUL RELIC (gre) - TSHIRT (S only): $20.00
