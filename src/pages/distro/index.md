@@ -475,9 +475,6 @@ labels:
       GESTAPO 666 (fra) - "Black Gestapo Metal" CD: $13.00
 
 
-      GESTAPO 666 (fra) - "Satanic Shariah" CD: $14.00
-
-
       GOATPENIS (Bra) - "Biochemterrorism" CD: $12.00
 
 
