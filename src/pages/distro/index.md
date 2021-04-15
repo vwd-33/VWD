@@ -916,9 +916,6 @@ labels:
       WEHRHAMMER (ger) – “Das Ende Naht” CD: $10.00
 
 
-      WEHRHAMMER (ger) - “Jahre der Wut” 4CD BOX: $35.00
-
-
       WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $14.00
 
 
