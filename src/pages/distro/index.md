@@ -1636,7 +1636,7 @@ labels:
       TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M, L): $18.00
 
 
-      WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $15.00
+      WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
 
 
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL): $20.00
