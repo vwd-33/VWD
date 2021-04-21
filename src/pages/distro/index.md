@@ -1588,7 +1588,7 @@ labels:
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
       INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE: {$26.00 for S-XL
-      | $28.00 for XXL and above}   (pre-order until April 20th)
+      | $28.00 for XXL and above}   (pre-order until May 1st!!!)
 
 
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $18.00
