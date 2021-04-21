@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: INTOLITARIAN - "Hate Legion Disciple" LONG SLEEVE pre-orders **EXTENDED!**
+title: '**EXTENDED!** INTOLITARIAN - "Hate Legion Disciple" LONG SLEEVE pre-orders'
 date: 2021-03-13T20:13:25.547Z
 description: >-
   !!! PRE-ORDER HAS BEEN EXTENDED UNTIL MAY 1ST !!!
