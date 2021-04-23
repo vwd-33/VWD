@@ -667,13 +667,7 @@ labels:
       NOCTIFER (ita) - "454 - Anno Bastardi Domini" CD: $10.00
 
 
-      NOKTURNE (usa) - "Embracer of Dark Ages" CD: $10.00
-
-
       NOKTURNE (usa) - "Kruelty Kampaign" CD: $10.00
-
-
-      NOKTURNE (usa) - "Terror Resurgence" CD: $10.00
 
 
       NOKTURNE / TODESWEIHE (US/Ger) – “Blitzkrieg Death Invocations” CD: $10.00
