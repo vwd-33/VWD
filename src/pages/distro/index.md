@@ -1585,7 +1585,7 @@ labels:
       | $28.00 for XXL and above}   (pre-order until May 1st!!!)
 
 
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $18.00
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $20.00
 
 
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL: M, L, XL / GREEN: M, L, XL): $20.00
@@ -1618,7 +1618,7 @@ labels:
       PLANTATION (usa) "Heraldry of Nations" TANK TOP (L only): $15.00
 
 
-      SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L): $20.00
+      SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L): $18.00
 
 
       SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L): $18.00
