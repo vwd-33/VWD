@@ -1594,7 +1594,7 @@ labels:
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL): $20.00
 
 
-      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (XL only): $20.00
+      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S, XXL): $18.00
 
 
       DREADFUL RELIC (gre) - TSHIRT (S only): $20.00
@@ -1639,7 +1639,7 @@ labels:
       WOLFNACHT (gre) - "Blut und Boden" TSHIRT (M only): $23.00
 
 
-      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $15.00
+      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $18.00
 
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
