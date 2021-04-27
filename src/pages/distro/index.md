@@ -332,10 +332,10 @@ labels:
       CROSS OF IRON (pol) - "In The Steelstorms" CD: $8.00
 
 
-      CRUX DISSIMULATA (Fra) - "Bleichmond" CD: $10.00
+      CRUX DISSIMULATA (fra) - "Bleichmond" CD: $10.00
 
 
-      DAEMONLUST (Fin) - "Death, The Heart of Satan" CD: $14.00
+      DAEMONLUST (fin) - "Death, The Heart of Satan" CD: $14.00
 
 
       DARK FURY (pol) - "Flooded Lands" CD: $10.88
@@ -362,7 +362,7 @@ labels:
       DEAD KOMMUNIST (fin) - "Dead Kommunist" CD: $12.00
 
 
-      DEATH WORSHIP (Can) - "Extermination Mass" CD: $10.00
+      DEATH WORSHIP (can) - "Extermination Mass" CD: $10.00
 
 
       DEEP DESOLATION (pol) - "Boski Jad" CD: $10.00
@@ -383,7 +383,7 @@ labels:
       DER STÜRMER / RAVENDARK'S MONARCHAL CANTICLE (gre/bra) - split CD: $15.00
 
 
-      DIVISION S (Swe) - "Attack" CD: $14.00
+      DIVISION S (swe) - "Attack" CD: $14.00
 
 
       DREADFUL RELIC (gre) - "Hyborian Sorcery" CD: $10.00
@@ -392,13 +392,13 @@ labels:
       DREADMOON (usa) - "Dreadmoon" CD: $10.00
 
 
-      DYSANGELIUM (Fin) - "Dysangelium" 2CD: $17.00
+      DYSANGELIUM (fin) - "Dysangelium" 2CD: $17.00
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
 
 
-      ELITISM (Fra) - L’odeur des Déportés DIGIPACK CD: $12.00
+      ELITISM (fra) - L’odeur des Déportés DIGIPACK CD: $12.00
 
 
       EMK (usa) - "Doomsday Kult" CD: $10.00
@@ -407,13 +407,14 @@ labels:
       ENCIRCLING WOLVES (UK) - "The Trial of Traitors" CD: $10.00
 
 
-      ENDSIEG (usa) - "Twilight of Aryan Consicousness" CD: $10.00
+      ENDSIEG (usa) - "Twilight of Aryan Consciousness" CD: $10.00
 
 
       ETERNAL STIRFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
 
 
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" DIGIPACK CD: $10.00
+
 
       ETERNAL STRIFE / TYRANATH (usa) - "Vinlandic Hate Brigade / Swords of Promise" CD: $10.00
 
@@ -460,7 +461,7 @@ labels:
       FUROR VOLTURNO (bra) - "Aequilibrium" CD: $10.00
 
 
-      GALDR (US) - "Mörkergång" CD: $10.00
+      GALDR (usa) - "Mörkergång" CD: $10.00
 
 
       GEIMHRE (can) -  "Mollachd" CD: $10.00
@@ -475,13 +476,13 @@ labels:
       GESTAPO 666 (fra) - "Black Gestapo Metal" CD: $13.00
 
 
-      GOATPENIS (Bra) - "Biochemterrorism" CD: $12.00
+      GOATPENIS (bra) - "Biochemterrorism" CD: $12.00
 
 
-      GOATPENIS (Bra) - "Depleted Ammunition" CD: $12.00
+      GOATPENIS (bra) - "Depleted Ammunition" CD: $12.00
 
 
-      GOATPENIS (Bra) - "Flesh Consumed in the Battlefield" CD: $12.00
+      GOATPENIS (bra) - "Flesh Consumed in the Battlefield" CD: $12.00
 
 
       GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of The Hordes" DIGIPACK CD: $14.00
@@ -499,10 +500,10 @@ labels:
       GRAVELAND (pol) - "The Celtic Winter" SLIPCASE CD: $10.00
 
 
-      GROM (US) - "Pagan War Machine" CD: $10.88
+      GROM (usa) - "Pagan War Machine" CD: $10.88
 
 
-      HAVOC (Ger) - "Legion" CD: $8.00
+      HAVOC (swe) - "Legion" CD: $8.00
 
 
       HEATHEN HAMMER (usa) - "Clandestine Oath" DIGIPACK CD: $10.00
