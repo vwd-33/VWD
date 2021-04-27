@@ -1319,264 +1319,263 @@ labels:
       XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
-      ABSURD (ger) - "Asgardsrei" 12" LP: $17.00   (suffers from some corner
+      ABSURD (ger) - "Asgardsrei" LP: $17.00   (suffers from some corner
       dings/bends)
 
 
-      ABSURD (ger) - "Sonnenritter" 12" LP: $26.00
+      ABSURD (ger) - "Sonnenritter" LP: $26.00
 
 
-      ABSURD (ger) - "Werwolfthron" 12" LP: $23.00
+      ABSURD (ger) - "Werwolfthron" LP: $23.00
 
 
-      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" 12" LP: $26.00
+      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $26.00
 
 
-      AKTION T4 (fra/swe) - "Evgeniks" 12" LP: $28.00
+      AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
-      ARGHOSLENT (usa) - "Arsenal of Glory" 12" LP: $28.00
+      ARGHOSLENT (usa) - "Arsenal of Glory" LP: $28.00
 
 
-      ARGHOSLENT (usa) - "Galloping Through the Battleruins" DOUBLE 12" LP: $35.00
+      ARGHOSLENT (usa) - "Galloping Through the Battleruins" 2LP: $35.00
 
 
-      ARGHOSLENT (usa) - "Unconquered Soldiery" 12" LP: $22.00
+      ARGHOSLENT (usa) - "Unconquered Soldiery" LP: $22.00
 
 
-      ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" 12" LP: $30.00
+      ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $30.00
 
 
-      ASKE (fin) - "Goatfuck / Saatan Legio" 12" LP: $25.00
+      ASKE (fin) - "Goatfuck / Saatan Legio" LP: $25.00
 
 
-      BLOOD LIBEL (can) - "Museums Of Gas And Mirrors" 12" LP: $28.00
+      BLOOD LIBEL (can) - "Museums Of Gas And Mirrors" LP: $28.00
 
 
-      BRAUNAU (ger) - "Braunau - Unsere Lösung Heißt Gewalt" 12" LP: $28.00
+      BRAUNAU (ger) - "Braunau - Unsere Lösung Heißt Gewalt" LP: $28.00
 
 
-      DARK FURY (pol) - "Flooded Lands" 12" LP: $22.00
+      DARK FURY (pol) - "Flooded Lands" LP: $22.00
 
 
-      DARK FURY (pol) - "Vae Victis!" 12" LP: $20.00
+      DARK FURY (pol) - "Vae Victis!" LP: $20.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" 12" LP: $22.00  (has minor corner dings + ring wear)
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP: $22.00  (has minor corner dings + ring wear)
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" 12" LP: $26.00
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
 
 
-      DER STÜRMER / WODULF (gre) - "Pavlistarvm Terra Mater Live" 12" LP: $28.00
+      DER STÜRMER / WODULF (gre) - "Pavlistarvm Terra Mater Live" LP: $28.00
 
 
-      DEVILRY (Fin) - "Treuelied" 12" LP: $28.00
+      DEVILRY (Fin) - "Treuelied" LP: $28.00
 
 
-      ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" 12" LP: $20.00
+      ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
 
 
-      ETERNAL STRIFE (usa) - "When The World Comes Crumbling Down" 12" LP: $20.00
+      ETERNAL STRIFE (usa) - "When The World Comes Crumbling Down" LP: $20.00
 
 
-      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC 12" LP: $35.00
+      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC LP: $35.00
 
 
-      FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" 12" LP: $20.00
+      FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" LP: $20.00
 
 
       FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" 10" MLP: $20.00
 
 
-      FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" 12" LP: $20.00
+      FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" LP: $20.00
 
 
-      FUNERAL (fra) - "Black Flame Of Unholy Hate" 12" LP: $26.00
+      FUNERAL (fra) - "Black Flame Of Unholy Hate" LP: $26.00
 
 
-      FYRDUNG (swe) - "Hyperborea" 12" LP: $23.00
+      FYRDUNG (swe) - "Hyperborea" LP: $23.00
 
 
-      GESTAPO 666 (fra) - "Nostalgiah" 12" LP: $25.00
+      GESTAPO 666 (fra) - "Nostalgiah" LP: $25.00
 
 
-      GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of the Hordes" 12" LP: $26.00
+      GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of the Hordes" LP: $26.00
 
 
-      HAMMER (fin) - "Rautasiipien Alla" 12" LP: $26.00
+      HAMMER (fin) - "Rautasiipien Alla" LP: $26.00
 
 
-      IDOLATRY (can) - "In Nomine Mortis" 12" LP: $18.00
+      IDOLATRY (can) - "In Nomine Mortis" LP: $18.00
 
 
-      IRAE (por) - "Satanic Secrets from the Mausoleum" 12" LP: $18.00
+      IRAE (por) - "Satanic Secrets from the Mausoleum" LP: $18.00
 
 
-      JOTUNHEIM (swe) - "Jotunheim" 12" LP: $18.00
+      JOTUNHEIM (swe) - "Jotunheim" LP: $18.00
 
 
-      KOHORT (pol) - "Megiddo Eve" 12" LP: $18.00
+      KOHORT (pol) - "Megiddo Eve" LP: $18.00
 
 
-      KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" 12" LP: $18.00
+      KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
-      KRISTALLNACHT (fra) - "Warspirit" 12" LP: $26.00
+      KRISTALLNACHT (fra) - "Warspirit" LP: $26.00
 
 
-      KVASIR'S BLOOD (usa) - Triumph of The Will 12" LP: $25.00
+      KVASIR'S BLOOD (usa) - Triumph of The Will LP: $25.00
 
 
-      LORD OF EVIL (pol) - "Satan's Soldiers" 12" LP: $25.00
+      LORD OF EVIL (pol) - "Satan's Soldiers" LP: $25.00
 
 
-      MALÉFICE (fra) - "Le Monastère Des Hommes En Noir" DOUBLE 12" LP: $32.00
+      MALÉFICE (fra) - "Le Monastère Des Hommes En Noir" 2LP: $32.00
 
 
-      MALÉFICE (fra) - "Retour Au Monastère" 12" LP: $25.00
+      MALÉFICE (fra) - "Retour Au Monastère" LP: $25.00
 
 
       MARTIAL / NIGLET (pol/usa) - split 12" MLP: $25.00
 
 
-      MOHAREBEH (usa) - "We Are At War!!!" 12" LP: $20.00
+      MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
-      ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" 12" LP: $26.00
+      ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" LP: $26.00
 
 
-      ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" 12" LP: $25.00
+      ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" LP: $25.00
 
 
-      PANTHEON OF BLOOD (fin) - "Voices Rooted in Blood" 12" LP: $25.00
+      PANTHEON OF BLOOD (fin) - "Voices Rooted in Blood" LP: $25.00
 
 
-      PENTAGAMMADION / MOONTOWER (pol) - "Dies Imperii" 12" LP: $26.00
+      PENTAGAMMADION / MOONTOWER (pol) - "Dies Imperii" LP: $26.00
 
 
-      PERMAFROST (ger) - "Porcus Christus" 12" LP: $18.00
+      PERMAFROST (ger) - "Porcus Christus" LP: $18.00
 
 
-      SEIGNEUR VOLAND (fra) - "Consumatum Est" 12" LP: $26.00
+      SEIGNEUR VOLAND (fra) - "Consumatum Est" LP: $26.00
 
 
-      SELBSTMORD (pol) - "Dawn of a New Era" 12" LP: $20.00
+      SELBSTMORD (pol) - "Dawn of a New Era" LP: $20.00
 
 
-      SONS OF SATAN (swe) - "In Times of Fire" 12" LP: $26.00
+      SONS OF SATAN (swe) - "In Times of Fire" LP: $26.00
 
 
-      SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" 12" LP: $28.00
+      SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" LP: $28.00
 
 
-      SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" 12" LP: $20.00
+      SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" LP: $20.00
 
 
-      SVETOVID (US) - "Nature's Fury" 12" LP: $20.00
+      SVETOVID (US) - "Nature's Fury" LP: $20.00
 
 
-      THE RAUNCHOUS BROTHERS (usa) - "Die! F. Die!" 12" LP: $30.00
+      THE RAUNCHOUS BROTHERS (usa) - "Die! F. Die!" LP: $30.00
 
 
-      THOR'S HAMMER (pol) - The Fate Worse Than Death 12" LP: $20.00
+      THOR'S HAMMER (pol) - The Fate Worse Than Death LP: $20.00
 
 
-      VRILDOM (arg) - "Thus Spoke the Austral Wind…" 12" LP: $25.00
+      VRILDOM (arg) - "Thus Spoke the Austral Wind…" LP: $25.00
 
 
-      VRILDOM (arg) – “Terra Australis Ignota” 12″ LP: $25.00
+      VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
 
 
-      WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" LP: $23.00
+      WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" MLP: $23.00
 
 
-      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" LP: $20.00
+      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" LP: $28.00
+      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $28.00
 
 
-      WOLFKRIEG (rus) - "Wolvish Reign" 12" LP: $20.00
+      WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
-      WOODTEMPLE (pol) - "Forgotten Pride" 12" LP: $18.00
+      WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
   - title: 7" VINYL
     body: >-
-      ABSURD (ger) - "Thuringian Pagan Madness" 7" EP (different cover art):
-      $13.00
+      ABSURD (ger) - "Thuringian Pagan Madness" EP (different cover art): $13.00
 
 
-      ABSURD (ger) - "Thuringian Pagan Madness" 7" EP: $13.00
+      ABSURD (ger) - "Thuringian Pagan Madness" EP: $13.00
 
 
-      AKTION T4 (fra/swe) - "Der Ostfeldzug" 7" EP: $13.00
+      AKTION T4 (fra/swe) - "Der Ostfeldzug" EP: $13.00
 
 
-      AKTION T4 (fra/swe) - "The Afrikakorps" 7" EP: $12.00
+      AKTION T4 (fra/swe) - "The Afrikakorps" EP: $12.00
 
 
-      ALLERSEELEN (Austria) - Anubis / Chairete Daimones 7" EP: $8.00
+      ALLERSEELEN (Austria) - Anubis / Chairete Daimones EP: $8.00
 
 
-      ARYAN ROGUE (fin) - "Reinrassig" 7" EP: $12.00 black wax / $13.00 purple wax
+      ARYAN ROGUE (fin) - "Reinrassig" EP: $12.00 black wax / $13.00 purple wax
 
 
-      BILSKIRNIR / WALSUNG (ger/bra) - split 7" EP: $13.00
+      BILSKIRNIR / WALSUNG (ger/bra) - split EP: $13.00
 
 
-      BIRKENAU (usa) - "Burning" 7" EP: $12.00
+      BIRKENAU (usa) - "Burning" EP: $12.00
 
 
-      DEATHROW (Ita) - Like A Lion Devouring The Sun 7" EP: $8.00
+      DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
 
 
-      DER STÜRMER (gre) - "Europa Erwache!" 7" EP: $13.00
+      DER STÜRMER (gre) - "Europa Erwache!" EP: $13.00
 
 
-      ETERNAL STRIFE / MOHAREBEH (usa) - split 7" EP: $12.00
+      ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
 
 
-      EVIL (bra) - "Rites of Cleansing" 7" EP: $9.00
+      EVIL (bra) - "Rites of Cleansing" EP: $9.00
 
 
-      EVIL / WALSUNG (bra) - split 7" EP: $13.00
+      EVIL / WALSUNG (bra) - split EP: $13.00
 
 
-      GRAFVOLLUTH / Slavecrushing Tyrant (US/Pol) - split 7" EP: $8.00
+      GRAFVOLLUTH / Slavecrushing Tyrant (US/Pol) - split EP: $8.00
 
 
-      KOMMANDANT / ANIMUS MORTUS (usa/chile) - split 7" EP: $8.00
+      KOMMANDANT / ANIMUS MORTUS (usa/chile) - split EP: $8.00
 
 
-      KRYPTA NICESTWA (Pol) - "Widma Zimowej Martowy" 7" EP: $10.00
+      KRYPTA NICESTWA (Pol) - "Widma Zimowej Martowy" EP: $10.00
 
 
-      MALÉFICE / VIA DOLOROSA (fra/ita) - split 7" EP: $12.00
+      MALÉFICE / VIA DOLOROSA (fra/ita) - split EP: $12.00
 
 
-      MALÉFICE / WEWELSSBURG (fra/usa) - split 7" EP: $13.00
+      MALÉFICE / WEWELSSBURG (fra/usa) - split EP: $13.00
 
 
-      NACHTKRIEGER / PANZERJAGER (can/usa) - split 7" EP: $8.00
+      NACHTKRIEGER / PANZERJAGER (can/usa) - split EP: $8.00
 
 
-      NATION WAR / VIA DOLOROSA (mex/ita) - split 7" EP: $10.00
+      NATION WAR / VIA DOLOROSA (mex/ita) - split EP: $10.00
 
 
-      NECROSTRIGIS / WINTER BLACKNESS (Pol) - "W Mrokach Roziskrzonych Mrozem" 7" EP: $10.00
+      NECROSTRIGIS / WINTER BLACKNESS (Pol) - "W Mrokach Roziskrzonych Mrozem" EP: $10.00
 
 
-      NIDHOGGR (Fin) - "Ravens Over The Road Of Kings" 7" EP: $10.00
+      NIDHOGGR (Fin) - "Ravens Over The Road Of Kings" EP: $10.00
 
 
-      NOKTURNE / MALÉFICE - split 7" EP: $9.00
+      NOKTURNE / MALÉFICE - split EP: $9.00
 
 
-      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $13.00
+      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
 
 
-      STRAIGHT ARM SALUTE / VERI & MAA (fin) - split 7" EP: $10.00
+      STRAIGHT ARM SALUTE / VERI & MAA (fin) - split EP: $10.00
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
       INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE: {$26.00 for S-XL
