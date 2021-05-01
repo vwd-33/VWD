@@ -1329,7 +1329,7 @@ labels:
       ABSURD (ger) - "Werwolfthron" LP: $23.00
 
 
-      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $26.00
+      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
 
 
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
@@ -1519,9 +1519,6 @@ labels:
 
 
       ARYAN ROGUE (fin) - "Reinrassig" EP: $12.00 black wax / $13.00 purple wax
-
-
-      BILSKIRNIR / WALSUNG (ger/bra) - split EP: $13.00
 
 
       BIRKENAU (usa) - "Burning" EP: $12.00
