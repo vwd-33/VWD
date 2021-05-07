@@ -1103,9 +1103,6 @@ labels:
       LYNCH MOB (usa) - "Lynch Mob" TAPE: $7.00
 
 
-      MARDUK (swe) - "Frontschwein" TAPE: $12.00
-
-
       MINENWERFER (usa) - "Volkslieder" TAPE: $7.00
 
 
@@ -1146,9 +1143,6 @@ labels:
 
 
       NORRHEM (fin) - "Voima Ja Kunnia" TAPE: $8.50
-
-
-      NYOGTHAEBLISZ - "Abrahamic Godhead Besieged By Adversarial Usurpation" TAPE: $8.00
 
 
       OAK (Netherlands) - "Their Death... Our Freedom" TAPE: $7.00
