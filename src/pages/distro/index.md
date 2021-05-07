@@ -1545,9 +1545,6 @@ labels:
       MALÉFICE / VIA DOLOROSA (fra/ita) - split EP: $12.00
 
 
-      MALÉFICE / WEWELSSBURG (fra/usa) - split EP: $13.00
-
-
       NACHTKRIEGER / PANZERJAGER (can/usa) - split EP: $8.00
 
 
