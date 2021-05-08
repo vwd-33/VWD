@@ -980,9 +980,6 @@ labels:
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
-      ASSASSINATION (Ger) - "Mental Warfare Commanding Emperor" TAPE: $9.00
-
-
       ASSASSINATION (Ger) - "Red Magick Faction" TAPE: $9.00
 
 
