@@ -1558,7 +1558,7 @@ labels:
 
 
       STRAIGHT ARM SALUTE / VERI & MAA (fin) - split EP: $10.00
-  - title: T-SHIRTS (photos coming soon | email for now)
+  - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $20.00
 
@@ -1624,7 +1624,7 @@ labels:
 
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
-  - title: PINS, PATCHES, ETC (photos coming soon | email for now)
+  - title: PINS, PATCHES, ETC (photos coming soon | request by email for now)
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $8.00
 
