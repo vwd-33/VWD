@@ -1485,9 +1485,6 @@ labels:
       WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $28.00
-
-
       WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
@@ -1563,10 +1560,6 @@ labels:
       STRAIGHT ARM SALUTE / VERI & MAA (fin) - split EP: $10.00
   - title: T-SHIRTS (photos coming soon | email for now)
     body: >-
-      INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE: {$26.00 for S-XL
-      | $28.00 for XXL and above}   (pre-order until May 1st!!!)
-
-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $20.00
 
 
