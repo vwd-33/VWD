@@ -188,9 +188,6 @@ labels:
       ANCESTRAL SHADOWS (US) - "The Sorrows Of Centuries Past" DIGIPACK CD: $12.00
 
 
-      ANCESTRAL SHADOWS (usa) - "Preserving All Darkness In This World" CD: $10.00
-
-
       ANCESTRAL SHADOWS (usa) - "Wolven Mysteries Of Ancient Lore" DIGIPACK CD: $10.00
 
 
