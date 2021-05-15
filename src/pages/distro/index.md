@@ -1494,9 +1494,6 @@ labels:
       ABSURD (ger) - "Thuringian Pagan Madness" EP: $13.00
 
 
-      AKTION T4 (fra/swe) - "Der Ostfeldzug" EP: $13.00
-
-
       AKTION T4 (fra/swe) - "The Afrikakorps" EP: $12.00
 
 
@@ -1599,7 +1596,7 @@ labels:
       THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only): $15.00
 
 
-      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M, L): $18.00
+      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M only): $18.00
 
 
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
