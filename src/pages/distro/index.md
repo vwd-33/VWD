@@ -1307,8 +1307,7 @@ labels:
       XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
-      ABSURD (ger) - "Asgardsrei" LP: $17.00   (suffers from some corner
-      dings/bends)
+      ABSURD (ger) - "Asgardsrei" LP: $17.00    \*HAS CORNER DAMAGE\*
 
 
       ABSURD (ger) - "Sonnenritter" LP: $26.00
@@ -1350,7 +1349,7 @@ labels:
       DARK FURY (pol) - "Vae Victis!" LP: $20.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP: $22.00  (has minor corner dings + ring wear)
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP: $22.00   \*HAS SOME SUBTLE CORNER DAMAGE + RING WEAR\*
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
