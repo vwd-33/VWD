@@ -116,7 +116,7 @@ labels:
       *VWD 52:* ODIUM TOTUS (usa) - "In Inceptum Finis Est"  TAPE: $8.00
 
 
-      *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $13.00
+      *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
 
 
       *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" TAPE: $9.00
@@ -227,7 +227,7 @@ labels:
       ASSASSINATION (ger) - "Preparing Lucifers Arrival" CD: $10.00
 
 
-      ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $13.00
+      ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
 
 
       ASSASSINATION (ger) - "Seeds of the Master" CD: $12.00
