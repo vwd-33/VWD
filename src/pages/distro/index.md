@@ -182,6 +182,9 @@ labels:
       ADORIA / FEUERNACHT / STAHLFRONT (ger) - "Wehrwolf Jugend" CD: $15.00
 
 
+      AESIR / K'TAAGAR (arg/bra) - "Southern The Flame Still Burns" CD: $10.00
+
+
       AKASHAH (usa) - "Eagna An Marbh" CD: $10.00
 
 
@@ -318,6 +321,9 @@ labels:
 
 
       BURZUM (nor) - "Hvis Lyset Tar Oss" CD: $13.00
+
+
+      CALIGULA(arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
       CATERVA RUNA (fra) - "Europa Nostra" CD: $13.00
@@ -569,6 +575,9 @@ labels:
       KRISTALLNACHT (fra) - "Warspirit" DIGIPACK CD: $15.00
 
 
+      KRYNITZA (rus) - "Ангел / Angel" CD: $10.00
+
+
       KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" DIGIPACK CD: $13.00
 
 
@@ -713,6 +722,9 @@ labels:
       PHOSPHORE BLANC (fra) - " Xenophobos" DIGIPACK CD: $10.00
 
 
+      PIAREVARCIEN (pol) – U Pošukach Pačatku Tych Šlachoŭ digipak CD: $10.00
+
+
       PROVIDENJE (ser) - "Patriot" CD: $10.00
 
 
@@ -746,13 +758,13 @@ labels:
       RUHO (Fin) - "Mouth Of Extinction" CD: $10.00
 
 
+      SARKRISTA / UNHUMAN DISEASE (ger/usa) - "Those Who Preach Perdition" CD: $10.00
+
+
       SAMMAS EQUINOX - "Tulikehrät" DIGIPACK CD: $14.00
 
 
       SAPTHURAN / SAD (usa/gre) - "Black Winter of Desolation" CD: $10.00
-
-
-      SATANACHIST (ger) - "Crown of the Black Sun" CD: $13.00
 
 
       SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
@@ -765,6 +777,9 @@ labels:
 
 
       SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
+
+
+      SEGES FINDERE (bra) - "Proclamation of Blood Vengeance" CD: $10.00
 
 
       SEGES FINDERE (bra) - "Warmasted by Deathkorps' CD: $10.00
@@ -801,6 +816,9 @@ labels:
 
 
       SLAEGT (Den) - "Ildsvanger" CD: $12.00
+
+
+      SØRGELIG (Gre) - "We, the Oblivious" CD: $10.00
 
 
       SPEAR OF LONGINUS (Aus) - "N.O.M." CD: $15.00
@@ -908,6 +926,9 @@ labels:
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
 
 
+      WINTERGEWITTER (ger) - "Operation Wintergewitter" CD: $10.00
+
+
       WODULF (gre) - "Wargus Esto" CD: $14.00
 
 
@@ -933,6 +954,9 @@ labels:
 
 
       WOLVES EYES (UK) - "Remembrance of Pagan Heroes" DIGIPACK CD: $10.00
+
+
+      WOLVES' WINTER (Arg) - "Necrosophic Illumination" CD: $10.00
 
 
       WOTANORDEN (usa) - "Legends of the Valorous Fallen" CD: $10.00
