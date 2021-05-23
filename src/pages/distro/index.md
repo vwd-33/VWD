@@ -581,9 +581,6 @@ labels:
       KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $13.00
 
 
-      KVASIR'S BLOOD (usa) - "W.O.T.A.N." CD: $12.00
-
-
       LASCOWIEC (usa) - " A Warcry Rises Above The Frozen Lands " CD: $10.88
 
 
@@ -876,9 +873,6 @@ labels:
 
 
       THOR'S HAMMER (pol) - "The Fate Worse Than Death" CD: $12.00
-
-
-      THUNDERBOLT (pol) - "The Sons of the Darkness" CD: $13.00
 
 
       TOTENBURG (ger) - "Art und Kampf" CD: $13.00
@@ -1563,9 +1557,6 @@ labels:
 
 
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
-
-
-      STRAIGHT ARM SALUTE / VERI & MAA (fin) - split EP: $10.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $20.00
