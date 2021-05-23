@@ -932,9 +932,6 @@ labels:
       WOLFENBURG (pol) - “Imperium Wilkow” CD: $12.00
 
 
-      WOLFNACHT (gre) - "Project Ordensburg" CD: $14.00
-
-
       WOLFSSCHANZE (bra) - "Ariosophy" DIGIPACK CD: $12.00
 
 
