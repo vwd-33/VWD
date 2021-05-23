@@ -980,9 +980,6 @@ labels:
       ANTICHRIST (Can) - "Sacrament of Blood" TAPE: $10.00
 
 
-      ANTISEMITEX (pol) - "No Hope, No Future ... Just W.A.R.!!!" TAPE: $8.00
-
-
       ARKONA (pol) - "Bogowie Zapomnienia" TAPE: $8.00
 
 
