@@ -1556,7 +1556,7 @@ labels:
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT : $20.00
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00
 
 
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL: M, L, XL / GREEN: M, L, XL): $20.00
