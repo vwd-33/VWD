@@ -1281,15 +1281,6 @@ labels:
       EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
-      ELITISM (fra) - "L'odeur des déportés" TAPE: $8.00
-
-
-      ELITISM (fra) - "Pour la pureté de mon Sang" TAPE: $8.00
-
-
-      ELITISM (fra) - "Quand l'étoile de David Brûlait" TAPE: $8.00
-
-
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
 
