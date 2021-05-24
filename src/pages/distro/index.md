@@ -1650,9 +1650,6 @@ labels:
       DEVILRY (Fin) - "Treuelied" LP: $28.00
 
 
-      EISENWINTER / NOKTURNE (swiss/usa) - split 10" MLP: $20.00
-
-
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
 
 
