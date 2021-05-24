@@ -1623,9 +1623,6 @@ labels:
       ARYAN KAMPF 88 (bel) - "Dernière Salve" LP: $30.00
 
 
-      ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $30.00
-
-
       ASKE (fin) - "Goatfuck / Saatan Legio" LP: $25.00
 
 
@@ -1807,9 +1804,6 @@ labels:
 
 
       TOTESLAUT (fin) - "Daikukotennyo" 10" MLP: $20.00
-
-
-      VERMINE (fra) - "Agonie d'une Nation / Un Nouvel Ordre Noir" 2LP: $35.00
 
 
       VOTHANA (usa) - "Biệt Động Quân / Commando" 2LP: $35.00
