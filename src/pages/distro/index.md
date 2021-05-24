@@ -291,9 +291,6 @@ labels:
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $12.00
 
 
-      BILSKIRNIR (ger) - "Wotan Redivivus" CD: $12.00
-
-
       BLACK WITCHERY (US) - "Desecration of the Holy Kingdom" CD: $10.00
 
 
@@ -1006,9 +1003,6 @@ labels:
 
 
       SUNWHEEL (pol) - "Industry of Death" DIGIPACK CD: $12.00
-
-
-      SUNWHEEL (pol) - "Monuments of the Elder Faith" CD: $15.00
 
 
       SVARTR STURM (can) - "Burn the Soviet Flag" DIGIPACK CD: $12.00
