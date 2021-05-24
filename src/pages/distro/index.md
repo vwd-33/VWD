@@ -843,9 +843,6 @@ labels:
       PANTHEON (usa) - "Aryan Rebirth" DIGIPACK 2CD: $20.00
 
 
-      PANTHEON (usa) - "Draugrs Daug" CD: $20.00
-
-
       PANTHEON (usa) - "Führersland" CD: $15.00
 
 
@@ -1672,9 +1669,6 @@ labels:
 
 
       EISENWINTER / NOKTURNE (swiss/usa) - split 10" MLP: $20.00
-
-
-      EISENWINTER / VOTHANA (swiss/usa) - split 10" MLP: $20.00
 
 
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
