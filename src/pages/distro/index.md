@@ -1248,9 +1248,6 @@ labels:
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
 
 
-      CIRCLE OF DAWN (fin) - "Northern Savonian Black Metal" TAPE: $9.00
-
-
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
 
 
