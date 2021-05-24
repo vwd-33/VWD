@@ -1446,9 +1446,6 @@ labels:
       RUNDAGOR (rus) - "The Beastrealm" TAPE: $10.00
 
 
-      SACRIFICIAL MASSACRE (usa) - "Black Blades Of Vengeance" TAPE: $8.00
-
-
       SACRIFICIAL MASSACRE / SWERDTHEGAN (usa) - "Our Glory Is Our Ancient Blood" TAPE: $7.00
 
 
