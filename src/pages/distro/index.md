@@ -1497,9 +1497,6 @@ labels:
       SURT (US) - "Yggdrasil" TAPE: $8.00
 
 
-      SWERDTHEGAN / SACRIFICIAL MASSACRE (usa) - "Our Glory Is Our Ancient Blood" TAPE: $8.00
-
-
       THE SHADOW ORDER (gre) - "Untold" TAPE: $7.00
 
 
