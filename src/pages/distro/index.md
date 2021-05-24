@@ -1568,7 +1568,10 @@ labels:
       DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S, XXL): $18.00
 
 
-      DREADFUL RELIC (gre) - TSHIRT (S only): $20.00
+      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (S only)
+
+
+      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL): $20.00
 
 
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
@@ -1577,7 +1580,7 @@ labels:
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) split TSHIRT (S, XL): $15.00
+      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL): $15.00
 
 
       OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL): $20.00
