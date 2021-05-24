@@ -7,7 +7,8 @@ description2:
   emailText: ALL orders by Email to
   email: vinlandicwerwolf@hotmail.com
   descriptionList:
-    - text: You can also use this website's contact form to place an order!
+    - text: You can also use this website's contact form to place an order! **(THIS IS
+        CURRENTLY NOT WORKING. PLEASE ONLY ORDER BY EMAIL FOR THE TIME BEING)**
     - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
         THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING. **"
     - text: All orders ship from the United States. All prices are in USD.
@@ -34,7 +35,7 @@ description2:
         very open to reaching a compromise that is fair & honest for both
         parties!
     - text: "                                                                Last
-        Distro Update: March 15, 2021"
+        Distro Update: May 24, 2021"
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
@@ -107,7 +108,13 @@ labels:
       *VWD 46:* RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
 
 
+      *VWD 48*: DRACONES (usa) - "Son of the Devil" TAPE: $8.00
+
+
       *VWD 49:* BLUTKULT / CELTIC DANCE (ger/por) "We are the roar of thunder" TAPE: $8.00
+
+
+      *VWD 50*: SEVERE STORM (pol) - "The Awakening" TAPE: $7.00
 
 
       *VWD 51:* FUROR (arg) - "Ice Doctrine" TAPE: $7.00
@@ -128,6 +135,12 @@ labels:
       *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $14.00
+
+
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $12.00
+
+
       *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
 
 
@@ -138,6 +151,9 @@ labels:
 
 
       *VWD 62:* DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
+
+
+      *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
 
 
       *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.00
@@ -164,6 +180,9 @@ labels:
       DEFILE (usa) - "Poser Holocaust" TAPE: $7.00
   - title: CDs
     body: >-
+      88 (bul) - "Power Against Propaganda" CD: $15.00
+
+
       ABSURD (Ger) - "Blutgericht" CD: $13.00
 
 
@@ -179,6 +198,9 @@ labels:
       ABSURD (Ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
 
 
+      ABYSSIC HATE (aus) - "Suicidal Emotions" DIGIPACK CD: $15.00
+
+
       ADORIA / FEUERNACHT / STAHLFRONT (ger) - "Wehrwolf Jugend" CD: $15.00
 
 
@@ -188,13 +210,22 @@ labels:
       AKASHAH (usa) - "Eagna An Marbh" CD: $10.00
 
 
+      AMALEK (ger) - "20 Jahre Kampf für Blut, Volk und Tradition!" CD: $15.00
+
+
       ANCESTRAL SHADOWS (US) - "The Sorrows Of Centuries Past" DIGIPACK CD: $12.00
 
 
       ANCESTRAL SHADOWS (usa) - "Wolven Mysteries Of Ancient Lore" DIGIPACK CD: $10.00
 
 
+      ANTHEM (fra) - "Art Et Dictature" DIGIPACK CD: $13.00
+
+
       APRAXIA (belarus) - "Идеология / Ideology" DIGIPACK CD: $10.00
+
+
+      ARGENTUM / SIGVEGR - "Black Sun is Rising" CD: $10.00
 
 
       ARKTOGAA (Ita) "Æra Yersinia Pestis Spiritvs" CD: $14.00
@@ -215,6 +246,9 @@ labels:
       ARYAN BLOOD (Ger) - "Eternal Strife" MCD: $10.00
 
 
+      ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" CD: $15.00
+
+
       ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
 
 
@@ -222,6 +256,9 @@ labels:
 
 
       ASSASSINATION (ger) - "Circles within Circles" CD: $12.00
+
+
+      ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $14.00
 
 
       ASSASSINATION (ger) - "Mental Warfare Commanding Emperor" CD: $10.00
@@ -239,6 +276,9 @@ labels:
       AYYADIEH (US) - Oath of Allegiance CD: $10.00
 
 
+      BEKËTH NEXËHMÜ (swe) - "De svarta riterna" CD: $13.00
+
+
       BESTIAL WHORE (usa) - "Pentagram Perversion" CD: $10.00
 
 
@@ -246,6 +286,12 @@ labels:
 
 
       BILSKIRNIR (Ger) - "Totenheer / Dem Feind entgegen" CD: $12.00
+
+
+      BILSKIRNIR (ger) - "In Solitary Silence" CD: $12.00
+
+
+      BILSKIRNIR (ger) - "Wotan Redivivus" CD: $12.00
 
 
       BLACK WITCHERY (US) - "Desecration of the Holy Kingdom" CD: $10.00
@@ -326,6 +372,9 @@ labels:
       CALIGULA(arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
+      CAPRICORNUS / DER STÜRMER (pol/gre) - "Polish-Hellenic Alliance Against Z.O.G.!" CD: $18.00
+
+
       CATERVA RUNA (fra) - "Europa Nostra" CD: $13.00
 
 
@@ -342,6 +391,9 @@ labels:
 
 
       DARK FURY (pol) - "Flooded Lands" CD: $10.88
+
+
+      DARK FURY (pol) - "Fortress of Eagles" CD: $12.00
 
 
       DARK FURY (pol) - "On The Trail of a Victor" 2CD: $15.00
@@ -389,6 +441,9 @@ labels:
       DIVISION S (swe) - "Attack" CD: $14.00
 
 
+      DRACONES (usa) - "Son of the Devil" CD: $13.00
+
+
       DREADFUL RELIC (gre) - "Hyborian Sorcery" CD: $10.00
 
 
@@ -399,6 +454,9 @@ labels:
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
+
+
+      ELITISM (fra) - "Requiem pour une race mourante" DIGIPACK CD: $13.00
 
 
       ELITISM (fra) - L’odeur des Déportés DIGIPACK CD: $12.00
@@ -452,6 +510,12 @@ labels:
       FLAMEN (ita) - "Furor Lunae" DIGIPACK CD: $12.00
 
 
+      FORLORN WINDS (usa) - "Murmurs With the Decapitated" CD: $13.00
+
+
+      FORLORN WINDS (usa) - "The Day the wolf Swallowed the Sun" CD: $13.00
+
+
       FRANGAR (Ita) - "Trincerocrazia" CD: $13.00
 
 
@@ -467,6 +531,9 @@ labels:
       GALDR (usa) - "Mörkergång" CD: $10.00
 
 
+      GARDIEN DE PORCS (fra) - "Dans les terres" CD: $12.00
+
+
       GEIMHRE (can) -  "Mollachd" CD: $10.00
 
 
@@ -479,6 +546,9 @@ labels:
       GESTAPO 666 (fra) - "Black Gestapo Metal" CD: $13.00
 
 
+      GESTAPO 666 (fra) - "Nostalgiah" CD (first press): $16.00
+
+
       GOATPENIS (bra) - "Biochemterrorism" CD: $12.00
 
 
@@ -486,6 +556,9 @@ labels:
 
 
       GOATPENIS (bra) - "Flesh Consumed in the Battlefield" CD: $12.00
+
+
+      GRAAVEHLDER (swe) - "Naturmystik I Midsommartid" CD: $12.00
 
 
       GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of The Hordes" DIGIPACK CD: $14.00
@@ -500,7 +573,13 @@ labels:
       GRAVELAND (pol) - "The Celtic Winter" SLIPCASE CD: $10.00
 
 
+      GROM (usa) - "By Oak, Ash, and Thorn" CD: $15.00
+
+
       GROM (usa) - "Pagan War Machine" CD: $10.88
+
+
+      GROM / WULFGRAV (usa) - "Fullmoon Warfare" CD: $15.00
 
 
       HAVOC (swe) - "Legion" CD: $8.00
@@ -566,7 +645,16 @@ labels:
       KOENIGSGRAB (rus) - "KoenigsGrab" CD: $10.00
 
 
+      KOMMANDEMENT (bel) - "732 Anno Domini" CD: $15.00
+
+
+      KOMMANDEMENT (bel) - "Bientôt le renouveau" CD: $15.00
+
+
       KONTRATAK (pol) - 'W Obronie Ojczystej Ziemi" CD: $10.00
+
+
+      KRISTALLNACHT (fra) - "Blooddrenched Memorial 1994-2002" CD: $20.00
 
 
       KRISTALLNACHT (fra) - "Warspirit" DIGIPACK CD: $15.00
@@ -617,6 +705,12 @@ labels:
       LEIBSTANDARTE (fra) - "Jusqu'au Sang! Volume 1" CD: $13.00
 
 
+      LIK (swe) - "Avgrundspoetens Flamma" CD: $12.00
+
+
+      LIKVANN (nor) - "Bumerke" CD: $12.00
+
+
       LIKVANN (nor) - "Furet og Vaerbitt" CD: $10.00
 
 
@@ -626,10 +720,16 @@ labels:
       LOITS (est) - "Tulisilma Sünd" CD: $10.00
 
 
+      M8L8TH (rus) - "By the Wing of Black" CD: $12.00
+
+
+      M8L8TH (rus) - "The Black March Saga" CD: $12.00
+
+
+      M8L8TH / NEZHEGOL (rus) - "Wotanjugend" CD: $13.00
+
+
       MALSAINT (fra) - "Anti Islamist Proselytism" CD: $12.00
-
-
-      MALÉFICE (fra) - "Retour au Monastère" A5 DIGIPACK CD: $13.00
 
 
       MALÉFICE (fra) - "Hexenkartothek" CD: $13.00
@@ -638,13 +738,40 @@ labels:
       MALÉFICE (fra) - "Le Dernier Drapeau" DIGIPACK CD: $15.00
 
 
+      MALÉFICE (fra) - "Retour au Monastère" A5 DIGIPACK CD: $13.00
+
+
       MALÉFICE / WALSUNG (fra/bra) - "Hyperborean Tales" DIGIPACK CD: $15.00
+
+
+      MAQUAHUITL (usa) - "At the Altar of Mictlampa" CD: $13.00
 
 
       MARBLEBOG (hun) - "Wind of Moors" CD : $10.00
 
 
+      MARTIAL / I.N.F.A.N.T.R.Y. (pol/usa) - "Execution / Black to the Future" CD: $15.00
+
+
+      MJÖLNIR (ger) - "Grabgesang der Sonne - Midgard, erwache!" A5 DIGIPACK CD: $15.00
+
+
       MOHAREBEH (usa) - "We Are At War!!!" DIGIPACK CD: $10.00
+
+
+      MOONBLOOD (ger) - "Domains of Hell (reh/demo 12)" 2CD: $18.00
+
+
+      MOONBLOOD (ger) - "Moonblood (reh/demo 1)" CD: $15.00
+
+
+      MOONBLOOD (ger) - "The evil rules (reh/demo 2)" CD: $15.00
+
+
+      MOONBLOOD (ger) - "Worshippers of the grim sepulchral moon (reh/demo 11)" 2CD: $18.00
+
+
+      MØRKT TRE (ukr) - "Земля забута богом і людьми" A5 DIGIPACK CD: $14.00
 
 
       MÜTIILATION (fra) "Remains of a Ruined, Dead, Cursed Soul" CD: $14.00
@@ -668,6 +795,9 @@ labels:
       NOCTIFER (ita) - "454 - Anno Bastardi Domini" CD: $10.00
 
 
+      NOKTURNAL MORTUM (ukr) - "11 Years Among The Sheep" 2CD: $20.00
+
+
       NOKTURNE (usa) - "Kruelty Kampaign" CD: $10.00
 
 
@@ -675,6 +805,9 @@ labels:
 
 
       NORDVREDE (Nor) - "State of the Art" CD: $12.00
+
+
+      NORDVREDE (nor) - "Hammerprofeti" CD: $12.00
 
 
       NOXIA (ger) - "The Age of Wisdom" DIGIPACK CD: $10.00
@@ -695,10 +828,31 @@ labels:
       OVADER (Bul) - "Wotankult" CD: $10.00
 
 
+      PAGAN BLOOD (fra) - "The Last Empire" CD: $12.00
+
+
       PAGAN HELLFIRE (can) - "Chant of Forgotten Times" 2CD: $16.00
 
 
       PAGAN SKULL (fin) - "White Genocide" CD: $12.00
+
+
+      PAGANBLUT (bul) - "Auf der Suche nach reine heidnischen Seelen" 2CD: $16.00
+
+
+      PANTHEON (usa) - "Aryan Rebirth" DIGIPACK 2CD: $20.00
+
+
+      PANTHEON (usa) - "Draugrs Daug" CD: $20.00
+
+
+      PANTHEON (usa) - "Führersland" CD: $15.00
+
+
+      PANTHEON (usa) - "Krihapentswor" CD: $15.00
+
+
+      PANTHEON (usa) - "Paganuclear" CD: $15.00
 
 
       PANZERFAUST (Pol) - "I, Phallus God" CD: $10.00
@@ -713,13 +867,22 @@ labels:
       PERUNWIT (Pol) - "Wszystkie Odcienie Szarosci DIGIPACK" CD: $10.00
 
 
+      PERUNWIT / KRAINA ZIEMI (pol) - "Roots" DIGIPACK CD: $12.00
+
+
+      PESTIS CULTUS (aus) - "Pestis Cultus" DIGIPACK CD: $13.00
+
+
       PHOSPHORE BLANC (fra) - " Xenophobos" DIGIPACK CD: $10.00
 
 
-      PIAREVARCIEN (pol) – U Pošukach Pačatku Tych Šlachoŭ digipak CD: $10.00
+      PIAREVARCIEN (pol) – "U Pošukach Pačatku Tych Šlachoŭ" DIGIPACK CD: $10.00
 
 
       PROVIDENJE (ser) - "Patriot" CD: $10.00
+
+
+      RAHOWA (can) - "Cult of the Holy War" CD: $15.00
 
 
       RASSENHASS (ger) - "Lasst Sie Ruhig Kommen" CD: $10.00
@@ -732,6 +895,9 @@ labels:
 
 
       RAVENDARK'S MONARCHAL CANTICLE / POPRAVA (Bra/Pol) - "Pure Hate Attack" CD: $10.00
+
+
+      RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $13.00
 
 
       REVENGE (Can) - "Infilitration.Downfall.Death" CD: $10.00
@@ -752,22 +918,22 @@ labels:
       RUHO (Fin) - "Mouth Of Extinction" CD: $10.00
 
 
-      SARKRISTA / UNHUMAN DISEASE (ger/usa) - "Those Who Preach Perdition" CD: $10.00
-
-
       SAMMAS EQUINOX - "Tulikehrät" DIGIPACK CD: $14.00
 
 
       SAPTHURAN / SAD (usa/gre) - "Black Winter of Desolation" CD: $10.00
 
 
-      SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
+      SARKRISTA / UNHUMAN DISEASE (ger/usa) - "Those Who Preach Perdition" CD: $10.00
 
 
       SEGES FINDERE (bra) - "Hateful Wargasm" CD: $10.00
 
 
       SEGES FINDERE (bra) - "Massacre Supremacista" CD: $10.00
+
+
+      SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
 
 
       SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
@@ -812,13 +978,13 @@ labels:
       SLAEGT (Den) - "Ildsvanger" CD: $12.00
 
 
-      SØRGELIG (Gre) - "We, the Oblivious" CD: $10.00
-
-
       SPEAR OF LONGINUS (Aus) - "N.O.M." CD: $15.00
 
 
       SPEAR OF LONGINUS (Aus) - "Nada Brahma" CD: $15.00
+
+
+      SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" CD: $15.00
 
 
       STELLA ARJA (rus) - “Borning Star by Myself” CD: $14.00
@@ -827,16 +993,25 @@ labels:
       STOSSTRUPP (gre) - “Wir Kommen/Rehearsal 110”  CD: $12.00
 
 
-      STRIKE FORCE - "Blood And Iron - A Collection Of Strength" CDR BOX: $10.00
+      STURMKAISER (ita) - "Veni Vidi Vici" CD: $12.00
 
 
       STWORZ (Pol) - "Blask Wiecznego Ognia" CD: $10.00
 
 
+      SUASTI / ARYANWÜLF (spa/usa) - "Meine Ehre Heisst Treue" CD: $10.00
+
+
       SUNCHARIOT (usa) - "Bone Harvester" CD: $10.88
 
 
+      SUNCHARIOT / HADAK URA (usa) - split CD: $10.00
+
+
       SUNWHEEL (pol) - "Industry of Death" DIGIPACK CD: $12.00
+
+
+      SUNWHEEL (pol) - "Monuments of the Elder Faith" CD: $15.00
 
 
       SVARTR STURM (can) - "Burn the Soviet Flag" DIGIPACK CD: $12.00
@@ -860,6 +1035,12 @@ labels:
       SVOLDER (Can) - "The Beast's Mercenaries" CD: $12.00
 
 
+      SØRGELIG (Gre) - "We, the Oblivious" CD: $10.00
+
+
+      TAGHUT (usa) - "Ejaculate Upon The Holy Qur'an" CD: $12.00
+
+
       TEMNOZOR (Rus) - "Folkstorm of the Azure Nights" CD: $12.00
 
 
@@ -872,7 +1053,19 @@ labels:
       THE SHADOW ORDER / GROM (gre/usa) - "Sons of Zeus" CD: $15.00
 
 
+      THOR'S HAMMER (pol) - "May the Hammer Smash the Cross" CD: $15.00
+
+
       THOR'S HAMMER (pol) - "The Fate Worse Than Death" CD: $12.00
+
+
+      THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.00
+
+
+      TODESZONE (swiss) - "Todeszone" CD: $12.00
+
+
+      TODESZONE (swiss) - "Winter Funeral Processions" CD: $12.00
 
 
       TOTENBURG (ger) - "Art und Kampf" CD: $13.00
@@ -881,7 +1074,13 @@ labels:
       TOTENBURG (ger) - "Pestpogrom" CD: $15.00
 
 
+      TOTENRUNE (ukr) - "Towards the Universe" DIGIPACK CD: $12.00
+
+
       TWO RUNES (fin) - "Herää Eurooppa!" CD: $14.00
+
+
+      TYRANATH / EINGAR / KVAATHAN (usa/can) - "Vinlandic War Hymns" CD: $10.00
 
 
       VAMPYRIC BLOOD (fin) - Watching the Nights Rot in Eternal Melancholy CD: $12.00
@@ -899,6 +1098,9 @@ labels:
       VERMINE (fra) - "Agonie D'une Nation" CD: $12.00
 
 
+      VERMINE (fra) - "Promethean - Ère du surhomme" DIGIPACK CD: $13.00
+
+
       VETALA (por) - "Burn Your Head with Satan" DIGIPACK CD: $14.00
 
 
@@ -911,19 +1113,28 @@ labels:
       WEHRHAMMER (ger) – “Das Ende Naht” CD: $10.00
 
 
+      WEREWOLF BLOODORDER (Bra) - "Rites of Murder and Sacrifice" DIGIPACK CD: $13.00
+
+
+      WEWELSBURG (rus) - "Ultima Intolerance" CD: $20.00
+
+
       WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $14.00
 
 
-      WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
-
-
       WINTERGEWITTER (ger) - "Operation Wintergewitter" CD: $10.00
+
+
+      WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
 
 
       WODULF (gre) - "Wargus Esto" CD: $14.00
 
 
       WOJNAR (pol) - “Zimowa Opowieść” CD: $12.00
+
+
+      WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
 
 
       WOLFBLOOD (aus) - "Wolfblood' DIGIPACK CD: $12.00
@@ -947,16 +1158,28 @@ labels:
       WOLVES' WINTER (Arg) - "Necrosophic Illumination" CD: $10.00
 
 
+      WOTANORDEN (usa) - "Aryan Culture Preservation" CD: $15.00
+
+
+      WOTANORDEN (usa) - "From the Storm come the Wolves" CD: $15.00
+
+
       WOTANORDEN (usa) - "Legends of the Valorous Fallen" CD: $10.00
 
 
       ŻMIJ / GONTYNA KRY (pol) - "Obrzędów Dawnych Tchnienie/Przebudzić ze Snu" CD: $13.00
 
 
+      V/A - "Chronicles of Tyranny and Blood (Tribute to Graveland)" CD: $15.00
+
+
       V/A - "Power Electronics Against Communism Part 2" CD: $10.00
 
 
       V/A - "Svensk Arisk Black Metal" CD: $10.00
+
+
+      "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $10.00
   - title: TAPES
     body: >-
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
@@ -983,10 +1206,16 @@ labels:
       ARMNATT (por) - "Darkness Times" TAPE: $9.00
 
 
+      ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" TAPE: $9.00
+
+
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
       ASSASSINATION (Ger) - "Red Magick Faction" TAPE: $9.00
+
+
+      ASSASSINATION (ger) - "Into space and out of reach" TAPE: $12.00
 
 
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
@@ -1004,6 +1233,9 @@ labels:
       BLACK WITCHERY (US) - "Live Desecration 2012" TAPE: $8.00
 
 
+      BLOOD & SOIL (fin) - "The Swastika & The Sun" TAPE: $8.00
+
+
       BLUTKULT / CELTIC DANCE (ger/por) "We are the roar of thunder" TAPE: $8.00
 
 
@@ -1019,7 +1251,13 @@ labels:
       BRUTAL BEGUDE (fra) - "Radikal Musik" TAPE: $7.00
 
 
+      BURZUM (nor) - "Aske" TAPE: $10.00
+
+
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
+
+
+      CIRCLE OF DAWN (fin) - "Northern Savonian Black Metal" TAPE: $9.00
 
 
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
@@ -1037,7 +1275,16 @@ labels:
       DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
 
 
+      DRACONES (usa) - "Son of the Devil" TAPE: $8.00
+
+
+      DREADFUL RELIC (gre) - "Archaic Conjurations" TAPE: $8.00
+
+
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TAPE: $8.00
+
+
+      DREADFUL RELIC (gre) - "Warlords Of Cosmic Sovereign" TAPE: $8.00
 
 
       E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
@@ -1046,7 +1293,19 @@ labels:
       EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
+      ELITISM (fra) - "L'odeur des déportés" TAPE: $8.00
+
+
+      ELITISM (fra) - "Pour la pureté de mon Sang" TAPE: $8.00
+
+
+      ELITISM (fra) - "Quand l'étoile de David Brûlait" TAPE: $8.00
+
+
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
+
+
+      EVIL (bra) - "To The Fallen and Free" TAPE: $8.00
 
 
       FAETHON (Gre) - "Faethon" TAPE: $6.00
@@ -1067,6 +1326,9 @@ labels:
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
+      HADAK URA (usa) - "Ten Arrows From The Sky/Weep At The Glorious Shrines Of Nature" TAPE: $7.00
+
+
       HAKENKREUZ NOCTURNA (Ita) - "Eternal Introspective Winter" tape: $6.00
 
 
@@ -1080,6 +1342,9 @@ labels:
 
 
       IRAE (por) - "The Maniac Perversion Of My Soul" TAPE: $9.00
+
+
+      KOMMANDEMENT (bel) - "732 Anno Domini" TAPE: $8.50
 
 
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
@@ -1104,6 +1369,9 @@ labels:
 
 
       LYNCH MOB (usa) - "Lynch Mob" TAPE: $7.00
+
+
+      MALÉFICE (fra) - "Rencontre Avec La Bête" TAPE: $8.00
 
 
       MINENWERFER (usa) - "Volkslieder" TAPE: $7.00
@@ -1187,6 +1455,9 @@ labels:
       RUNDAGOR (rus) - "The Beastrealm" TAPE: $10.00
 
 
+      SACRIFICIAL MASSACRE (usa) - "Black Blades Of Vengeance" TAPE: $8.00
+
+
       SACRIFICIAL MASSACRE / SWERDTHEGAN (usa) - "Our Glory Is Our Ancient Blood" TAPE: $7.00
 
 
@@ -1200,6 +1471,9 @@ labels:
 
 
       SEGES FINDERE (bra) - "Live Warnoise" TAPE: $7.00
+
+
+      SEVERE STORM (pol) - "The Awakening" TAPE: $7.00
 
 
       SOMNOLENCE (usa) - "As Midgard Weeps" TAPE: $6.00
@@ -1242,6 +1516,9 @@ labels:
 
 
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" TAPE: $8.00
+
+
+      TOD (ita) - "Black Metal Manifesto" TAPE: $8.00
 
 
       TODESSTRAFE (ita) - "Under The Sign Of The Storm" TAPE: $8.50
@@ -1310,10 +1587,13 @@ labels:
       WUDUWÉSTEN (usa) - "The Bleak Forest of Sorrow" TAPE: $7.00
 
 
+      XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
+
+
       XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
-      ABSURD (ger) - "Asgardsrei" LP: $17.00    \*HAS CORNER DAMAGE\*
+      ABSURD (ger) - "Asgardsrei" LP   *HAS CORNER DAMAGE*: $17.00   
 
 
       ABSURD (ger) - "Sonnenritter" LP: $26.00
@@ -1323,6 +1603,15 @@ labels:
 
 
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
+
+
+      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP: $30.00
+
+
+      ABYSSIC HATE (aus) - "Suicidal Emotions" LP: $26.00
+
+
+      AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
 
 
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
@@ -1335,6 +1624,18 @@ labels:
 
 
       ARGHOSLENT (usa) - "Unconquered Soldiery" LP: $22.00
+
+
+      ARMAGGEDON (fra) - "A Tribute to Black Metal" PICTURE DISC LP: $26.00
+
+
+      ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" LP: $26.00
+
+
+      ARYAN KAMPF 88 (bel) - "Belgian Steel" LP: $30.00
+
+
+      ARYAN KAMPF 88 (bel) - "Dernière Salve" LP: $30.00
 
 
       ARYAN KAMPF 88 (bul) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $30.00
@@ -1355,7 +1656,10 @@ labels:
       DARK FURY (pol) - "Vae Victis!" LP: $20.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP: $22.00   \*HAS SOME SUBTLE CORNER DAMAGE + RING WEAR\*
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP   *HAS SUBTLE CORNER DAMAGE AND RING WEAR*: $22.00  
+
+
+      DER STÜRMER (gre) - "Bloodsworn II" 2LP: $38.00
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
@@ -1365,6 +1669,12 @@ labels:
 
 
       DEVILRY (Fin) - "Treuelied" LP: $28.00
+
+
+      EISENWINTER / NOKTURNE (swiss/usa) - split 10" MLP: $20.00
+
+
+      EISENWINTER / VOTHANA (swiss/usa) - split 10" MLP: $20.00
 
 
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
@@ -1412,6 +1722,12 @@ labels:
       KOHORT (pol) - "Megiddo Eve" LP: $18.00
 
 
+      KOMMANDEMENT (bel) - "732 anno domini" LP   *HAS CORNER DAMAGE*: $22.00
+
+
+      KOMMANDEMENT (bel) - "Bientôt le renouveau" LP   *HAS CORNER DAMAGE*:$22.00
+
+
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
@@ -1433,10 +1749,28 @@ labels:
       MARTIAL / NIGLET (pol/usa) - split 12" MLP: $25.00
 
 
+      MJÖLNIR (ger) - "Walpurgisfeuer" LP: $26.00
+
+
       MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
+      MOONTOWER (pol) - "Darkness... Glory to Hatred" LP   *HAS CORNER DAMAGE*: $16.00
+
+
+      NEKROKRIST SS (fin) - "Neljän Käärmeen Veljeskunta" LP: $28.00
+
+
+      NOKTURNAL MORTUM (ukr) - "Нехристь / NeChrist" 2LP: $30.00
+
+
+      OHTAR (pol) - "Emptiness" LP: $25.00
+
+
       ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" LP: $26.00
+
+
+      ORDER OF THE WHITE HAND (fin) - "Veren Muisto" LP: $20.00
 
 
       ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" LP: $25.00
@@ -1451,10 +1785,19 @@ labels:
       PERMAFROST (ger) - "Porcus Christus" LP: $18.00
 
 
+      RAIO NEGRO (por) - "Galactic Portals Of The 7 Infernal Suns" LP: $28.00
+
+
+      REIDH (fin) - "Reidh" LP: $26.00
+
+
       SEIGNEUR VOLAND (fra) - "Consumatum Est" LP: $26.00
 
 
       SELBSTMORD (pol) - "Dawn of a New Era" LP: $20.00
+
+
+      SELBSTMORD (pol) - "Radical Declaration" LP: $23.00
 
 
       SONS OF SATAN (swe) - "In Times of Fire" LP: $26.00
@@ -1466,6 +1809,12 @@ labels:
       SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" LP: $20.00
 
 
+      STREICHER (aus) - "Genius of Victory" LP: $30.00
+
+
+      STURMGEWEHR (usa) - "Aufhetzung des Hakenkreuz-Volkes" LP: $26.00
+
+
       SVETOVID (US) - "Nature's Fury" LP: $20.00
 
 
@@ -1475,10 +1824,40 @@ labels:
       THOR'S HAMMER (pol) - The Fate Worse Than Death LP: $20.00
 
 
+      TOTESLAUT (fin) - "Daikukotennyo" 10" MLP: $20.00
+
+
+      VERMINE (fra) - "Agonie d'une Nation / Un Nouvel Ordre Noir" 2LP: $35.00
+
+
+      VOTHANA (usa) - "Biệt Động Quân / Commando" 2LP: $35.00
+
+
+      VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
+
+
       VRILDOM (arg) - "Thus Spoke the Austral Wind…" LP: $25.00
 
 
       VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
+
+
+      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $30.00
+
+
+      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $30.00
+
+
+      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $36.00
+
+
+      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $36.00
+
+
+      WEHRHAMMER (ger) - "My Father Satan" 2LP: $36.00
+
+
+      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $36.00
 
 
       WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" MLP: $23.00
@@ -1487,10 +1866,28 @@ labels:
       WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
 
 
+      WITCHBLOOD (usa) - "Sorceress of the Black Sun" LP: $20.00
+
+
       WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
+
+
+      WOTANORDEN (usa) - "The Hands of Fate" LP: $20.00
+
+
+      XENOPHOBIC (ger) - "Evangelium der Vergasung" 2LP: $40.00
+
+
+      XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" LP: $30.00
+
+
+      V/A - "Flammes De France Opus II" LP: $25.00
+
+
+      V/A - "Werewolves Of The Night II - Public Enemies Of The Northeast" LP: $20.00
   - title: 7" VINYL
     body: >-
       ABSURD (ger) - "Thuringian Pagan Madness" EP (different cover art): $13.00
@@ -1554,9 +1951,21 @@ labels:
 
 
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
+
+
+      VAPAUDENRISTI / PYLVANAINEN (fin) - split EP: $12.00
+
+
+      ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00
+
+
+      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL): $22.00
+
+
+      BLOOD & SOIL (fin) - TSHIRT (L, XL): $22.00
 
 
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL: M, L, XL / GREEN: M, L, XL): $20.00
@@ -1602,6 +2011,9 @@ labels:
 
 
       TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M only): $18.00
+
+
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (M, L, XL): $23.00
 
 
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
