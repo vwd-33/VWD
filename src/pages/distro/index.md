@@ -1920,7 +1920,7 @@ labels:
       AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL): $22.00
 
 
-      BLOOD & SOIL (fin) - TSHIRT (L, XL): $22.00
+      BLOOD & SOIL (fin) - TSHIRT (XL only): $22.00
 
 
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL: M, L, XL / GREEN: M, L, XL): $20.00
