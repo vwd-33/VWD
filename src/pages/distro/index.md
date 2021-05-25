@@ -1266,9 +1266,6 @@ labels:
       DRACONES (usa) - "Son of the Devil" TAPE: $8.00
 
 
-      DREADFUL RELIC (gre) - "Archaic Conjurations" TAPE: $8.00
-
-
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TAPE: $8.00
 
 
@@ -1282,9 +1279,6 @@ labels:
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
-
-
-      EVIL (bra) - "To The Fallen and Free" TAPE: $8.00
 
 
       FAETHON (Gre) - "Faethon" TAPE: $6.00
@@ -1990,9 +1984,6 @@ labels:
 
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
-
-
-      BEHOLD BARBARITY "D.J.S.U.U" TSHIRT (L only): $20.00
 
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
