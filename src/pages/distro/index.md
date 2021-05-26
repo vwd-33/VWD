@@ -804,9 +804,6 @@ labels:
       NORDVREDE (Nor) - "State of the Art" CD: $12.00
 
 
-      NORDVREDE (nor) - "Hammerprofeti" CD: $12.00
-
-
       NOXIA (ger) - "The Age of Wisdom" DIGIPACK CD: $10.00
 
 
@@ -2002,8 +1999,6 @@ labels:
       ORDER OF THE DEATH'S HEAD (fra) - Jewicide PATCH (black or white): $6.00
 
       ORDER OF THE WHITE HAND (fin) - Odal Rune PATCH: $6.00
-
-      SLAVECRUSHING TYRANT (pol) - logo PATCH: $6.00
 
       THE RAUNCHOUS BROTHERS (usa) - PATCH: $6.00
 
