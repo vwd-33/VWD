@@ -390,9 +390,6 @@ labels:
       DARK FURY (pol) - "Flooded Lands" CD: $10.88
 
 
-      DARK FURY (pol) - "Fortress of Eagles" CD: $12.00
-
-
       DARK FURY (pol) - "On The Trail of a Victor" 2CD: $15.00
 
 
