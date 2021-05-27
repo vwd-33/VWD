@@ -135,10 +135,10 @@ labels:
       *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
-      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $14.00
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
 
 
-      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $12.00
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
 
 
       *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
@@ -258,7 +258,7 @@ labels:
       ASSASSINATION (ger) - "Circles within Circles" CD: $12.00
 
 
-      ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $14.00
+      ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
 
 
       ASSASSINATION (ger) - "Mental Warfare Commanding Emperor" CD: $10.00
@@ -1200,7 +1200,7 @@ labels:
       ASSASSINATION (Ger) - "Red Magick Faction" TAPE: $9.00
 
 
-      ASSASSINATION (ger) - "Into space and out of reach" TAPE: $12.00
+      ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
 
 
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
