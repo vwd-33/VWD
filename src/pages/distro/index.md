@@ -546,9 +546,6 @@ labels:
       GOATPENIS (bra) - "Biochemterrorism" CD: $12.00
 
 
-      GOATPENIS (bra) - "Depleted Ammunition" CD: $12.00
-
-
       GOATPENIS (bra) - "Flesh Consumed in the Battlefield" CD: $12.00
 
 
