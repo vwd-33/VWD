@@ -183,19 +183,19 @@ labels:
       88 (bul) - "Power Against Propaganda" CD: $15.00
 
 
-      ABSURD (Ger) - "Blutgericht" CD: $13.00
+      ABSURD (ger) - "Blutgericht" CD: $13.00
 
 
-      ABSURD (Ger) - "Der fünfzehnjährige Krieg" CD: $15.00
+      ABSURD (ger) - "Der fünfzehnjährige Krieg" CD: $15.00
 
 
-      ABSURD (Ger) - "Facta Loquuntur" CD: $13.00
+      ABSURD (ger) - "Facta Loquuntur" CD: $13.00
 
 
-      ABSURD (Ger) - "Promo 11/2019 A.Y.P.S." DIGISLEEVE CD: $7.00
+      ABSURD (ger) - "Promo 11/2019 A.Y.P.S." DIGISLEEVE CD: $7.00
 
 
-      ABSURD (Ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
+      ABSURD (ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
 
 
       ABYSSIC HATE (aus) - "Suicidal Emotions" DIGIPACK CD: $15.00
@@ -213,7 +213,7 @@ labels:
       AMALEK (ger) - "20 Jahre Kampf für Blut, Volk und Tradition!" CD: $15.00
 
 
-      ANCESTRAL SHADOWS (US) - "The Sorrows Of Centuries Past" DIGIPACK CD: $12.00
+      ANCESTRAL SHADOWS (usa) - "The Sorrows Of Centuries Past" DIGIPACK CD: $12.00
 
 
       ANCESTRAL SHADOWS (usa) - "Wolven Mysteries Of Ancient Lore" DIGIPACK CD: $10.00
@@ -285,7 +285,7 @@ labels:
       BESTIAL WHORE (usa) - "Sabbatic Goat Birth" CD: $10.00
 
 
-      BILSKIRNIR (Ger) - "Totenheer / Dem Feind entgegen" CD: $12.00
+      BILSKIRNIR (ger) - "Totenheer / Dem Feind entgegen" CD: $12.00
 
 
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $12.00
@@ -859,9 +859,6 @@ labels:
 
 
       PESTIS CULTUS (aus) - "Pestis Cultus" DIGIPACK CD: $13.00
-
-
-      PHOSPHORE BLANC (fra) - " Xenophobos" DIGIPACK CD: $10.00
 
 
       PIAREVARCIEN (pol) – "U Pošukach Pačatku Tych Šlachoŭ" DIGIPACK CD: $10.00
