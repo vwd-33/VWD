@@ -1671,7 +1671,7 @@ labels:
       KOMMANDEMENT (bel) - "732 anno domini" LP   *HAS CORNER DAMAGE*: $22.00
 
 
-      KOMMANDEMENT (bel) - "Bientôt le renouveau" LP   *HAS CORNER DAMAGE*:$22.00
+      KOMMANDEMENT (bel) - "Bientôt le renouveau" LP   *HAS CORNER DAMAGE*: $22.00
 
 
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
@@ -1765,9 +1765,6 @@ labels:
 
 
       THE RAUNCHOUS BROTHERS (usa) - "Die! F. Die!" LP: $30.00
-
-
-      THOR'S HAMMER (pol) - The Fate Worse Than Death LP: $20.00
 
 
       TOTESLAUT (fin) - "Daikukotennyo" 10" MLP: $20.00
