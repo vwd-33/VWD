@@ -1038,7 +1038,7 @@ labels:
       THOR'S HAMMER (pol) - "The Fate Worse Than Death" CD: $12.00
 
 
-      THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.00
+      THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
 
 
       TODESZONE (swiss) - "Todeszone" CD: $12.00
