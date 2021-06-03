@@ -35,7 +35,7 @@ description2:
         very open to reaching a compromise that is fair & honest for both
         parties!
     - text: "                                                                Last
-        Distro Update: May 24, 2021"
+        Distro Update: June 2, 2021"
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
@@ -753,6 +753,9 @@ labels:
       MOONBLOOD (ger) - "Domains of Hell (reh/demo 12)" 2CD: $18.00
 
 
+      MOONBLOOD (ger) - "Kingdom of Forgotten Dreams (reh/demo 4)" CD: $15.00
+
+
       MOONBLOOD (ger) - "Moonblood (reh/demo 1)" CD: $15.00
 
 
@@ -913,9 +916,6 @@ labels:
 
 
       SEGES FINDERE (bra) - "Massacre Supremacista" CD: $10.00
-
-
-      SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
 
 
       SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
