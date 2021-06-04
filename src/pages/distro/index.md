@@ -1815,9 +1815,6 @@ labels:
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
 
 
-      WOTANORDEN (usa) - "The Hands of Fate" LP: $20.00
-
-
       XENOPHOBIC (ger) - "Evangelium der Vergasung" 2LP: $40.00
 
 
