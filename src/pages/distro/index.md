@@ -1899,7 +1899,7 @@ labels:
       ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00 
 
 
       AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL): $22.00
@@ -1953,7 +1953,13 @@ labels:
       TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M only): $18.00
 
 
+      TODESSTRAFE (ita) - "Flags & Flames" TSHIRT (XL only): $22.00
+
+
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (M, L, XL): $23.00
+
+
+      WAR 88 (pol) - TSHIRT (L, XL): $22.00
 
 
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
