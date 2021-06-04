@@ -1953,7 +1953,7 @@ labels:
       TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M only): $18.00
 
 
-      TODESSTRAFE (ita) - "Flags & Flames" TSHIRT (XL only): $22.00
+      TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
 
 
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (M, L, XL): $23.00
