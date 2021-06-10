@@ -711,9 +711,6 @@ labels:
       LOITS (est) - "Tulisilma Sünd" CD: $10.00
 
 
-      M8L8TH (rus) - "By the Wing of Black" CD: $12.00
-
-
       M8L8TH (rus) - "The Black March Saga" CD: $12.00
 
 
