@@ -1911,7 +1911,7 @@ labels:
       DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S, XXL): $18.00
 
 
-      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (S only): $20.00
+      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (S, XL): $20.00
 
 
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL): $20.00
@@ -1950,7 +1950,7 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (M, L, XL): $23.00
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (L, XL): $23.00
 
 
       WAR 88 (pol) - TSHIRT (L, XL): $22.00
