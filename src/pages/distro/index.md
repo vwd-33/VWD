@@ -1734,9 +1734,6 @@ labels:
       REIDH (fin) - "Reidh" LP: $26.00
 
 
-      SEIGNEUR VOLAND (fra) - "Consumatum Est" LP: $26.00
-
-
       SELBSTMORD (pol) - "Dawn of a New Era" LP: $20.00
 
 
