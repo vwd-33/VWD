@@ -372,9 +372,6 @@ labels:
       CAPRICORNUS / DER STÜRMER (pol/gre) - "Polish-Hellenic Alliance Against Z.O.G.!" CD: $18.00
 
 
-      CATERVA RUNA (fra) - "Europa Nostra" CD: $13.00
-
-
       CELTIC DANCE (Por) - "Regressus Ad Uterum" DIGIPACK CD: $10.00
 
 
@@ -1065,9 +1062,6 @@ labels:
       VAPAUDENRISTI (fin) - "Ei Maata Ilman Kansaa" DIGIPACK CD: $12.00
 
 
-      VEIL (usa) - "Sombre" CD: $12.00
-
-
       VELIMOR (rus) - "Legacy" CD: $10.00
 
 
@@ -1501,9 +1495,6 @@ labels:
 
 
       VENEDAE (pol) - "Siedem Kamiennych Oblicz" TAPE: $8.00
-
-
-      VERMINE (fra) - "Un Nouvel Ordre Noir - Ère de l'Intolérance" TAPE: $7.00
 
 
       VETALA (por) - "Demo 4" TAPE: $9.00
