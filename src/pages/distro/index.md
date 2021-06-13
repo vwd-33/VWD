@@ -1539,7 +1539,7 @@ labels:
       ABSURD (ger) - "Asgardsrei" LP   *HAS CORNER DAMAGE*: $17.00   
 
 
-      ABSURD (ger) - "Sonnenritter" LP: $26.00
+      ABSURD (ger) - "Sonnenritter" LP: $28.00
 
 
       ABSURD (ger) - "Werwolfthron" LP: $23.00
@@ -1549,9 +1549,6 @@ labels:
 
 
       ABYSSIC HATE (aus) - "A Decade of Hate" 2LP: $30.00
-
-
-      ABYSSIC HATE (aus) - "Suicidal Emotions" LP: $26.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
@@ -1767,22 +1764,22 @@ labels:
       VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
 
 
-      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $30.00
+      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $28.00
 
 
-      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $30.00
+      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $28.00
 
 
-      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $36.00
+      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $36.00
+      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "My Father Satan" 2LP: $36.00
+      WEHRHAMMER (ger) - "My Father Satan" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $36.00
+      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $35.00
 
 
       WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" MLP: $23.00
