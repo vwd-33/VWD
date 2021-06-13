@@ -1710,7 +1710,7 @@ labels:
       PANTHEON OF BLOOD (fin) - "Voices Rooted in Blood" LP: $25.00
 
 
-      PENTAGAMMADION / MOONTOWER (pol) - "Dies Imperii" LP: $26.00
+      PENTAGAMMADION / MOONTOWER (pol) - "Dies Imperii" LP: $25.00
 
 
       PERMAFROST (ger) - "Porcus Christus" LP: $18.00
@@ -1764,22 +1764,22 @@ labels:
       VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
 
 
-      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $28.00
+      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $30.00
 
 
-      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $28.00
+      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $30.00
 
 
-      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $35.00
+      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $36.00
 
 
-      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $35.00
+      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $36.00
 
 
-      WEHRHAMMER (ger) - "My Father Satan" 2LP: $35.00
+      WEHRHAMMER (ger) - "My Father Satan" 2LP: $36.00
 
 
-      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $35.00
+      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $36.00
 
 
       WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" MLP: $23.00
