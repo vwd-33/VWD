@@ -1614,7 +1614,7 @@ labels:
       ETERNAL STRIFE (usa) - "When The World Comes Crumbling Down" LP: $20.00
 
 
-      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC LP: $35.00
+      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC LP: $30.00
 
 
       FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" LP: $20.00
