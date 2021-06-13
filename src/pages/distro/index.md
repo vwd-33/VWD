@@ -1893,7 +1893,7 @@ labels:
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL): $20.00
 
 
-      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S, XXL): $18.00
+      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only): $18.00
 
 
       DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (S, XL): $20.00
