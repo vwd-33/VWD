@@ -34,6 +34,11 @@ const Footer = class extends React.Component {
                         Distro
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/archive">
+                        Release Archive
+                      </Link>
+                    </li>
                     {/* <li>
                       <a
                         className="navbar-item"
@@ -71,7 +76,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <p className="copyright">Copyright 2019: Vinlandic Werwolf Distribution</p>
+        <p className="copyright">Copyright 2021: Vinlandic Werwolf Distribution</p>
       </footer>
     )
   }

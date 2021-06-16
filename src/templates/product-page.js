@@ -13,7 +13,7 @@ export const ProductPageTemplate = ({
     <img
       alt="top product"
       className="top-image"
-      src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
+      src={!!image && image.childImageSharp ? image.childImageSharp.fluid.src : image}
     />
     <h2
       className="has-text-weight-bold is-size-1 header-with-background"
