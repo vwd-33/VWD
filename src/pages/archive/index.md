@@ -5,7 +5,7 @@ title: Release Archive
 image: /img/vwd-logo-censored-3-copy.png
 description2:
   emailText: VINLANDIC WERWOLF Music Releases
-  email: vinlandicwerwolf@hotmail.com
+  email: " "
   descriptionList:
     - text: >-
         VWD 01 PANTHEON - "Iotunkrieg" Pro CS
