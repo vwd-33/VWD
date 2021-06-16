@@ -172,9 +172,6 @@ labels:
       VWD 57 ASSASSINATION - "Into Space and Out of Reach" Pro CS / A5 DIGIPACK CD
 
 
-      VWD 58 WEHRMACHT - "Wehrmacht" CD 
-
-
       VWD 59 E.A.G.L.E. - "Fortitude" Pro CS
 
 
