@@ -198,7 +198,7 @@ labels:
 
       FORLORN WINDS - HEL TSHIRT
 
-      PANTHEON - IOTUNKRIEG TSHIRT
+      PANTHEON - Iotunkrieg TSHIRT
 
       NOKTURNE - Totenkopf Arsenal TSHIRT
 
