@@ -5,6 +5,7 @@ import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 
+// eslint-disable-next-line
 export const IndexPageTemplate = ({ image, title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
   return (
