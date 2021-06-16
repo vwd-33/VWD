@@ -55,6 +55,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Image", name: "image", widget: "image"}
-          - {label: "Description2", name: "description2", widget: "object", fields: [{label: "EmailText", name: "emailText", widget: "string"}, {label: "Email", name: "email", widget: "string"}, {label: "DescriptionList", name: "descriptionList", widget: "list", fields: [{text: "Text", name: "text", widget: "text"}]}]}
+          - {label: "Description2", name: "description2", widget: "object", fields: [{label: "DescriptionList", name: "descriptionList", widget: "list", fields: [{text: "Text", name: "text", widget: "text"}]}]}
           - {label: "Labels", name: "labels", widget: "list", fields: [{label: "Title", name: "title", widget: "string"}, {label: "Body", name: "body", widget: "markdown"}]}
       

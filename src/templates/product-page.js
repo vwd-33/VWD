@@ -26,7 +26,7 @@ export const ProductPageTemplate = ({
       {title}
     </h2>
     <section className="distroDescription">
-      <p className="distroDescription__email">{description2.emailText}: <a href={`mailto: ${description2.email}`}>{description2.email}</a></p>
+    {description2.emaiText && <p className="distroDescription__email">{description2.emailText}: <a href={`mailto: ${description2.email}`}>{description2.email}</a></p>}
       {description2.descriptionList.map(e => <div className="distroDescription__topText">{e.text}</div>)}
     </section>
     <section className="distroLabels">

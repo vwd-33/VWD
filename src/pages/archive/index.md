@@ -4,9 +4,8 @@ path: /archive
 title: Release Archive
 image: /img/vwd-logo-censored-3-copy.png
 description2:
-  emailText: " "
-  email: " "
-  descriptionList: []
+  descriptionList: 
+    - text: "This page exists to serve as an archive for all VINLANDIC WERWOLF releases."
 labels:
   - title: VINLANDIC WERWOLF Music Releases
     body: >-
