@@ -4,8 +4,9 @@ path: /archive
 title: Release Archive
 image: /img/vwd-logo-censored-3-copy.png
 description2:
-  descriptionList: 
-    - text: "This page exists to serve as an archive for all VINLANDIC WERWOLF releases."
+  descriptionList:
+    - text: This page exists to serve as an archive for all VINLANDIC WERWOLF
+        releases.
 labels:
   - title: VINLANDIC WERWOLF Music Releases
     body: >-
@@ -191,16 +192,84 @@ labels:
 
       VWD 65 LEBENSRAUM - "Werwolf" CD
   - title: VINLANDIC WERWOLF Merchandise Releases
-    body: |-
-      ARYAN HAMMER - Logo TSHIRT (Black Tshirts & White Tshirts)
+    body: >-
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT
 
-      FORLORN WINDS - Old Logo TSHIRT
 
-      FORLORN WINDS - HEL TSHIRT
+      ARYAN HAMMER - logo TSHIRT (Black Tshirts & White Tshirts)
 
-      PANTHEON - Iotunkrieg TSHIRT
 
-      NOKTURNE - Totenkopf Arsenal TSHIRT
+      DARK FURY  - "Messenger of Inevitable Death" TSHIRT (Charcoal Gray Tshirts & Military Green Tshirts)
 
-      WEWELSSBURG - Logo TSHIRT
+
+      DARK FURY  - "W.A.R. Against Christianity" TSHIRT
+
+
+      DEATHKEY - "Doctrine of Intolerant Hatred" TSHIRT
+
+
+      DER STÜRMER  - "Himmelstürmer" TSHIRT
+
+
+      DER STÜRMER - "The Blood Calls for W.A.R.!" TSHIRT
+
+
+      ELITISM -  "Quand l'étoile de David Brûlait" TSHIRT
+
+
+      FORLORN WINDS - "HEL" TSHIRT
+
+
+      FORLORN WINDS - old logo TSHIRT
+
+
+      INTOLITARIAN - "Antifa Parasite" TSHIRT
+
+
+      INTOLITARIAN - "Deathwolf Swastagrammaton" TSHIRT
+
+
+      INTOLITARIAN - "Hate Legion Disciple" LONG SLEEVE SHIRT
+
+
+      INTOLITARIAN - "Squealing Target" TSHIRT
+
+
+      KVASIR'S BLOOD - "Triumph of the Will" TSHIRT (Black Tshirts & Forest Green Tshirts)
+
+
+      MOHAREBEH - "Total Support" TSHIRT
+
+
+      NOKTURNE - "Totenkopf Arsenal" TSHIRT
+
+
+      OHTAR - "Emptiness" TSHIRT
+
+
+      PANTHEON - "Iotunkrieg" TSHIRT
+
+
+      TWO RUNES - "Herää Eurooppa!" TANK TOP
+
+
+      VOTHANA - "Jewboros" TSHIRT
+
+
+      VOTHANA - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT
+
+
+      WEWELSSBURG  - logo TSHIRT
+
+
+      WODULF - "Zerezat" TSHIRT
+
+
+      WOLFNACHT (gre) - "Blut und Boden" TSHIRT
+
+
+      \------------------------------------------------------
+
+
+      ENDSIEG - logo METAL PIN
 ---
