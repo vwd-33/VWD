@@ -196,80 +196,80 @@ labels:
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT
 
 
-      ARYAN HAMMER - logo TSHIRT (Black Tshirts & White Tshirts)
+      ARYAN HAMMER (fin) - logo TSHIRT (Black Tshirts & White Tshirts)
 
 
-      DARK FURY  - "Messenger of Inevitable Death" TSHIRT (Charcoal Gray Tshirts & Military Green Tshirts)
+      DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (Charcoal Gray Tshirts & Military Green Tshirts)
 
 
-      DARK FURY  - "W.A.R. Against Christianity" TSHIRT
+      DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT
 
 
-      DEATHKEY - "Doctrine of Intolerant Hatred" TSHIRT
+      DEATHKEY (usa) - "Doctrine of Intolerant Hatred" TSHIRT
 
 
-      DER STÜRMER  - "Himmelstürmer" TSHIRT
+      DER STÜRMER  (gre) - "Himmelstürmer" TSHIRT
 
 
-      DER STÜRMER - "The Blood Calls for W.A.R.!" TSHIRT
+      DER STÜRMER (gre) - "The Blood Calls for W.A.R.!" TSHIRT
 
 
-      ELITISM -  "Quand l'étoile de David Brûlait" TSHIRT
+      ELITISM (fra) - "Quand l'étoile de David Brûlait" TSHIRT
 
 
-      FORLORN WINDS - "HEL" TSHIRT
+      FORLORN WINDS (usa) - "HEL" TSHIRT
 
 
-      FORLORN WINDS - old logo TSHIRT
+      FORLORN WINDS (usa) - old logo TSHIRT
 
 
-      INTOLITARIAN - "Antifa Parasite" TSHIRT
+      INTOLITARIAN (usa) - "Antifa Parasite" TSHIRT
 
 
-      INTOLITARIAN - "Deathwolf Swastagrammaton" TSHIRT
+      INTOLITARIAN (usa) - "Deathwolf Swastagrammaton" TSHIRT
 
 
-      INTOLITARIAN - "Hate Legion Disciple" LONG SLEEVE SHIRT
+      INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE SHIRT
 
 
-      INTOLITARIAN - "Squealing Target" TSHIRT
+      INTOLITARIAN (usa) - "Squealing Target" TSHIRT
 
 
-      KVASIR'S BLOOD - "Triumph of the Will" TSHIRT (Black Tshirts & Forest Green Tshirts)
+      KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (Black Tshirts & Forest Green Tshirts)
 
 
-      MOHAREBEH - "Total Support" TSHIRT
+      MOHAREBEH (usa) - "Total Support" TSHIRT
 
 
-      NOKTURNE - "Totenkopf Arsenal" TSHIRT
+      NOKTURNE (usa) - "Totenkopf Arsenal" TSHIRT
 
 
-      OHTAR - "Emptiness" TSHIRT
+      OHTAR (pol) - "Emptiness" TSHIRT
 
 
-      PANTHEON - "Iotunkrieg" TSHIRT
+      PANTHEON (usa) - "Iotunkrieg" TSHIRT
 
 
-      TWO RUNES - "Herää Eurooppa!" TANK TOP
+      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP
 
 
-      VOTHANA - "Jewboros" TSHIRT
+      VOTHANA (usa) - "Jewboros" TSHIRT
 
 
-      VOTHANA - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT
 
 
-      WEWELSSBURG  - logo TSHIRT
+      WEWELSSBURG  (usa) - logo TSHIRT
 
 
-      WODULF - "Zerezat" TSHIRT
+      WODULF (gre) - "Zerezat" TSHIRT
 
 
       WOLFNACHT (gre) - "Blut und Boden" TSHIRT
 
 
-      \------------------------------------------------------
+      \--------------------------------------------------------------------------------------------------------------------
 
 
-      ENDSIEG - logo METAL PIN
+      ENDSIEG (usa) - logo METAL PIN
 ---
