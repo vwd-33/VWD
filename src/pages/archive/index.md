@@ -127,7 +127,7 @@ labels:
       VWD 41 SVETOVID / VRILDOM - split CD / CS
 
 
-      VWD 42 KVASIR'S BLOOD - "Phantoms of the Deepest Night" CS
+      VWD 42 KVASIR'S BLOOD - "Phantoms of the Deepest Night" Pro CS
 
 
       VWD 43 SPEAR OF LONGINUS - "Golden Palace 88 Fortune" Pro CS
