@@ -1929,9 +1929,6 @@ labels:
       THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only): $15.00
 
 
-      TWO RUNES (fin) - "Herää Eurooppa!" TANK TOP (M only): $18.00
-
-
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
 
 
