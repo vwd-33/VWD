@@ -1686,7 +1686,7 @@ labels:
       MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
-      MOONTOWER (pol) - "Darkness... Glory to Hatred" LP   *HAS CORNER DAMAGE*: $16.00
+      MOONTOWER (pol) - "Darkness... Glory to Hatred" LP: $20.00
 
 
       NEKROKRIST SS (fin) - "Neljän Käärmeen Veljeskunta" LP: $28.00
@@ -1743,7 +1743,7 @@ labels:
       STURMGEWEHR (usa) - "Aufhetzung des Hakenkreuz-Volkes" LP: $26.00
 
 
-      SVETOVID (US) - "Nature's Fury" LP: $20.00
+      SVETOVID (usa) - "Nature's Fury" LP: $20.00
 
 
       THE RAUNCHOUS BROTHERS (usa) - "Die! F. Die!" LP: $30.00
