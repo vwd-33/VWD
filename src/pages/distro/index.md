@@ -1964,22 +1964,45 @@ labels:
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
   - title: PINS, PATCHES, ETC (photos coming soon | request by email for now)
-    body: |-
+    body: >-
       ENDSIEG (usa) - logo METAL PIN: $9.00
+
 
       MOHAREBEH (usa) - logo METAL PIN: $9.00
 
+
+      ................................................................................
+
+
       MOHAREBEH (usa) - logo PATCH (black or white): $6.00
+
+
+      ASSASSINATION (ger) - Red Magick Faction PATCH: $6.00
+
+
+      ASSASSINATION (ger) - band sigil PATCH: $6.00
+
+
+      ASSASSINATION (ger) - logo PATCH: $6.00
+
+
+      KOMMANDEMENT (bel) - logo PATCH: $6.00
+
 
       NOKTURNE (usa) - Sigil Mord PATCH: $6.00
 
+
       NOKTURNE (usa) - Totenkopf Banner PATCH: $6.00
+
 
       ORDER OF THE DEATH'S HEAD (fra) - Jewicide PATCH (black or white): $6.00
 
+
       ORDER OF THE WHITE HAND (fin) - Odal Rune PATCH: $6.00
 
+
       THE RAUNCHOUS BROTHERS (usa) - PATCH: $6.00
+
 
       DOOMSDAY ELITE - label logo PATCH: $6.00
 ---
