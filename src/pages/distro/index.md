@@ -35,7 +35,7 @@ description2:
         very open to reaching a compromise that is fair & honest for both
         parties!
     - text: "                                                                Last
-        Distro Update: June 2, 2021"
+        Distro Update: June 27, 2021"
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
@@ -1905,10 +1905,13 @@ labels:
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
 
 
+      INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE (XL, XXL): $26 for XL, $28 for XXL
+
+
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL): $15.00
+      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL): $18.00
 
 
       OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL): $20.00
@@ -1926,7 +1929,7 @@ labels:
       SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L): $18.00
 
 
-      THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only): $15.00
+      THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only): $18.00
 
 
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
@@ -1941,6 +1944,9 @@ labels:
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
 
 
+      WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M): $15.00
+
+
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL): $20.00
 
 
@@ -1948,6 +1954,9 @@ labels:
 
 
       WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $18.00
+
+
+      WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XL, XXL): $22.00
 
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
