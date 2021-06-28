@@ -6,9 +6,9 @@ image: /img/vwd-logo-censored-3-copy.png
 description2:
   descriptionList:
     - text: >-2
-                                     This page exists to serve as an archive for all VINLANDIC WERWOLF releases.
-                      If a release is listed here, but is NOT listed in the "Distro" page, then that means it is sold out.
-                                                     Any inquiries about sold out releases will be ignored.
+                                      This page exists to serve as an archive for all VINLANDIC WERWOLF releases.
+                       If a release is listed here, but is NOT listed in the "Distro" page, then that means it is sold out.
+                                                      Any inquiries about sold out releases will be ignored!
 labels:
   - title: VINLANDIC WERWOLF Music Releases
     body: >-
