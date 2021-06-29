@@ -1407,9 +1407,6 @@ labels:
       RUNDAGOR (rus) - "The Beastrealm" TAPE: $10.00
 
 
-      SACRIFICIAL MASSACRE / SWERDTHEGAN (usa) - "Our Glory Is Our Ancient Blood" TAPE: $7.00
-
-
       SAPTHURAN (usa) - "Hildegicel, Blood Dripping From A Sword" TAPE: $8.00
 
 
