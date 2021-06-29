@@ -1278,6 +1278,9 @@ labels:
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
+      GOATBLOOD (aus) - "Hate Division" TAPE: $8.00
+
+
       HADAK URA (usa) - "Ten Arrows From The Sky/Weep At The Glorious Shrines Of Nature" TAPE: $7.00
 
 
@@ -1344,7 +1347,7 @@ labels:
       MOONTOWER (pol) - "The Wolf's Hunger" TAPE: $6.00
 
 
-      MOONTOWER / TARAN (Pol) - "Devil's Incarnation" TAPE: $6.00
+      MOONTOWER / TARAN (pol) - "Devil's Incarnation" TAPE: $6.00
 
 
       NACHTGEBLÜT (arg) - "Dying echoes of a Past Forlorn" TAPE: $8.00
@@ -1353,16 +1356,13 @@ labels:
       NECROSLEEZER (can) - "Pope Kill" TAPE: $7.00
 
 
-      NEKROKRIST SS (fin) - "Nekrokrist SS" TAPE: $8.50
-
-
       NOKTURNE - "Kruelty Kampaign" TAPE: $8.00
 
 
       NOKTURNE / MALÉFICE - split TAPE: $8.00
 
 
-      NORDWIND / ORDER OF THE WHITE HAND (Can/Fin) - "Victory Monument Of Death" TAPE: $8.00
+      NORDWIND / ORDER OF THE WHITE HAND (can/fin) - "Victory Monument Of Death" TAPE: $8.00
 
 
       NORRHEM (fin) - "Voima Ja Kunnia" TAPE: $8.50
@@ -1431,22 +1431,22 @@ labels:
       SPEAR OF LONGINUS (aus) - "TYONS" TAPE: $8.50
 
 
-      STWORZ (Pol) - Po Czasu Kres tape: $6.00
+      STWORZ (pol) - Po Czasu Kres tape: $6.00
 
 
-      SUNCHARIOT (US) - "Bone Harvester" TAPE: $7.00
+      SUNCHARIOT (usa) - "Bone Harvester" TAPE: $7.00
 
 
-      SUNCHARIOT (US) - "Songs of the Past from Beyond" TAPE: $7.00
+      SUNCHARIOT (usa) - "Songs of the Past from Beyond" TAPE: $7.00
 
 
-      SUNCHARIOT (US) - "Sun Cross (Blood Honor and Strength / Climbing the Avalanche)" TAPE: $7.00
+      SUNCHARIOT (usa) - "Sun Cross (Blood Honor and Strength / Climbing the Avalanche)" TAPE: $7.00
 
 
-      SUNCHARIOT (US) - "The Path of Desolation" TAPE: $7.00
+      SUNCHARIOT (usa) - "The Path of Desolation" TAPE: $7.00
 
 
-      SUNCHARIOT / WANGELEN (US/Chile) - "Lunar Misanthropy" TAPE: $7.00
+      SUNCHARIOT / WANGELEN (usa/chile) - "Lunar Misanthropy" TAPE: $7.00
 
 
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
@@ -1470,7 +1470,7 @@ labels:
       TODESZONE (swiss) - "Night of the Sharpest Blades" TAPE: $8.00
 
 
-      TRIGGER (US) - "Trigger" TAPE: $8.00
+      TRIGGER (usa) - "Trigger" TAPE: $8.00
 
 
       TWO RUNES (fin) – “Herää Eurooppa!” TAPE: $8.50
@@ -1479,10 +1479,10 @@ labels:
       UBERMENSCH (int.) - "Untermensch" TAPE: $10.00
 
 
-      UNTERBOREA (Arg) - "Forever Departed" TAPE: $7.00
+      UNTERBOREA (arg) - "Forever Departed" TAPE: $7.00
 
 
-      UNTERBOREA (Arg) - "Unreaching Soul" TAPE: $7.00
+      UNTERBOREA (arg) - "Unreaching Soul" TAPE: $7.00
 
 
       USURPR (usa) - “Era of Conquest”  TAPE: $7.00
@@ -1497,22 +1497,22 @@ labels:
       VETALA (por) - "Demo 4" TAPE: $9.00
 
 
-      VICARIVS FILII DEI (Austria) - "Index Librorum Prohibitorum" TAPE: $9.00
+      VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
 
 
       WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.50
 
 
-      WEST WALL (US) - "Blitzkrieg Symphony #1 in D-Minor" TAPE: $8.00
+      WEST WALL (usa) - "Blitzkrieg Symphony #1 in D-Minor" TAPE: $8.00
 
 
-      WEST WALL (US) - "On My Shield" TAPE: $8.00
+      WEST WALL (usa) - "On My Shield" TAPE: $8.00
 
 
-      WEST WALL (US) - "Reconquest or Death" TAPE: $8.00
+      WEST WALL (usa) - "Reconquest or Death" TAPE: $8.00
 
 
-      WITCHCRAFT (Fin) - "Diablerie" TAPE: $8.00
+      WITCHCRAFT (fin) - "Diablerie" TAPE: $8.00
 
 
       WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
