@@ -390,9 +390,6 @@ labels:
       DARK FURY (pol) - "On The Trail of a Victor" 2CD: $15.00
 
 
-      DARK FURY (pol) - "Saligia" CD: $10.88
-
-
       DARK FURY (pol) - "Semper Fidelis" CD: $10.88
 
 
