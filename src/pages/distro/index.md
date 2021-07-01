@@ -285,12 +285,6 @@ labels:
       BESTIAL WHORE (usa) - "Sabbatic Goat Birth" CD: $10.00
 
 
-      BILSKIRNIR (ger) - "Totenheer / Dem Feind entgegen" CD: $12.00
-
-
-      BILSKIRNIR (ger) - "In Solitary Silence" CD: $12.00
-
-
       BLACK WITCHERY (US) - "Desecration of the Holy Kingdom" CD: $10.00
 
 
