@@ -1188,9 +1188,6 @@ labels:
       BLACK WITCHERY (US) - "Live Desecration 2012" TAPE: $8.00
 
 
-      BLOOD & SOIL (fin) - "The Swastika & The Sun" TAPE: $8.00
-
-
       BLUTKULT / CELTIC DANCE (ger/por) "We are the roar of thunder" TAPE: $8.00
 
 
