@@ -231,9 +231,6 @@ labels:
       ARKTOGAA (Ita) "Æra Yersinia Pestis Spiritvs" CD: $14.00
 
 
-      ARMAGGEDON (Fra) - "I.N.R.I. (I, Nazarene, Recognize My Impurity)" DIGIPACK CD: $12.00
-
-
       ARMAGGEDON (fra) - "The Satanic Kommandantur" CD: $12.00
 
 
