@@ -1881,7 +1881,7 @@ labels:
       DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only): $18.00
 
 
-      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (S, XL): $20.00
+      DER STÜRMER (gre) - "Himmelstürmer" TSHIRT (XL only): $20.00
 
 
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL): $20.00
