@@ -555,9 +555,6 @@ labels:
       GROM (usa) - "Pagan War Machine" CD: $10.88
 
 
-      GROM / WULFGRAV (usa) - "Fullmoon Warfare" CD: $15.00
-
-
       HAVOC (swe) - "Legion" CD: $8.00
 
 
