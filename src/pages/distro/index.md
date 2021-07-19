@@ -171,9 +171,6 @@ labels:
       ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
 
 
-      DARK FURY (pol) - "Flooded Lands" TAPE: $8.00 *(Doomsday Elite version!)*
-
-
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
 
