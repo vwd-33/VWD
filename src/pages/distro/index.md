@@ -1920,7 +1920,7 @@ labels:
       WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $18.00
 
 
-      WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XL, XXL): $22.00
+      WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XXL): $22.00
 
 
       AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
