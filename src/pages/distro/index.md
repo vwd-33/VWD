@@ -1623,9 +1623,6 @@ labels:
       KOMMANDEMENT (bel) - "732 anno domini" LP   *HAS CORNER DAMAGE*: $22.00
 
 
-      KOMMANDEMENT (bel) - "Bientôt le renouveau" LP   *HAS CORNER DAMAGE*: $22.00
-
-
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
