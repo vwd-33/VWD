@@ -360,9 +360,6 @@ labels:
       CALIGULA(arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
-      CAPRICORNUS / DER STÜRMER (pol/gre) - "Polish-Hellenic Alliance Against Z.O.G.!" CD: $18.00
-
-
       CELTIC DANCE (Por) - "Regressus Ad Uterum" DIGIPACK CD: $10.00
 
 
@@ -1546,12 +1543,6 @@ labels:
 
 
       ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" LP: $26.00
-
-
-      ARYAN KAMPF 88 (bel) - "Belgian Steel" LP: $30.00
-
-
-      ARYAN KAMPF 88 (bel) - "Dernière Salve" LP: $30.00
 
 
       ASKE (fin) - "Goatfuck / Saatan Legio" LP: $25.00
