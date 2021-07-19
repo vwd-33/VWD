@@ -1914,7 +1914,7 @@ labels:
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL): $20.00
 
 
-      WOLFNACHT (gre) - "Blut und Boden" TSHIRT (M, XL): $23.00
+      WOLFNACHT (gre) - "Blut und Boden" TSHIRT (M only): $23.00
 
 
       WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $18.00
