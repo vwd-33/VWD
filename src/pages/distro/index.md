@@ -1557,7 +1557,7 @@ labels:
       DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP   *HAS SUBTLE CORNER DAMAGE AND RING WEAR*: $22.00  
 
 
-      DER STÜRMER (gre) - "Bloodsworn II" 2LP: $38.00
+      DER STÜRMER (gre) - "Bloodsworn II" 2LP: $40.00
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
