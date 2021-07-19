@@ -1647,9 +1647,6 @@ labels:
       MARTIAL / NIGLET (pol/usa) - split 12" MLP: $25.00
 
 
-      MJÖLNIR (ger) - "Walpurgisfeuer" LP: $26.00
-
-
       MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
