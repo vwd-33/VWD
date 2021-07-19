@@ -621,9 +621,6 @@ labels:
       KONTRATAK (pol) - 'W Obronie Ojczystej Ziemi" CD: $10.00
 
 
-      KRISTALLNACHT (fra) - "Blooddrenched Memorial 1994-2002" CD: $20.00
-
-
       KRISTALLNACHT (fra) - "Warspirit" DIGIPACK CD: $15.00
 
 
