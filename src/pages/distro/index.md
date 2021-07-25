@@ -237,9 +237,6 @@ labels:
       ARMATUS (ger) - "Armee Der Schwarzen Stiefel" DIGIPACK CD: $12.00
 
 
-      ARYAN BLOOD (Ger) - "Eternal Strife" MCD: $10.00
-
-
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" CD: $15.00
 
 
