@@ -1497,9 +1497,6 @@ labels:
       ABSURD (ger) - "Asgardsrei" LP   *HAS CORNER DAMAGE*: $17.00   
 
 
-      ABSURD (ger) - "Sonnenritter" LP: $28.00
-
-
       ABSURD (ger) - "Werwolfthron" LP: $23.00
 
 
