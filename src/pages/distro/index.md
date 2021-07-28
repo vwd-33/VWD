@@ -78,9 +78,6 @@ labels:
       *VWD 31:* RECLUSE (usa) - "The Black Famine" TAPE: $7.00
 
 
-      *VWD 33:* BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
-
-
       *VWD 36:* BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
 
 
@@ -1162,9 +1159,6 @@ labels:
 
 
       BETHEL (fin) - "Northern Despondency" TAPE: $8.50
-
-
-      BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
 
 
       BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
