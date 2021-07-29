@@ -480,7 +480,7 @@ labels:
       FORLORN WINDS (usa) - "Murmurs With the Decapitated" CD: $13.00
 
 
-      FORLORN WINDS (usa) - "The Day the wolf Swallowed the Sun" CD: $13.00
+      FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" CD: $13.00
 
 
       FRANGAR (Ita) - "Trincerocrazia" CD: $13.00
