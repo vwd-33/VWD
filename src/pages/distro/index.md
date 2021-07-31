@@ -1845,9 +1845,6 @@ labels:
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
 
 
-      INTOLITARIAN (usa) - "Hate Legion Disciple" LONG SLEEVE (XL, XXL): $26 for XL, $28 for XXL
-
-
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
 
 
