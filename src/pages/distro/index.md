@@ -435,9 +435,6 @@ labels:
       ENCIRCLING WOLVES (UK) - "The Trial of Traitors" CD: $10.00
 
 
-      ENDSIEG (usa) - "Twilight of Aryan Consciousness" CD: $10.00
-
-
       ETERNAL STIRFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
 
 
