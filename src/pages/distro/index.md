@@ -843,7 +843,7 @@ labels:
       RAVENDARK'S MONARCHAL CANTICLE / POPRAVA (Bra/Pol) - "Pure Hate Attack" CD: $10.00
 
 
-      RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $13.00
+      RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $12.00
 
 
       REVENGE (Can) - "Infilitration.Downfall.Death" CD: $10.00
