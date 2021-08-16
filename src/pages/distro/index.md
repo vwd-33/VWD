@@ -474,10 +474,7 @@ labels:
       FLAMEN (ita) - "Furor Lunae" DIGIPACK CD: $12.00
 
 
-      FORLORN WINDS (usa) - "Murmurs With the Decapitated" CD: $13.00
-
-
-      FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" CD: $13.00
+      FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
 
 
       FRANGAR (Ita) - "Trincerocrazia" CD: $13.00
@@ -1821,9 +1818,6 @@ labels:
       AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL): $22.00
 
 
-      BLOOD & SOIL (fin) - TSHIRT (XL only): $22.00
-
-
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M, XL): $20.00
 
 
@@ -1872,7 +1866,7 @@ labels:
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (L, XL): $23.00
 
 
-      WAR 88 (pol) - TSHIRT (L, XL): $22.00
+      WAR 88 (pol) - TSHIRT (XL only): $22.00
 
 
       WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
