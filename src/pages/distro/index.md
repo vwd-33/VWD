@@ -393,9 +393,6 @@ labels:
       DEMONIC SLAUGHTER (Pol) - "Dark Paths to Catharsis" CD: $10.00
 
 
-      DER STÜRMER (gre) - "Carelian Pagan Madness" CD: $15.00
-
-
       DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $14.00
 
 
