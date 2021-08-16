@@ -207,9 +207,6 @@ labels:
       AMALEK (ger) - "20 Jahre Kampf für Blut, Volk und Tradition!" CD: $15.00
 
 
-      ANCESTRAL SHADOWS (usa) - "The Sorrows Of Centuries Past" DIGIPACK CD: $12.00
-
-
       ANCESTRAL SHADOWS (usa) - "Wolven Mysteries Of Ancient Lore" DIGIPACK CD: $10.00
 
 
@@ -471,9 +468,6 @@ labels:
       FJÖRD / DRUNEMETON (Can/Rus) - "A New Dawn Shall Rise / The Sacred Grove" CD: $10.00
 
 
-      FLAMEN (ita) - "Furor Lunae" DIGIPACK CD: $12.00
-
-
       FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
 
 
@@ -640,9 +634,6 @@ labels:
 
 
       LEGION (pol) - "Lata Walk Ulicznych" CD: $10.00
-
-
-      LEGION OF DOOM (gre) - "For Those of the Blood" DIGIPACK CD: $15.00
 
 
       LEGION OF DOOM (gre) - "God is Dead" CD: $15.00
