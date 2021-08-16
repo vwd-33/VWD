@@ -687,9 +687,6 @@ labels:
       MALÉFICE (fra) - "Le Dernier Drapeau" DIGIPACK CD: $15.00
 
 
-      MALÉFICE (fra) - "Retour au Monastère" A5 DIGIPACK CD: $13.00
-
-
       MALÉFICE / WALSUNG (fra/bra) - "Hyperborean Tales" DIGIPACK CD: $15.00
 
 
