@@ -1356,9 +1356,6 @@ labels:
       RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.00
 
 
-      RUNDAGOR (rus) - "The Beastrealm" TAPE: $10.00
-
-
       SAPTHURAN (usa) - "Hildegicel, Blood Dripping From A Sword" TAPE: $8.00
 
 
