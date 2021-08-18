@@ -585,9 +585,6 @@ labels:
       JUDAS ISCARIOT (usa) - "Dethroned, Conquered and Forgotten" CD: $10.00
 
 
-      JUDAS ISCARIOT (usa) - "Heaven In Flames" CD: $10.00
-
-
       KOENIGSGRAB (rus) - "KoenigsGrab" CD: $10.00
 
 
