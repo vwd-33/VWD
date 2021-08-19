@@ -54,13 +54,13 @@ labels:
       *VWD 19:* BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
 
 
-      *VWD 21:* PANTHEON (usa) - "Ginnungagap" TAPE: $8.00
+      *VWD 21:* PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
 
 
       *VWD 24:* SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
-      *VWD 26:* WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.50
+      *VWD 26:* WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.00
 
 
       *VWD 27:* BLUTKULT / MALÉFICE (ger/fra) - "Der Geist der Vergangenheit" TAPE: $8.00
@@ -72,7 +72,7 @@ labels:
       *VWD 30:* OHTAR (pol) - "Emptiness" CD: $10.00
 
 
-      *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $7.00
+      *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $8.00
 
 
       *VWD 31:* RECLUSE (usa) - "The Black Famine" TAPE: $7.00
@@ -144,7 +144,7 @@ labels:
       *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.00
 
 
-      *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $8.00
+      *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $8.50
 
 
       *VWD 62:* DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
@@ -153,7 +153,7 @@ labels:
       *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
 
 
-      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.00
+      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.88
   - title: Exclusive Distribution
     body: >-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
