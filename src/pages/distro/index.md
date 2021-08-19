@@ -1490,9 +1490,6 @@ labels:
       PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
 
 
-      PANTHEON (usa) - "The Final Assault Vol. 2" TAPE: $10.00
-
-
       PANTHEON (usa) - "Vargrstrike" TAPE: $10.00
 
 
