@@ -1311,13 +1311,13 @@ labels:
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" TAPE: $8.00
 
 
-      OHTAR (pol) - "Emptiness" TAPE: $7.00
+      OHTAR (pol) - "Emptiness" TAPE: $8.00
 
 
       OLD SCYTHIA (ukr) - “Blind War”  TAPE: $7.00
 
 
-      PANTHEON (usa) - "Ginnungagap" TAPE: $8.00
+      PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
 
 
       PANZERJAGER (usa) - "Nuclear Streets!" TAPE: $8.00
@@ -1434,7 +1434,7 @@ labels:
       VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
 
 
-      WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.50
+      WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.00
 
 
       WEST WALL (usa) - "Blitzkrieg Symphony #1 in D-Minor" TAPE: $8.00
@@ -1452,7 +1452,7 @@ labels:
       WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
 
 
-      WODULF (gre) - "Zerezat" TAPE: $8.00
+      WODULF (gre) - "Zerezat" TAPE: $8.50
 
 
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
