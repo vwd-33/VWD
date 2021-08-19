@@ -1400,9 +1400,6 @@ labels:
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
 
 
-      KVASIR'S BLOOD - "True Vinlandic Black Metal" DOUBLE TAPE: $16.00
-
-
       LASCOWIEC (usa) - "Frostwinds of the Apocalypse" TAPE: $8.00
 
 
