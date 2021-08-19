@@ -1667,9 +1667,6 @@ labels:
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
-      ANAL CUNT (usa) - "If You Think It’s A Joke You Are A Fucking Jew!" 12" MLP: $28.00
-
-
       ARGHOSLENT (usa) - "Arsenal of Glory" LP: $28.00
 
 
