@@ -1256,9 +1256,6 @@ labels:
       BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
 
 
-      BILSKIRNIR (ger) - "In solitary silence" TAPE: $8.00
-
-
       BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
 
 
