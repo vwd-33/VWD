@@ -1298,9 +1298,6 @@ labels:
       CELESTIA (fra) - "Frigidiis Apotheosia: Abstinencia Genesiis" TAPE: $6.00
 
 
-      COLD NORTHERN VENGEANCE / MARTYRVORE (usa) - split TAPE: $6.00
-
-
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
 
 
