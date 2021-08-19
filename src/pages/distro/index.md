@@ -1466,9 +1466,6 @@ labels:
       NORDWIND (can) - "Thy Will Be Done" TAPE: $8.00
 
 
-      NORDWIND (can) - "Wendehorn" TAPE: $8.00
-
-
       NORDWIND / ORDER OF THE WHITE HAND (can/fin) - "Victory Monument Of Death" TAPE: $8.00
 
 
