@@ -2099,7 +2099,7 @@ labels:
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
 
 
-      FORLORN WINDS (usa) - "HEL" TSHIRT (L, XL): $20.00
+      FORLORN WINDS (usa) - "HEL" TSHIRT (L only): $20.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
