@@ -1604,9 +1604,6 @@ labels:
       USURPR (usa) - “Era of Conquest”  TAPE: $7.00
 
 
-      VELES (pol) - "Black Hateful Metal" TAPE: $10.00
-
-
       VELES / LEGION (pol) - "Blood on my Knife" TAPE: $11.00
 
 
