@@ -192,9 +192,6 @@ labels:
       ABSURD (ger) - "Blutgericht" CD: $13.00
 
 
-      ABSURD (ger) - "Der fünfzehnjährige Krieg" CD: $15.00
-
-
       ABSURD (ger) - "Facta Loquuntur" CD: $13.00
 
 
