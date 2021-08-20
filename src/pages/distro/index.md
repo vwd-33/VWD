@@ -1940,9 +1940,6 @@ labels:
       WODULF (gre) - "...from the Corpsegates" LP: $28.00
 
 
-      WODULF (gre) - "Venom from the Mouth of the Dead" LP: $28.00
-
-
       WODULF (gre) - "Wargus Esto" LP: $28.00
 
 
