@@ -165,6 +165,9 @@ labels:
       VWD 52 ODIUM TOTUS - "In Inceptum Finis Est" Pro CS
 
 
+      VWD 53 KVASIR'S BLOOD - "True Vinlandic Black Metal" DOUBLE CS
+
+
       VWD 54 ASSASSINATION - "Red Magick Faction" Pro CS / A5 DIGIPACK CD
 
 
@@ -175,6 +178,9 @@ labels:
 
 
       VWD 57 ASSASSINATION - "Into Space and Out of Reach" Pro CS / A5 DIGIPACK CD
+
+
+      VWD 58 WEHRMACHT - "Wehrmacht" CD 
 
 
       VWD 59 E.A.G.L.E. - "Fortitude" Pro CS
@@ -189,10 +195,25 @@ labels:
       VWD 62 DER STÜRMER - "A Banner Greater Than Death" Pro CS
 
 
+      VWD 63 DER STÜRMER - "Transcendental Racial Idealism" Pro CS
+
+
       VWD 64 THULE DEL SUR - "Four Meditations Under the Polar Star" DIGIPACK CD
 
 
       VWD 65 LEBENSRAUM - "Werwolf" CD
+
+
+      VWD 71 ARMAGGEDON - "Trumpets of Christian Holocaust" Pro CS
+
+
+      VWD 73 DISANNULLETH - "Modern Crusades Against Abrahamic Scum" DIGIPACK CD / Pro CS
+
+
+      VWD 74 BLACK SUN SORCERY - "Hymns Under the Rays of A Setting Black Sun" Pro CS
+
+
+      VWD 75 RATTENKÖNIG - "Rodentia's Wrath" Pro CS
   - title: VINLANDIC WERWOLF Merchandise Releases
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT
