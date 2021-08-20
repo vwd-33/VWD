@@ -1901,22 +1901,22 @@ labels:
       WARAGE (fra) - "Die Organisation Des Todes" LP: $28.00
 
 
-      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $30.00
+      WEHRHAMMER (ger) - "...Sonst Werdet Ihr Ihn Ernten" LP: $28.00
 
 
-      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $30.00
+      WEHRHAMMER (ger) - "Eroberung Durch Finsternis" LP: $28.00
 
 
-      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $36.00
+      WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $36.00
+      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "My Father Satan" 2LP: $36.00
+      WEHRHAMMER (ger) - "My Father Satan" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $36.00
+      WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $35.00
 
 
       WEISSE WÖLFE (ger) ‎- "Soundtrack Zur Revolution" 2LP: $40.00
