@@ -1865,9 +1865,6 @@ labels:
       SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" LP: $28.00
 
 
-      SPEAR OF LONGINUS (aus) - "N.O.M." LP: $35.00
-
-
       SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" LP: $20.00
 
 
