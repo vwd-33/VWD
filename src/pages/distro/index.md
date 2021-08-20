@@ -2051,9 +2051,6 @@ labels:
       DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M, XL): $20.00
 
 
-      DARK FURY (pol) - "Slayers of M.....s" TSHIRT (M only): $20.00
-
-
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL): $20.00
 
 
