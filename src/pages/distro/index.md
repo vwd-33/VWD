@@ -1991,9 +1991,6 @@ labels:
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
 
 
-      DER STÜRMER (gre) - "Europa Erwache!" EP: $13.00
-
-
       DER STÜRMER (gre) - "Siegtruppen" 7" EP: $15.00
 
 
