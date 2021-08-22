@@ -2078,9 +2078,6 @@ labels:
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL): $20.00
 
 
-      PLANTATION (usa) "Heraldry of Nations" TANK TOP (L only): $15.00
-
-
       SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L): $18.00
 
 
@@ -2099,7 +2096,7 @@ labels:
       WAR 88 (pol) - TSHIRT (XL only): $22.00
 
 
-      WEWELSSBURG (usa) - Logo TSHIRT (M, L, XL): $20.00
+      WEWELSSBURG (usa) - Logo TSHIRT (M, L): $20.00
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M): $15.00
@@ -2114,7 +2111,7 @@ labels:
       WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XXL): $22.00
 
 
-      AIDS Kills .... TSHIRT (S, M, L, XL): $12.00
+      AIDS Kills .... TSHIRT (S, M, L): $12.00
 
 
       CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
