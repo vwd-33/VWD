@@ -2090,7 +2090,7 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (L, XL): $23.00
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (XL only): $23.00
 
 
       WAR 88 (pol) - TSHIRT (XL only): $22.00
