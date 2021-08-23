@@ -1622,9 +1622,6 @@ labels:
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
 
 
-      WUDUWÉSTEN (usa) - "The Bleak Forest of Sorrow" TAPE: $7.00
-
-
       XASTHUR (usa) - "The Funeral of Being" TAPE: $10.00
 
 
