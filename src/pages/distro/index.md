@@ -2015,9 +2015,6 @@ labels:
       MALÉFICE / VIA DOLOROSA (fra/ita) - split EP: $12.00
 
 
-      NACHTKRIEGER / PANZERJAGER (can/usa) - split EP: $8.00
-
-
       NATION WAR / VIA DOLOROSA (mex/ita) - split EP: $10.00
 
 
