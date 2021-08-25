@@ -1670,7 +1670,7 @@ labels:
       ARYAN KAMPF 88 (bel) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $28.00
 
 
-      ARYANWÜLF (usa) - "The Rise Of The Einsatzgruppen" 12" MLP: $28.00
+      ARYANWÜLF (usa) - "The Rise Of The Einsatzgruppen" 12" MLP: $26.00
 
 
       ASKE (fin) - "Goatfuck / Saatan Legio" LP: $25.00
@@ -1712,7 +1712,7 @@ labels:
       ETERNAL STRIFE (usa) - "When The World Comes Crumbling Down" LP: $20.00
 
 
-      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC LP: $30.00
+      ETHNIC CLEANSING (usa) - "Hail A.!" PICTURE DISC LP: $28.00
 
 
       FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" LP: $20.00
@@ -1727,7 +1727,7 @@ labels:
       FRAKASS (fra) - "Siegfried" LP: $25.00
 
 
-      FULLMOON (pol) - "United Aryan Evil" LP: $28.00
+      FULLMOON (pol) - "United Aryan Evil" LP: $26.00
 
 
       FUNERAL (fra) - "Black Flame Of Unholy Hate" LP: $26.00 black vinyl / $28.00 clear vinyl
@@ -1799,13 +1799,13 @@ labels:
       MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
-      MOONCITADEL (fin) - "Moon Calls to Wander... The Winter's Majesty" LP: $28.00
+      MOONCITADEL (fin) - "Moon Calls to Wander... The Winter's Majesty" LP: $26.00
 
 
       MOONTOWER (pol) - "Darkness... Glory to Hatred" LP: $20.00
 
 
-      NEKROKRIST SS (fin) - "Neljän Käärmeen Veljeskunta" LP: $28.00
+      NEKROKRIST SS (fin) - "Neljän Käärmeen Veljeskunta" LP: $26.00
 
 
       NO REMORSE (uk) - "Blood Against Gold" LP: $30.00
@@ -1928,10 +1928,10 @@ labels:
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" LP: $20.00
 
 
-      WODULF (gre) - "...from the Corpsegates" LP: $28.00
+      WODULF (gre) - "...from the Corpsegates" LP: $26.00
 
 
-      WODULF (gre) - "Wargus Esto" LP: $28.00
+      WODULF (gre) - "Wargus Esto" LP: $26.00
 
 
       WOLFKRIEG (rus) - "Ten Disturbed Years" LP: $25.00
@@ -1946,7 +1946,7 @@ labels:
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
 
 
-      WOTANORDEN (usa) - "From the Storm come the Wolves" 2LP: $32.00
+      WOTANORDEN (usa) - "From the Storm come the Wolves" 2LP: $30.00
 
 
       WOTANORDEN (usa) - "The Hands of Fate" LP: $25.00
