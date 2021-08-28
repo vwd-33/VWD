@@ -1415,9 +1415,6 @@ labels:
       MALÉFICE (fra) - "Rencontre Avec La Bête" TAPE: $8.00
 
 
-      MINENWERFER (usa) - "Volkslieder" TAPE: $7.00
-
-
       MOHAREBEH (usa) - "We Are At War!!!" TAPE: $8.50
 
 
