@@ -156,7 +156,7 @@ labels:
       *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.88
 
 
-      *VWD 71:* ARMAGGEDON (fra) - "Trumpetes of Christian Holocaust" TAPE: $8.50
+      *VWD 71:* ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" TAPE: $8.50
 
 
       *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
