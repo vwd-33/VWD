@@ -39,7 +39,7 @@ labels:
       VWD 08 A.Z.A.B. / FOUR ARMED DEATH WHEEL - "Eternal Persecution Of The Archontic Infection" Pro CS
 
 
-      VWD 09 BLUTKRIEG - "Wotan's Harrow" Pro CS / DIGIPACK CD
+      VWD 09 BLUTKRIEG - "Wotan's Harrow" DIGIPACK CD / Pro CS
 
 
       VWD 10 WEHRWOLF SS - "True Northern Aryan Glory" Pro CS
@@ -87,7 +87,7 @@ labels:
       VWD 24 SUPERNAL REFUSE - "Inversion Protocol" Pro CS
 
 
-      VWD 25 FORLORN WINDS - "HEL" Pro CS / 7" EP
+      VWD 25 FORLORN WINDS - "HEL" 7" EP / Pro CS
 
 
       VWD 26 WEHRWOLF SS - "Aktion Reinhardt" Pro CS
@@ -168,7 +168,7 @@ labels:
       VWD 53 KVASIR'S BLOOD - "True Vinlandic Black Metal" DOUBLE CS
 
 
-      VWD 54 ASSASSINATION - "Red Magick Faction" Pro CS / A5 DIGIPACK CD
+      VWD 54 ASSASSINATION - "Red Magick Faction" A5 DIGIPACK CD / Pro CS
 
 
       VWD 55 ABYSSIC HATE - "A Decade of Hate" Pro CS
@@ -177,7 +177,7 @@ labels:
       VWD 56 ABYSSIC HATE - "Suicidal Emotions" Pro CS
 
 
-      VWD 57 ASSASSINATION - "Into Space and Out of Reach" Pro CS / A5 DIGIPACK CD
+      VWD 57 ASSASSINATION - "Into Space and Out of Reach" A5 DIGIPACK CD / Pro CS
 
 
       VWD 58 WEHRMACHT - "Wehrmacht" CD 
@@ -207,7 +207,7 @@ labels:
       VWD 71 ARMAGGEDON - "Trumpets of Christian Holocaust" Pro CS
 
 
-      VWD 73 DISANNULLETH - "Modern Crusades Against Abrahamic Scum" DIGIPACK CD / Pro CS
+      VWD 73 DISANNULLETH - "Modern Crusades Against Abrahamic Scum" Pro CS
 
 
       VWD 74 BLACK SUN SORCERY - "Hymns Under the Rays of A Setting Black Sun" Pro CS
@@ -294,7 +294,10 @@ labels:
       WOLFNACHT (gre) - "Blut und Boden" TSHIRT
 
 
-      \--------------------------------------------------------------------------------------------------------------------
+      SAVITRI DEVI "The Woman Against Time" TSHIRT
+
+
+      ...............................................................................................................................................................................
 
 
       ENDSIEG (usa) - logo METAL PIN
