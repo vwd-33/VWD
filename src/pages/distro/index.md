@@ -135,6 +135,9 @@ labels:
       *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
 
 
+      *VWD 58:* WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
+
+
       *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
 
 
