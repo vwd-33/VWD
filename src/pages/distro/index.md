@@ -992,9 +992,6 @@ labels:
       SUNCHARIOT / HADAK URA (usa) - split CD: $10.00
 
 
-      SUNWHEEL (pol) - "Industry of Death" DIGIPACK CD: $12.00
-
-
       SVARTR STURM (can) - "Burn the Soviet Flag" DIGIPACK CD: $12.00
 
 
