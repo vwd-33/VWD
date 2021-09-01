@@ -426,7 +426,7 @@ labels:
       DEMONIC SLAUGHTER (Pol) - "Dark Paths to Catharsis" CD: $10.00
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $14.00
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $15.00
 
 
       DER STÜRMER / RAVENDARK'S MONARCHAL CANTICLE (gre/bra) - split CD: $15.00
@@ -870,7 +870,7 @@ labels:
       RASSENHASS (ger) - "Lasst Sie Ruhig Kommen" CD: $10.00
 
 
-      RAVENBANNER (gre) - " ...And Ravens Sing Our Glorious Past" DIGIPACK CD: $14.00
+      RAVENBANNER (gre) - " ...And Ravens Sing Our Glorious Past" DIGIPACK CD: $15.00
 
 
       RAVENDARK'S MONARCHAL CANTICLE (Bra) - "Sobre as Cinzas do Fracasso Alheio" DIGIPACK CD: $10.00
