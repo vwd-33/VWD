@@ -210,9 +210,6 @@ labels:
       ABSURD / GRAND BELIAL'S KEY / SIGRBLOT (ger/usa/swe) - Weltenfeind DIGIPACK CD: $14.00
 
 
-      ABYSSIC HATE (aus) - "Suicidal Emotions" DIGIPACK CD: $15.00
-
-
       ADORIA / FEUERNACHT / STAHLFRONT (ger) - "Wehrwolf Jugend" CD: $15.00
 
 
@@ -505,9 +502,6 @@ labels:
 
 
       FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
-
-
-      FRANGAR (Ita) - "Trincerocrazia" CD: $13.00
 
 
       FRANGAR (ita) - "Vomini Vincere" CD: $13.00
@@ -903,9 +897,6 @@ labels:
       SAMMAS EQUINOX - "Tulikehrät" DIGIPACK CD: $14.00
 
 
-      SAPTHURAN / SAD (usa/gre) - "Black Winter of Desolation" CD: $10.00
-
-
       SARKRISTA / UNHUMAN DISEASE (ger/usa) - "Those Who Preach Perdition" CD: $10.00
 
 
@@ -1094,9 +1085,6 @@ labels:
       VETALA (por) - "Burn Your Head with Satan" DIGIPACK CD: $14.00
 
 
-      VIA DOLOROSA (ita) - "Immortal Ad Vitam" CD: $10.00
-
-
       VOLSHEBNIK (usa) - "An Infertile Memory" CD: $12.00
 
 
@@ -1149,9 +1137,6 @@ labels:
 
 
       WOLFENBURG (pol) - “Imperium Wilkow” CD: $12.00
-
-
-      WOLFNACHT (gre) - "Eine Flamme im Dunkeln" CD: $16.00
 
 
       WOLFSSCHANZE (bra) - "Ariosophy" DIGIPACK CD: $12.00
