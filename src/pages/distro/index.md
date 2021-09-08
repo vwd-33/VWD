@@ -1970,7 +1970,7 @@ labels:
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
 
 
-      DER STÜRMER (gre) - "Siegtruppen" 7" EP: $15.00
+      DER STÜRMER (gre) - "Siegtruppen" EP: $15.00
 
 
       ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
