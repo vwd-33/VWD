@@ -366,9 +366,6 @@ labels:
       BURZUM (nor) - "Filosofem" CD: $13.00
 
 
-      BURZUM (nor) - "Hvis Lyset Tar Oss" CD: $13.00
-
-
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
