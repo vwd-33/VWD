@@ -938,6 +938,7 @@ labels:
 
       SIGEFOLC / HADAK URA / HEIDENTOR / WOLVES EYES / PANZERJAGER - split DIGIPACK CD: $10.00
 
+
       SIGILLUM DIABOLICUM (fra) - "Ordo Repugnant: Les Maux du Monde Moderne" CD: $12.00
 
 
@@ -2057,7 +2058,7 @@ labels:
       WAR 88 (pol) - TSHIRT (XL only): $22.00
 
 
-      WEWELSSBURG (usa) - Logo TSHIRT (M, L): $20.00
+      WEWELSSBURG (usa) - Logo TSHIRT (L only): $20.00
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M): $15.00
