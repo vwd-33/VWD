@@ -1599,9 +1599,6 @@ labels:
 
 
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
-
-
-      XENOVORE (fra) - "Deuxième Fournée" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
       ABSURD (ger) - "Asgardsrei" LP   *HAS CORNER DAMAGE*: $17.00
