@@ -9,7 +9,7 @@ export const ProductPageTemplate = ({
   title,
   description2,
   labels,
-}) => console.log('image', image) || (
+}) => (
   <div className="content">
     <img
       alt="top product"

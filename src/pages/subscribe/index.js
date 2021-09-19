@@ -4,12 +4,12 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Box from '@mui/material/Box';
 import jsonp from "jsonp"
+import fetchJsonp from 'fetch-jsonp'
 
 const Subscribe = () => {
 	const [email, setEmail] = useState('');
 	const [status, setStatus] = useState('');
 	const [validEmail, setValidEmail] = useState(true);
-	console.log('regex.test(email)',validEmail)
 
 	const updateAndValidateEmail = (e) => {
 		//eslint-disable-next-line
@@ -17,14 +17,12 @@ const Subscribe = () => {
 		setValidEmail(regex.test(e.target.value));
 		setEmail(e.target.value);
 	}
-	const sendData = (e) => {
+	const sendData = async (e) => {
 		e.preventDefault();
 		setStatus('Sending...')
-		console.log('email',email)
-		const url = 'https://bigcartel.us18.list-manage.com/subscribe/post?u=2f28a1660890d2f972dc09983&amp;id=56aa869c01'
+		const url = `https://bigcartel.us18.list-manage.com/subscribe/post-json?u=2f28a1660890d2f972dc09983&amp;id=56aa869c01&email=${email}`
 		jsonp(url, { param: "c" }, (err, data) => {
-			console.log('err', err)
-			console.log('data', data)
+			console.log('stuff', err, data)
 			if (data.msg.includes("already subscribed")) {
 				setStatus('Sorry, you\'re already subscribed!')
 			} else if (err) {
