@@ -9,7 +9,7 @@ description2:
   descriptionList:
     - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
         THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING. **"
-    - text: All orders ship from the United States. All prices are in USD.
+    - text: "*All orders ship* from the United States. All prices are in USD."
     - text: International orders are possible, but the postage is expensive. We have
         no control over it, so don’t waste our time or your time if you aren’t
         prepared to pay the high shipping cost!
@@ -33,7 +33,7 @@ description2:
         something is wrong with your order please send an email and we will be
         very open to reaching a compromise that is fair & honest for both
         parties!
-    - text: '<div style="text-align: center"> Last Distro Update: June 27, 2021</div>'
+    - text: "**Last Distro Update: June 27, 2021**"
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
