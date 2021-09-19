@@ -2,9 +2,21 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import remark from 'remark';
-import recommended from 'remark-preset-lint-recommended';
-import remarkHtml from 'remark-html';
+import { unified } from 'unified';
+import remarkParse from 'remark-parse'
+import remarkSlug from 'remark-slug'
+import remarkToc from 'remark-toc'
+import remarkRehype from 'remark-rehype'
+import rehypeHighlight from 'rehype-highlight'
+import rehypeReact from 'rehype-react'
+
+const processor = unified()
+  .use(remarkParse)
+  .use(remarkSlug)
+  .use(remarkToc)
+  .use(remarkRehype)
+  .use(rehypeHighlight)
+  .use(rehypeReact, {createElement: React.createElement})
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -31,14 +43,14 @@ export const ProductPageTemplate = ({
     </h2>
      <section className="distroDescription">
      {description2.email && <p className="distroDescription__email">{description2.emailText}: <a href={`mailto: ${description2.email}`}>{description2.email}</a></p>}
-      {description2.descriptionList.map(e => <div key={e.text} className="distroDescription__topText" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(e.text).contents}}></div>)}
+      {description2.descriptionList.map(e => <div key={e.text} className="distroDescription__topText">{processor.processSync(e.text).result}</div>)}
     </section>
     <section className="distroLabels">
       {labels.map(labelSection => {
         return(
         <div key={labelSection.title}>
-          <h3 className="distro__labelTitle" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(labelSection.title).contents}}></h3>
-          <p className="distro__itemTitle" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(labelSection.body).contents}}></p>
+          <h3 className="distro__labelTitle">{processor.processSync(labelSection.title).result}</h3>
+          <p className="distro__itemTitle" >{processor.processSync(labelSection.body).result}</p>
         </div>
         )
       })}
