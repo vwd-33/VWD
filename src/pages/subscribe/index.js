@@ -4,7 +4,6 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Box from '@mui/material/Box';
 import jsonp from "jsonp"
-import fetchJsonp from 'fetch-jsonp'
 
 const Subscribe = () => {
 	const [email, setEmail] = useState('');
@@ -22,7 +21,6 @@ const Subscribe = () => {
 		setStatus('Sending...')
 		const url = `https://bigcartel.us18.list-manage.com/subscribe/post-json?u=2f28a1660890d2f972dc09983&amp;id=56aa869c01&email=${email}`
 		jsonp(url, { param: "c" }, (err, data) => {
-			console.log('stuff', err, data)
 			if (data.msg.includes("already subscribed")) {
 				setStatus('Sorry, you\'re already subscribed!')
 			} else if (err) {
