@@ -66,9 +66,9 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <a className="navbar-item" target="blank" href="https://bigcartel.us18.list-manage.com/subscribe?u=2f28a1660890d2f972dc09983&id=56aa869c01">
+                      <Link className="navbar-item" to="/subscribe">
                         Newsletter Subscription
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </section>

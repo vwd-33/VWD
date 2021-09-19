@@ -66,7 +66,7 @@ BlogRoll.propTypes = {
   }),
 }
 
-export default () => (
+const main = () => (
   <StaticQuery
     query={graphql`
       query BlogRollQuery {
@@ -88,9 +88,10 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
+                    gatsbyImageData(
+                      placeholder: BLURRED
+                      width: 160
+                    )
                   }
                 }
               }
@@ -102,3 +103,5 @@ export default () => (
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
+
+export default main;

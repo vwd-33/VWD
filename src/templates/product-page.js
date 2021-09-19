@@ -9,12 +9,12 @@ export const ProductPageTemplate = ({
   title,
   description2,
   labels,
-}) => (
+}) => console.log('image', image) || (
   <div className="content">
     <img
       alt="top product"
       className="top-image"
-      src={!!image && image.childImageSharp ? image.childImageSharp.fluid.src : image}
+      src='/img/vwd-logo-censored-3-copy.png'
     />
     <h2
       className="has-text-weight-bold is-size-1 header-with-background"
@@ -88,9 +88,7 @@ export const productPageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FIXED)
           }
         }
         description2 {

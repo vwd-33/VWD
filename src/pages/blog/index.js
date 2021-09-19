@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <img
           alt="blog-img-top"
           className="top-image"
-          src={'/img/blog-index.jpg'}
+          src={'/img/vwd-logo-censored-3-copy.png'}
         />
           <h1
             className="has-text-weight-bold is-size-1"

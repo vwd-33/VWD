@@ -36,6 +36,11 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+      		<img
+		alt="top product"
+		className="top-image"
+		src='/img/vwd-logo-censored-3-copy.png'
+	  />
         <section className="section">
           <div className="container">
             <div className="content contact-page">

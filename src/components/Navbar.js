@@ -11,14 +11,6 @@ const Navbar = class extends React.Component {
       navBarActiveClass: '',
     }
   }
-  componentDidMount () {
-      const m=document.createElement("script");
-      m.setAttribute("id", "mcjs")
-      const p=document.getElementsByTagName("script")[0];
-      m.async=1;
-      m.src="https://chimpstatic.com/mcjs-connected/js/users/2f28a1660890d2f972dc09983/3c244bee894f7f5b8afa108f6.js";
-      p.parentNode.insertBefore(m,p);
-  }
 
   toggleHamburger = () => {
     // toggle the active boolean in the state
@@ -83,9 +75,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <a className="navbar-item" target="blank" href="https://bigcartel.us18.list-manage.com/subscribe?u=2f28a1660890d2f972dc09983&id=56aa869c01">
+              <Link className="navbar-item" to="/subscribe">
                 Newsletter Subscription
-              </a>
+              </Link>
             </div>
           </div>
         </div>

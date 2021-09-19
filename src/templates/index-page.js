@@ -13,7 +13,7 @@ export const IndexPageTemplate = ({ image, title, content, contentComponent }) =
       <img
         alt="Top part of page"
         className="top-image"
-        src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
+        src='/img/vwd-logo-censored-3-copy.png'
       />
       <h2 className="index__title">{title}</h2>
       <PageContent className="index__content content" content={content} />
@@ -89,9 +89,7 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FIXED)
           }
         }
       }
