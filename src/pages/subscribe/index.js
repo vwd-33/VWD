@@ -17,7 +17,6 @@ const Subscribe = () => {
 		setEmail(e.target.value);
 	}
 	const submit = (e, subscribe)=> {
-		console.log('e', e)
 		e.preventDefault();
 		subscribe({'EMAIL': email})
 	}

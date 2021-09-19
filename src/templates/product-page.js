@@ -2,6 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import remark from 'remark';
+import recommended from 'remark-preset-lint-recommended';
+import remarkHtml from 'remark-html';
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -28,14 +31,14 @@ export const ProductPageTemplate = ({
     </h2>
      <section className="distroDescription">
      {description2.email && <p className="distroDescription__email">{description2.emailText}: <a href={`mailto: ${description2.email}`}>{description2.email}</a></p>}
-      {description2.descriptionList.map(e => <div key={e.text} className="distroDescription__topText">{e.text}</div>)}
+      {description2.descriptionList.map(e => <div key={e.text} className="distroDescription__topText" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(e.text).contents}}></div>)}
     </section>
     <section className="distroLabels">
       {labels.map(labelSection => {
         return(
         <div key={labelSection.title}>
-          <h3 className="distro__labelTitle">{labelSection.title}:</h3>
-          <p className="distro__itemTitle">{labelSection.body}</p>
+          <h3 className="distro__labelTitle" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(labelSection.title).contents}}></h3>
+          <p className="distro__itemTitle" dangerouslySetInnerHTML={{__html: remark().use(recommended).use(remarkHtml).processSync(labelSection.body).contents}}></p>
         </div>
         )
       })}
@@ -55,8 +58,7 @@ ProductPageTemplate.propTypes = {
 }
 
 const ProductPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
-
+  const { frontmatter } = data.markdownRemark;
   return (
     <Layout>
       <ProductPageTemplate
