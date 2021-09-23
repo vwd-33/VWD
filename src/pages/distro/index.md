@@ -1597,7 +1597,7 @@ labels:
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
   - title: 12" / 10" VINYL
     body: >-
-      ABSURD (ger) - "Asgardsrei" LP   *HAS CORNER DAMAGE*: $17.00
+      ABSURD (ger) - "Asgardsrei" LP *(HAS CORNER DAMAGE)*: $17.00
 
 
       ABSURD (ger) - "Sonnenritter" 12" MLP: $28.00
@@ -1660,7 +1660,7 @@ labels:
       DARK FURY (pol) - "Vae Victis!" LP: $20.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP   *HAS SUBTLE CORNER DAMAGE AND RING WEAR*: $22.00
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP (*HAS SUBTLE CORNER DAMAGE AND RING WEAR)*: $22.00
 
 
       DER STÜRMER (gre) - "Bloodsworn II" 2LP: $40.00
