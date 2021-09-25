@@ -2001,79 +2001,80 @@ labels:
       ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL): $20.00
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL | Gildan Heavy Cotton):
+      $20.00
 
 
-      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL): $22.00
+      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL | JHK TSRA 190, European sizing): $22.00
 
 
-      BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL): $20.00
+      BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | Gildan Dry Blend): $20.00
 
 
-      DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M, XL): $20.00
+      DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M, XL | Gildan Heavy Cotton): $20.00
 
 
-      DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL): $20.00
+      DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL | Gildan Heavy Cotton): $20.00
 
 
-      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only): $18.00
+      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only | Gildan Ultra Cotton): $18.00
 
 
-      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL): $20.00
+      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL | Gildan Ultra Cotton): $20.00
 
 
-      ETERNAL STRIFE (usa) - MLK tshirt (L, XL): $15.00
+      ETERNAL STRIFE (usa) - MLK tshirt (L, XL | Gildan Heavy Cotton): $15.00
 
 
-      MOHAREBEH (usa) - "Total Support" TSHIRT (S only): $18.00
+      MOHAREBEH (usa) - "Total Support" TSHIRT (S only | Gildan Ultra Cotton): $18.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL): $18.00
+      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL | Gilday Dry Blend): $18.00
 
 
-      OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL): $20.00
+      OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | JHK TSRA 190, European sizing): $20.00
 
 
-      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL): $20.00
+      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL | Gildan Heavy Cotton): $20.00
 
 
-      SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L): $18.00
+      SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | Fruit of the Loom, European sizing): $18.00
 
 
-      SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L): $18.00
+      SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L | Fruit of the Loom, European sizing): $18.00
 
 
-      THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only): $18.00
+      THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only | Gildan Dry Blend): $18.00
 
 
-      TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only): $22.00
+      TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | JHK TSRA 190, European sizing): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (XL only): $23.00
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (XL only | Gildan Heavy Cotton): $23.00
 
 
-      WAR 88 (pol) - TSHIRT (XL only): $22.00
+      WAR 88 (pol) - TSHIRT (XL only | JHK TSRA 190, European sizing): $22.00
 
 
-      WEWELSSBURG (usa) - Logo TSHIRT (L only): $20.00
+      WEWELSSBURG (usa) - Logo TSHIRT (L only | Gildan Heavy Cotton): $20.00
 
 
-      WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M): $15.00
+      WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M | Gildan Softstyle): $15.00
 
 
-      WODULF (gre) - "Zerezat" TSHIRT (M, L, XL): $20.00
+      WODULF (gre) - "Zerezat" TSHIRT (M, L, XL | Gildan Heavy Cotton): $20.00
 
 
-      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL): $18.00
+      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S, XL / GREEN: S, XL, XXXL | Gildan Ultra Cotton): $18.00
 
 
-      WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XXL): $22.00
+      WOTANORDEN (usa) - "Summoning the Beast Within" TSHIRT (M, L, XXL | Gildan Dry Blend): $22.00
 
 
-      AIDS Kills .... TSHIRT (S, M, L): $12.00
+      AIDS Kills .... TSHIRT (S, M, L | Gildan Dry Blend): $12.00
 
 
-      CORNELIU CODREANU tribute TSHIRT (S, M): $12.00
+      CORNELIU CODREANU tribute TSHIRT (S, M | Gildan Heavy Cotton): $12.00
   - title: PINS, PATCHES, ETC (photos coming soon | request by email for now)
     body: >-
       ENDSIEG (usa) - logo METAL PIN: $9.00
