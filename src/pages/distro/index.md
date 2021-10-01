@@ -2001,7 +2001,7 @@ labels:
       ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L, XL | Gildan Heavy Cotton):
+      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L only | Gildan Heavy Cotton):
       $20.00
 
 
