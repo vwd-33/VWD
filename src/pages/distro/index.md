@@ -1312,9 +1312,6 @@ labels:
       FÖRGJORD (fin) - "Uhripuu" TAPE: $8.00
 
 
-      GOATBLOOD (aus) - "Hate Division" TAPE: $8.00
-
-
       GRAFVOLLUTH (usa) - "Long Live Death!" TAPE: $7.00
 
 
