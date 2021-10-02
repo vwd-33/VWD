@@ -1546,7 +1546,7 @@ labels:
       USURPR (usa) - “Era of Conquest”  TAPE: $7.00
 
 
-      VELES / LEGION (pol) - "Blood on my Knife" TAPE: $13.00
+      VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.00
 
 
       VENEDAE (pol) - "Siedem Kamiennych Oblicz" TAPE: $8.00
