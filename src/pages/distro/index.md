@@ -70,9 +70,6 @@ labels:
       *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $8.00
 
 
-      *VWD 31:* RECLUSE (usa) - "The Black Famine" TAPE: $7.00
-
-
       *VWD 36:* BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
 
 
@@ -179,9 +176,6 @@ labels:
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
-
-
-      DEFILE (usa) - "Poser Holocaust" TAPE: $7.00
   - title: CDs
     body: >-
       88 (bul) - "Power Against Propaganda" CD: $15.00
