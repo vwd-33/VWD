@@ -712,22 +712,22 @@ labels:
       MOHAREBEH (usa) - "We Are At War!!!" DIGIPACK CD: $10.00
 
 
-      MOONBLOOD (ger) - "Domains of Hell (reh/demo 12)" 2CD: $18.00
+      MOONBLOOD (ger) - "Domains of Hell (Reh/Demo 12)" 2CD: $18.00
 
 
-      MOONBLOOD (ger) - "Kingdom of Forgotten Dreams (reh/demo 4)" CD: $15.00
+      MOONBLOOD (ger) - "Kingdom of Forgotten Dreams (Reh/Demo 4)" CD: $15.00
 
 
-      MOONBLOOD (ger) - "Moonblood (reh/demo 1)" CD: $15.00
+      MOONBLOOD (ger) - "Moonblood (Demo 1)" CD: $15.00
 
 
-      MOONBLOOD (ger) - "The evil rules (reh/demo 2)" CD: $15.00
+      MOONBLOOD (ger) - "The evil rules (Reh/Demo 2)" CD: $15.00
 
 
-      MOONBLOOD (ger) - "Worshippers of the grim sepulchral moon (reh/demo 11)" 2CD: $18.00
+      MOONBLOOD (ger) - "Worshippers of the grim sepulchral moon (Reh/Demo 11)" 2CD: $18.00
 
 
-      MOONBLOOD (ger) - “Angelwings in the Darkness (reh/demo 10)” 2CD: $18.00
+      MOONBLOOD (ger) - “Angelwings in the Darkness (Reh/Demo 10)” 2CD: $18.00
 
 
       MOONTOWER / BLACK WINTER (pol) - split CD: $10.88
