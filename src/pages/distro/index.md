@@ -628,7 +628,7 @@ labels:
       KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" DIGIPACK CD: $13.00
 
 
-      KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $13.00
+      KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $15.00
 
 
       LASCOWIEC (usa) - " A Warcry Rises Above The Frozen Lands " CD: $10.88
@@ -1090,7 +1090,7 @@ labels:
       WEWELSBURG (rus) - "Ultima Intolerance" CD: $20.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $14.00
+      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $15.00
 
 
       WINTERGEWITTER (ger) - "Operation Wintergewitter" CD: $10.00
