@@ -142,7 +142,7 @@ labels:
       *VWD 62:* DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
 
 
-      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
+      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
 
 
       *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
@@ -1267,7 +1267,7 @@ labels:
       DEFILE (usa) - "Poser Holocaust" TAPE: $6.00
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
 
 
       DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
