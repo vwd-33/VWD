@@ -1321,9 +1321,6 @@ labels:
       HADAK URA (usa) - "Ten Arrows From The Sky/Weep At The Glorious Shrines Of Nature" TAPE: $7.00
 
 
-      HAKENKREUZ NOCTURNA (Ita) - "Eternal Introspective Winter" tape: $6.00
-
-
       HAMMERGOAT / DAKHMA (bra/swiss) - "Decrepit Utterances of Unseen Horrors" TAPE: $8.00
 
 
