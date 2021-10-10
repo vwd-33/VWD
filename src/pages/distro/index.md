@@ -469,7 +469,7 @@ labels:
       EVIL (bra) - "To The Fallen and Free" CD: $12.00
 
 
-      EVILFEAST / UUNTAR (pol/netherlands) - "Odes to Lands of Past Traditions" CD: $12.00
+      EVILFEAST / UUNTAR (pol/nl) - "Odes to Lands of Past Traditions" CD: $12.00
 
 
       FAMULUS AB SATANAS (fin) - ‎"Sacred Assembly Beneath Unholy Secrecy" CD: $14.00
@@ -1414,7 +1414,7 @@ labels:
       NORRHEM (fin) - "Voima Ja Kunnia" TAPE: $8.50
 
 
-      OAK (Netherlands) - "Their Death... Our Freedom" TAPE: $7.00
+      OAK (nl) - "Their Death... Our Freedom" TAPE: $7.00
 
 
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" TAPE: $8.00
