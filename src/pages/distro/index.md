@@ -391,9 +391,6 @@ labels:
       DARK FURY / POPRAVA (pol/czech) - "Furor Slavica" CD: $10.88
 
 
-      DEAD KOMMUNIST (fin) - "Dead Kommunist" CD: $12.00
-
-
       DEATH WORSHIP (can) - "Extermination Mass" CD: $10.00
 
 
