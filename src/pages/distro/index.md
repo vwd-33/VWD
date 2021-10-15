@@ -850,9 +850,6 @@ labels:
       RAVENDARK'S MONARCHAL CANTICLE (Bra) - "Sobre as Cinzas do Fracasso Alheio" DIGIPACK CD: $10.00
 
 
-      RAVENDARK'S MONARCHAL CANTICLE / POPRAVA (Bra/Pol) - "Pure Hate Attack" CD: $10.00
-
-
       RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $12.00
 
 
