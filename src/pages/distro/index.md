@@ -1732,9 +1732,6 @@ labels:
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
-      KRISTALLNACHT (fra) - "Warspirit" LP: $26.00
-
-
       KVASIR'S BLOOD (usa) - Triumph of The Will LP: $25.00
 
 
