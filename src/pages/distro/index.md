@@ -1429,9 +1429,6 @@ labels:
       PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
 
 
-      PANTHEON (usa) - "Vargrstrike" TAPE: $10.00
-
-
       PANZERJAGER (usa) - "Nuclear Streets!" TAPE: $8.00
 
 
