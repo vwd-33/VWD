@@ -763,10 +763,7 @@ labels:
       NOKTURNE (usa) - "Kruelty Kampaign" CD: $10.00
 
 
-      NOKTURNE / TODESWEIHE (US/Ger) – “Blitzkrieg Death Invocations” CD: $10.00
-
-
-      NORDVREDE (Nor) - "State of the Art" CD: $12.00
+      NORDVREDE (nor) - "State of the Art" CD: $12.00
 
 
       NOXIA (ger) - "The Age of Wisdom" DIGIPACK CD: $10.00
