@@ -244,9 +244,6 @@ labels:
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" CD: $15.00
 
 
-      ARYAN TERRORISM (ukr) - “WAR” CD: $16.00
-
-
       ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
 
 
