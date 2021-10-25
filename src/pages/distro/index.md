@@ -346,10 +346,10 @@ labels:
       BURZUM (nor) - "Anthology - Lord of Darkness" CD: $10.00
 
 
-      BURZUM (nor) - "Det Som Engang Var" CD: $13.00
+      BURZUM (nor) - "Det Som Engang Var" CD: $14.00
 
 
-      BURZUM (nor) - "Filosofem" CD: $13.00
+      BURZUM (nor) - "Filosofem" CD: $14.00
 
 
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
