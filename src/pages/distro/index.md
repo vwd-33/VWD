@@ -355,7 +355,7 @@ labels:
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
-      CROSS OF IRON (pol) - "In The Steelstorms" CD: $8.00
+      CROSS OF IRON (pol) - "In The Steelstorms" CD: $10.00
 
 
       CRUX DISSIMULATA (fra) - "Bleichmond" CD: $10.00
