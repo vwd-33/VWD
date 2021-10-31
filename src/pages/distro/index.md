@@ -1537,9 +1537,6 @@ labels:
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
-      HAAR (usa) - "Betrayal of the Blood" TAPE: $8.00
-
-
       HAAR (usa) - "Sky of Grey" TAPE: $8.00
 
 
@@ -1591,7 +1588,7 @@ labels:
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $8.60
+      KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $8.50
 
 
       LASCOWIEC (usa) - "Frostwinds of the Apocalypse" TAPE: $8.00
@@ -1715,9 +1712,6 @@ labels:
 
 
       SACRIFICIA MORTUORUM (fra) - "Railler L’Hymen des Siècles" TAPE: $8.00
-
-
-      SAPTHURAN (usa) - "Hildegicel, Blood Dripping From A Sword" TAPE: $8.00
 
 
       SCHWARZMACHT (ger) - "Stirb und Werde" TAPE: $7.00
