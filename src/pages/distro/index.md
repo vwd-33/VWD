@@ -1777,9 +1777,6 @@ labels:
       TOD (ita) - "Black Metal Manifesto" TAPE: $8.00
 
 
-      TODESZONE (swiss) - "Night of the Sharpest Blades" TAPE: $8.00
-
-
       TRIGGER (usa) - "Trigger" TAPE: $8.00
 
 
