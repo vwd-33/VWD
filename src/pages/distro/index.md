@@ -2357,7 +2357,7 @@ labels:
       Cotton*): $20.00
 
 
-      AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy Cotton*)
+      AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
       AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL | *JHK TSRA 190, European sizing*): $22.00
