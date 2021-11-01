@@ -1828,9 +1828,6 @@ labels:
       WITCHCRAFT (fin) - "Diablerie" TAPE: $8.00
 
 
-      WITCHSWORD (usa) - "Witchsword" TAPE: $9.00
-
-
       WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
 
 
