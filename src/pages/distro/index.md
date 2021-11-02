@@ -2378,13 +2378,19 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M, L, XL | Gildan Dry Blend): $20.00
+      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M, XL | Gildan Dry Blend): $20.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
 
 
       NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL | *Gildan Dry Blend*): $18.00
+
+
+      NORDWIND (can) - Logo TSHIRT (S only | Gildan Ultra Cotton): $20.00
+
+
+      NORDWIND (can) - "Heathen Death Worship" TSHIRT (S only | Gildan Ultra Cotton): $20.00
 
 
       OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
