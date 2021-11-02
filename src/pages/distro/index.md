@@ -2411,9 +2411,6 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT (XL only | *Gildan Heavy Cotton*): $23.00
-
-
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
