@@ -70,9 +70,6 @@ labels:
       *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $8.00
 
 
-      *VWD 36:* BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
-
-
       *VWD 38:* EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
@@ -1418,9 +1415,6 @@ labels:
 
 
       BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
-
-
-      BILSKIRNIR (ger) - "Wolfswut" TAPE: $8.00
 
 
       BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.00
