@@ -493,9 +493,6 @@ labels:
       DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $15.00
 
 
-      DER STÜRMER / RAVENDARK'S MONARCHAL CANTICLE (gre/bra) - split CD: $15.00
-
-
       DESOLATION TRIUMPHALIS (fra) - "Forever Bound to Nothingness" DIGIPACK CD: $15.00
 
 
