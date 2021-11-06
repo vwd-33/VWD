@@ -204,7 +204,7 @@ labels:
       VWD 65 LEBENSRAUM - "Werwolf" CD
 
 
-      VWD 66 GESTAPO SS - "Vinlandic Stormtroopers" 12" LP / CD / Pro CS
+      VWD 66 GESTAPO SS - "Vinlandic Stormtroopers" CD / Pro CS
 
 
       VWD 67 WODULF - "...From the Corpsegates" Pro CS
