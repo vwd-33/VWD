@@ -2086,9 +2086,6 @@ labels:
       ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" LP: $25.00
 
 
-      PANTHEON (usa) - "Draugrs Daug" 2LP: $40.00
-
-
       PANTHEON OF BLOOD (fin) - "Voices Rooted in Blood" LP: $25.00
 
 
