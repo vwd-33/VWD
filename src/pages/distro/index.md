@@ -1411,9 +1411,6 @@ labels:
       BETHEL (fin) - "Northern Despondency" TAPE: $8.50
 
 
-      BILSKIRNIR (ger) - "Dem Feind entgegen" TAPE: $8.00
-
-
       BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.00
 
 
