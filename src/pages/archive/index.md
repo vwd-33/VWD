@@ -204,6 +204,18 @@ labels:
       VWD 65 LEBENSRAUM - "Werwolf" CD
 
 
+      VWD 66 GESTAPO SS - "Vinlandic Stormtroopers" 12" LP / CD / Pro CS
+
+
+      VWD 67 WODULF - "...From the Corpsegates" Pro CS
+
+
+      VWD 68 GARDIEN DE PORCS - "Dans les terres" Pro CS
+
+
+      VWD 69 E.A.G.L.E. - "Autumn Hearts in the Iron Winter" Pro CS
+
+
       VWD 71 ARMAGGEDON - "Trumpets of Christian Holocaust" Pro CS
 
 
@@ -214,9 +226,33 @@ labels:
 
 
       VWD 75 RATTENKÖNIG - "Rodentia's Wrath" Pro CS
+
+
+      VWD 84 AMALEK / NACHTKULT - "Das letzte Aufgebot" Pro CS
+
+
+      VWD 85 PANZERJAGER / AESIR - "War Chants for Ragnarok" Pro CS
+
+
+      VWD 86 KVASIR'S BLOOD - "The Golden Thread" Pro CS
+
+
+      VWD 88 VOTHANA - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" Pro CS
+
+
+      VWD 94 DER STÜRMER - "Europa Erwache!" MCD / Pro CS
+
+
+      VWD 95 AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER - "Artifacts of War" CD
+
+
+      VWD 97 PANTHEON - "Paganuclear" Pro CS
   - title: VINLANDIC WERWOLF Merchandise Releases
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT
+
+
+      AMALEK (ger) - "German Aryan Black Metal" TSHIRT
 
 
       ARYAN HAMMER (fin) - logo TSHIRT (Black Tshirts & White Tshirts)
@@ -246,6 +282,9 @@ labels:
       FORLORN WINDS (usa) - old logo TSHIRT
 
 
+      GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT
+
+
       INTOLITARIAN (usa) - "Antifa Parasite" TSHIRT
 
 
@@ -256,6 +295,9 @@ labels:
 
 
       INTOLITARIAN (usa) - "Squealing Target" TSHIRT
+
+
+      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT
 
 
       KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (Black Tshirts & Forest Green Tshirts)
@@ -292,6 +334,9 @@ labels:
 
 
       WOLFNACHT (gre) - "Blut und Boden" TSHIRT
+
+
+      WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT
 
 
       SAVITRI DEVI "The Woman Against Time" TSHIRT
