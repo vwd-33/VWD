@@ -1072,9 +1072,6 @@ labels:
       SEIGNEUR VOLAND (fra) - "Black Metal Blitzkrieg" CD: $15.00
 
 
-      SEIGNEUR VOLAND (fra) - "Consumatum Est" DIGIPACK CD: $15.00
-
-
       SELBSTMORD (pol) - "Radical Declaration" CD: $12.00
 
 
