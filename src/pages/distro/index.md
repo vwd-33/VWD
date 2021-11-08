@@ -9,7 +9,7 @@ description2:
   descriptionList:
     - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
         THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING. **"
-    - text: "*All orders ship* from the United States. All prices are in USD."
+    - text: "*All orders ship from the United States. All prices are in USD.*"
     - text: International orders are possible, but the postage is expensive. We have
         no control over it, so don’t waste our time or your time if you aren’t
         prepared to pay the high shipping cost!
