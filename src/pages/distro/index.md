@@ -1852,7 +1852,7 @@ labels:
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
 
 
-      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP: $30.00
+      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP **(*HAS CORNER DAMAGE/BENDS)***: $16.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
@@ -1927,7 +1927,7 @@ labels:
       DARKTHULE (gre) – "Βιγλάτωρ" LP: $28.00
 
 
-      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP (*HAS SUBTLE CORNER DAMAGE AND RING WEAR)*: $22.00
+      DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP **(*HAS SUBTLE CORNER DAMAGE AND RING WEAR)***: $22.00
 
 
       DER STÜRMER (gre) - "Mors Triumphalis (Demo Collection 1999 - 2017)" 2LP: $40.00
