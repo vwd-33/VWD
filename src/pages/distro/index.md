@@ -28,9 +28,9 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        ..............  **Last Distro Update: June 27, 2021**
+        .......  **Last Distro Update: November 8, 2021**
         .......................................................................\
-        ..............."
+        ........ "
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
