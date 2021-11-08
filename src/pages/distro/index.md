@@ -277,6 +277,9 @@ labels:
       ARMATUS (ger) - "Armee Der Schwarzen Stiefel" DIGIPACK CD: $12.00
 
 
+      ARYAN BLOOD (ger) - "Stürme aus Stahl" CD: $15.00
+
+
       ARYAN FOREST (fin) - Of Barbarism and Nordic Ariosophy CD: $16.00
 
 
@@ -332,6 +335,9 @@ labels:
 
 
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $15.00
+
+
+      BILSKIRNIR (ger) - "Lost Forever" MCD: $15.00
 
 
       BLACK WITCHERY (usa) - "Desecration of the Holy Kingdom" CD: $10.00
@@ -467,6 +473,9 @@ labels:
 
 
       DEMONIC SLAUGHTER (Pol) - "Dark Paths to Catharsis" CD: $10.00
+
+
+      DER STÜRMER / AUSCHWITZ SYMPHONY ORCHESTRA (gre/fin) - split CD: $20.00
 
 
       DER STÜRMER (gre) - "A Banner Greater Than Death" CD: $15.00
@@ -1292,6 +1301,12 @@ labels:
 
 
       WOJNAR (pol) - “Zimowa Opowieść” CD: $12.00
+
+
+      WOLFNACHT (gre) - "Eine Flamme im Dunkeln" CD: $16.00
+
+
+      WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
 
 
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
@@ -2197,7 +2212,7 @@ labels:
       WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $30.00
+      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $28.00
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" LP: $20.00
