@@ -2209,7 +2209,7 @@ labels:
       WEREWOLF BLOODORDER (bra) - "Rites of Murder and Sacrifice" 12" MLP: $23.00
 
 
-      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
+      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $22.00
 
 
       WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $28.00
