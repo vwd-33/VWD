@@ -478,9 +478,6 @@ labels:
       DEMONIC SLAUGHTER (Pol) - "Dark Paths to Catharsis" CD: $10.00
 
 
-      DER STÜRMER / AUSCHWITZ SYMPHONY ORCHESTRA (gre/fin) - split CD: $20.00
-
-
       DER STÜRMER (gre) - "A Banner Greater Than Death" CD: $15.00
 
 
