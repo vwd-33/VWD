@@ -919,9 +919,6 @@ labels:
       NOKTURNE (usa) - "Embracer Of Dark Ages" CD: $10.88
 
 
-      NOKTURNE (usa) - "Kruelty Kampaign" CD: $10.00
-
-
       NOKTURNE / NOCTIFER (usa/ita) - "Wargod Domination" CD: $10.88
 
 
