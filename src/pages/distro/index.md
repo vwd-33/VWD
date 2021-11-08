@@ -280,9 +280,6 @@ labels:
       ARYAN BLOOD (ger) - "Stürme aus Stahl" CD: $15.00
 
 
-      ARYAN BLOOD / CAPRICORNUS (ger/pol) - split CD: $20.00
-
-
       ARYAN FOREST (fin) - Of Barbarism and Nordic Ariosophy CD: $16.00
 
 
