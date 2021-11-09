@@ -1300,9 +1300,6 @@ labels:
       WOLFNACHT (gre) - "Eine Flamme im Dunkeln" CD: $16.00
 
 
-      WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
-
-
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
 
 
