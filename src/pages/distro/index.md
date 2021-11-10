@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: November 8, 2021**
+        .......  **Last Distro Update: November 10, 2021**
         .......................................................................\
         ........ "
 labels:
@@ -2387,6 +2387,9 @@ labels:
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
+      RESISTENCIA 88 (bra) - "J.U.D.E.N. R.A.U.S." TSHIRT (XXL only | *Fruit of the Loom, European sizing*): $22.00
+
+
       SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
 
 
@@ -2406,6 +2409,9 @@ labels:
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M | *Gildan Softstyle*): $15.00
+
+
+      WODULF (gre) - "Venom from the Mouth of the Dead" TSHIRT (M, L | *Gildan Heavy Cotton*): $22.00
 
 
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
