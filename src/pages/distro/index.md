@@ -1774,9 +1774,6 @@ labels:
       TWO RUNES (fin) – “Herää Eurooppa!” TAPE: $8.50
 
 
-      UBERMENSCH (int.) - "Untermensch" TAPE: $10.00
-
-
       UNTERBOREA (arg) - "Forever Departed" TAPE: $7.00
 
 
