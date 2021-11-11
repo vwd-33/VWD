@@ -2251,9 +2251,6 @@ labels:
       ABSURD (ger) - "Pure Darkness" EP: $12.00
 
 
-      ABSURD / HELDENTUM (ger) – "Totenburg / Die Eiche" EP: $13.00
-
-
       COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
 
 
