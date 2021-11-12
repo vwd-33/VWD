@@ -1846,7 +1846,7 @@ labels:
       ABSURD (ger) - "Totenlieder" LP: $28.00
 
 
-      ABSURD (ger) - "Werwolfthron" LP: $23.00
+      ABSURD (ger) - "Werwolfthron" LP: $26.00
 
 
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
