@@ -1852,7 +1852,7 @@ labels:
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
 
 
-      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP **(*HAS CORNER DAMAGE/BENDS)***: $16.00
+      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP: $30.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
