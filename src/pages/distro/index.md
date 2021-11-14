@@ -1939,9 +1939,6 @@ labels:
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
 
 
-      DEVILRY (Fin) - "Treuelied" LP: $28.00
-
-
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
 
 
