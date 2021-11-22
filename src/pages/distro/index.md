@@ -337,9 +337,6 @@ labels:
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $15.00
 
 
-      BILSKIRNIR (ger) - "Lost Forever" MCD: $15.00
-
-
       BLACK WITCHERY (usa) - "Desecration of the Holy Kingdom" CD: $10.00
 
 
