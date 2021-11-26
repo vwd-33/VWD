@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: November 10, 2021**
+        .......  **Last Distro Update: November 26, 2021**
         .......................................................................\
         ........ "
 labels:
@@ -319,7 +319,10 @@ labels:
       AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER (fin/usa/ita) - "Artifacts of War" CD: $12.00
 
 
-      AYYADIEH (usa) - Oath of Allegiance CD: $10.00
+      AYYADIEH (usa) - "Oath of Allegiance" CD: $10.00
+
+
+      AYYADIEH (usa) - "The Endless Crusade" CD: $10.00
 
 
       AZELSGARD (pol) - "Confraternity of Lawlessness" CD: $12.00
@@ -1177,7 +1180,7 @@ labels:
       THEUDHO (bel) - "De Roep van her woud" CD: $10.00
 
 
-      THOKK (usa) - "A Trance For The Ever-Toiling Witch" CD: $14.00
+      THOKK (usa) - "A Trance For The Ever-Toiling Witch" CD: $13.00
 
 
       THOR'S HAMMER (pol) - "May the Hammer Smash the Cross" CD: $15.00
@@ -1220,6 +1223,9 @@ labels:
 
 
       ÜBERMENSCH (europa) - "Untermensch" MCD: $10.00
+
+
+      VAGINAL JESUS (usa) - "Affirmative Apartheid" CD: $25.00
 
 
       VAMPYRIC BLOOD (fin) - Watching the Nights Rot in Eternal Melancholy CD: $12.00
