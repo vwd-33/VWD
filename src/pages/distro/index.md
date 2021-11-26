@@ -916,6 +916,9 @@ labels:
       NOKTURNE (usa) - "Embracer Of Dark Ages" CD: $10.88
 
 
+      NOKTURNE (usa) - "Werwolf Blood Order" DIGIPACK CD: $10.88
+
+
       NOKTURNE / NOCTIFER (usa/ita) - "Wargod Domination" CD: $10.88
 
 
