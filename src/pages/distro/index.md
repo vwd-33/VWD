@@ -2342,7 +2342,7 @@ labels:
       BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | *Gildan Dry Blend*): $20.00
 
 
-      DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M, XL | *Gildan Heavy Cotton*): $20.00
+      DARK FURY (pol) - "Messenger of Inevitable Death" TSHIRT (CHARCOAL GRAY: M, L, XL / ARMY GREEN: M only| *Gildan Heavy Cotton*): $20.00
 
 
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
