@@ -919,9 +919,6 @@ labels:
       NOKTURNE (usa) - "Werwolf Blood Order" DIGIPACK CD: $10.88
 
 
-      NOKTURNE / NOCTIFER (usa/ita) - "Wargod Domination" CD: $10.88
-
-
       NOKTURNE / TODESWEIHE (usa/ger) - "Blitzkrieg Death Invocations" CD: $10.88
 
 
@@ -2436,12 +2433,6 @@ labels:
 
 
       MOHAREBEH (usa) - logo PATCH (black or white): $6.00
-
-
-      ASSASSINATION (ger) - Red Magick Faction PATCH: $6.00
-
-
-      ASSASSINATION (ger) - band sigil PATCH: $6.00
 
 
       ASSASSINATION (ger) - logo PATCH: $6.00
