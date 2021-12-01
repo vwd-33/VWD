@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: November 26, 2021**
+        .......  **Last Distro Update: December 1, 2021**
         .......................................................................\
         ........ "
 labels:
@@ -1831,6 +1831,9 @@ labels:
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
   - title: 12" / 10" VINYL
     body: >-
+      ABSURD (ger) - "Asgardsrei / Final Edition" LP: $28.00
+
+
       ABSURD (ger) - "Asgardsrei" LP (Wolftower replica): $30.00
 
 
@@ -1859,6 +1862,9 @@ labels:
 
 
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
+
+
+      AKTION T4 / BLUTKULT (fra/swe/ger) – "Mann Gegen Masse!" 10" MLP: $25.00
 
 
       AKTION T4 / VIA DOLOROSA (fra/swe/ita) – "Another Train to A.......z" 10" MLP: $25.00
