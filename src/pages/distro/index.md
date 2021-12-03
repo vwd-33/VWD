@@ -1558,9 +1558,6 @@ labels:
       KASTIJDER (nl) - "Kastijder" TAPE: $8.50
 
 
-      KATAXU (pol) - "Ancestral Mysteries" TAPE: $11.00
-
-
       KATAXU (pol) - "Hunger of Elements" TAPE: $11.00
 
 
