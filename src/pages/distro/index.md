@@ -1222,9 +1222,6 @@ labels:
       ÜBERMENSCH (europa) - "Untermensch" MCD: $10.00
 
 
-      VAGINAL JESUS (usa) - "Affirmative Apartheid" CD: $25.00
-
-
       VAMPYRIC BLOOD (fin) - Watching the Nights Rot in Eternal Melancholy CD: $12.00
 
 
