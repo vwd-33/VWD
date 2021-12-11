@@ -2152,9 +2152,6 @@ labels:
       VERMINE (fra) - "Agonie d'une nation / Un nouvel ordre noir" 2LP: $35.00
 
 
-      VOTHANA (usa) - "Biệt Động Quân / Commando" 2LP: $35.00
-
-
       VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
 
 
