@@ -2245,9 +2245,6 @@ labels:
       SS1488 (austria) - "The J.. Hammer" EP: $13.00
 
 
-      WAR 88 (pol) - "Total War" EP: $15.00
-
-
       ABSURD (ger) - "Thuringian Pagan Madness" EP (different cover art): $13.00
 
 
