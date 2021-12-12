@@ -1228,9 +1228,6 @@ labels:
       VAPAUDENRISTI (fin) - "Ei Maata Ilman Kansaa" DIGIPACK CD: $12.00
 
 
-      VELIMOR (rus) - "Legacy" CD: $10.00
-
-
       VERMINE (fra) - "Agonie D'une Nation" CD: $12.00
 
 
