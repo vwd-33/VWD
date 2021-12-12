@@ -1495,9 +1495,6 @@ labels:
       FJÖRD (Can) - "Vor Tru" TAPE: $6.00
 
 
-      FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" TAPE: $10.00
-
-
       FOUR ARMED DEATH WHEEL / PLANTATION (can/usa) - split TAPE: $8.50
 
 
