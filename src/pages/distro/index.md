@@ -832,9 +832,6 @@ labels:
       MASSENVERNICHTUNG / REEK OF THE UNZEN GAS FUMES / VIA DOLOROSA (ger/jap/ita) - "Tokio - Rom - Berlin" CD: $16.00
 
 
-      MJÖLNIR (ger) - "Grabgesang der Sonne - Midgard, erwache!" A5 DIGIPACK CD: $15.00
-
-
       MJÖLNIR (ger) - "Hinweg über die Tore der Zeit" CD: $15.00
 
 
