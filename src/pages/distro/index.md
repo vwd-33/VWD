@@ -556,9 +556,6 @@ labels:
       ETERNUM (aus) - "The Devouring Descent" CD: $12.00
 
 
-      EVIL (bra) - "Ashes of Old" DIGIPACK CD: $12.00
-
-
       EVIL (bra) - "Revenge of Iron and Thunder" DIGIPACK CD: $15.00
 
 
@@ -779,9 +776,6 @@ labels:
 
 
       LEGION (pol) - "Lata Walk Ulicznych" CD: $10.00
-
-
-      LEGION OF DOOM (gre) - "God is Dead" CD: $15.00
 
 
       LEGION OF DOOM (gre) - "Kingdom of Endless Darkness" CD: $15.00
