@@ -1762,9 +1762,6 @@ labels:
       VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.00
 
 
-      VENEDAE (pol) - "Siedem Kamiennych Oblicz" TAPE: $8.00
-
-
       VETALA (por) - "Demo 4" TAPE: $9.00
 
 
