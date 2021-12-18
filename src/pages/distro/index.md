@@ -631,6 +631,9 @@ labels:
       GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of The Hordes" DIGIPACK CD: $14.00
 
 
+      GRAND BELIAL'S KEY (usa) - "Kosherat" CD: $15.00
+
+
       GRAND BELIAL'S KEY (usa) - “Mocking the Philanthropist” CD: $13.00
 
 
