@@ -1255,9 +1255,6 @@ labels:
       WEREWOLF BLOODORDER (Bra) - "Rites of Murder and Sacrifice" DIGIPACK CD: $13.00
 
 
-      WEWELSBURG (rus) - "Ultima Intolerance" CD: $20.00
-
-
       WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $15.00
 
 
