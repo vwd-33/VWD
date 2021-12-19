@@ -2351,9 +2351,6 @@ labels:
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
-      RESISTENCIA 88 (bra) - "J.U.D.E.N. R.A.U.S." TSHIRT (XXL only | *Fruit of the Loom, European sizing*): $22.00
-
-
       SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
 
 
