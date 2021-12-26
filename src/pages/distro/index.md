@@ -181,9 +181,6 @@ labels:
       *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $8.50
 
 
-      *VWD 88:* VOTHANA (usa) - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" TAPE: $11.00
-
-
       *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $11.00
 
 
@@ -1768,9 +1765,6 @@ labels:
       VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
 
 
-      VOTHANA (usa) - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" TAPE: $11.00
-
-
       WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.00
 
 
@@ -2002,9 +1996,6 @@ labels:
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
-      KVASIR'S BLOOD (usa) - Triumph of The Will LP: $25.00
-
-
       LASCOWIEC (usa) - "Asgard Mysteries" 2LP: $30.00
 
 
@@ -2129,9 +2120,6 @@ labels:
 
 
       ULFSDALIR (ger) - "Wolfzeit" LP: $28.00
-
-
-      VERMINE (fra) - "Agonie d'une nation / Un nouvel ordre noir" 2LP: $35.00
 
 
       VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
