@@ -1537,9 +1537,6 @@ labels:
       KASTIJDER (nl) - "Kastijder" TAPE: $8.50
 
 
-      KATAXU (pol) - "Hunger of Elements" TAPE: $11.00
-
-
       KATAXU (pol) - "North" TAPE: $11.00
 
 
