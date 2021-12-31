@@ -730,9 +730,6 @@ labels:
       KOMMANDEMENT (bel) - "732 Anno Domini" CD: $15.00
 
 
-      KOMMANDEMENT (bel) - "Bientôt le renouveau" CD: $15.00
-
-
       KONTRATAK (pol) - 'W Obronie Ojczystej Ziemi" CD: $10.00
 
 
