@@ -2071,9 +2071,6 @@ labels:
       SELBSTMORD (pol) - "Dawn of a New Era" LP: $20.00
 
 
-      SELBSTMORD (pol) - "Radical Declaration" LP: $23.00
-
-
       SELBSTMORD (pol) - "Some Day the Whole World..." LP: $26.00
 
 
