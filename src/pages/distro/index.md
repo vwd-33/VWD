@@ -709,9 +709,6 @@ labels:
       JUDAS ISCARIOT (usa) - "Dethroned, Conquered and Forgotten" CD: $10.00
 
 
-      KAEVUM (nor) - "Kosmos Erwache!" CD: $15.00
-
-
       KAEVUM (nor) - "Natur" CD: $15.00
 
 
@@ -1225,9 +1222,6 @@ labels:
       VETALA (por) - "Burn Your Head with Satan" DIGIPACK CD: $14.00
 
 
-      VINTERSTILLE (austria) - "Gottes Fluach" CD: $12.00
-
-
       VOLSHEBNIK (usa) - "An Infertile Memory" CD: $12.00
 
 
@@ -1501,9 +1495,6 @@ labels:
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
-      HAAR (usa) - "Sky of Grey" TAPE: $8.00
-
-
       HADAK URA (usa) - "Ten Arrows From The Sky/Weep At The Glorious Shrines Of Nature" TAPE: $7.00
 
 
@@ -1715,9 +1706,6 @@ labels:
 
 
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
-
-
-      SUPPURATED FETUS (bra) - "Basic Instict" TAPE: $9.00
 
 
       SURT (US) - "Yggdrasil" TAPE: $8.00
