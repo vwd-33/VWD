@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: December 1, 2021**
+        .......  **Last Distro Update: January 18, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -494,6 +494,12 @@ labels:
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $15.00
+
+
+      DER STÜRMER / WAR 88 (gre/pol) - "Once and Again Plundering the Zion" CD: $16.00
+
+
+      DER STÜRMER / WODULF (gre) - "Paulistarum Terra Mater Live" CD: $16.00
 
 
       DESOLATION TRIUMPHALIS (fra) - "Forever Bound to Nothingness" DIGIPACK CD: $15.00
@@ -1228,6 +1234,9 @@ labels:
       VORNAT (fin) - "Vornat" CD: $12.00
 
 
+      VOTHANA (usa) - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" CD: $16.00
+
+
       VRILDOM (arg) - "Sigma Octantis" DIGIPACK CD: $15.00
 
 
@@ -1252,6 +1261,9 @@ labels:
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
 
 
+      WODULF (gre) - "A Black Skullbanner over Argentum" DIGIPACK CD: $16.00
+
+
       WODULF (gre) - "...from the Corpsegates" CD: $15.00
 
 
@@ -1267,7 +1279,16 @@ labels:
       WOJNAR (pol) - “Zimowa Opowieść” CD: $12.00
 
 
-      WOLFNACHT (gre) - "Eine Flamme im Dunkeln" CD: $16.00
+      WOLFNACHT (gre) - "Eine Flamme Im Dunkeln" CD: $16.00
+
+
+      WOLFNACHT (gre) - "Project Ordensburg" CD: $16.00
+
+
+      WOLFNACHT (gre) - "Töten Für W.O.T.A.N." CD: $16.00
+
+
+      WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
 
 
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
@@ -1361,6 +1382,9 @@ labels:
 
 
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" TAPE: $9.00
+
+
+      ARYSK (aus) - "Devastation" TAPE: $9.00
 
 
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
@@ -1457,6 +1481,15 @@ labels:
 
 
       EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
+
+
+      ELITISM (fra) - "L'odeur des déportés" TAPE: $8.00
+
+
+      ELITISM (fra) - "Pour la pureté de mon Sang" TAPE: $8.00
+
+
+      ELITISM (fra) - "Quand l'Étoile de David Brûlait" TAPE: $8.00
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
@@ -1942,6 +1975,12 @@ labels:
       GRAND BELIAL’S KEY (usa) - "Mocking the Philanthropist" 2LP: $40.00
 
 
+      GRAUSAMKEIT (ger) - "Christenschmähung" LP: $30.00
+
+
+      GRAUSAMKEIT (ger) - "Nostalgia-Okkultes Blut" LP: $30.00
+
+
       GRINDED NIG (usa) - "Shriek of the Mutilated" LP: $25.00
 
 
@@ -2101,6 +2140,9 @@ labels:
       VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
 
 
+      VOTHANA (usa) - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" 2LP: $35.00
+
+
       VRILDOM (arg) - "Thus Spoke the Austral Wind…" LP: $25.00
 
 
@@ -2161,6 +2203,18 @@ labels:
       WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
+      WOLFNACHT (gre) - "Eine Flamme Im Dunkeln" LP: $32.00
+
+
+      WOLFNACHT (gre) - "Project Ordensburg" LP: $32.00
+
+
+      WOLFNACHT (gre) - "Töten Für W.O.T.A.N." LP: $32.00
+
+
+      WOLFNACHT (gre) - "Ypervoreia" LP: $32.00
+
+
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
 
 
@@ -2188,6 +2242,9 @@ labels:
       ABSURD (ger) - "Pure Darkness" EP: $12.00
 
 
+      ABSURD / HELDENTUM (ger) – "Totenburg / Die Eiche" EP: $13.00
+
+
       COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
 
 
@@ -2213,6 +2270,9 @@ labels:
 
 
       BIRKENAU (usa) - "Burning" EP: $12.00
+
+
+      COMMAND / VOTHANA (bra/usa) - "Der Sonnenmensch / Đôi Cánh Của Sự Giận Du = The Wings Of Fury" EP: $15.00
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
