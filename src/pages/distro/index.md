@@ -1939,9 +1939,6 @@ labels:
       FLOODED CHURCH OF ASMODEUS (fin) - "Piss Soaked Church Of The Wrong: A Total Holocaust Of Those Who Turn The Other Cheek" LP: $20.00
 
 
-      FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" 10" MLP: $20.00
-
-
       FORLORN WINDS (usa) - "The Day the Wolf Swallowed the Sun" LP: $20.00
 
 
