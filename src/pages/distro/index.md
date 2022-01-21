@@ -1765,9 +1765,6 @@ labels:
       UNTERBOREA (arg) - "Unreaching Soul" TAPE: $7.00
 
 
-      USURPR (usa) - “Era of Conquest”  TAPE: $7.00
-
-
       VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.00
 
 
