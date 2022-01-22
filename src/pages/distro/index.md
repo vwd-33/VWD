@@ -2263,9 +2263,6 @@ labels:
       BIRKENAU (usa) - "Burning" EP: $12.00
 
 
-      COMMAND / VOTHANA (bra/usa) - "Der Sonnenmensch / Đôi Cánh Của Sự Giận Du = The Wings Of Fury" EP: $15.00
-
-
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
 
 
