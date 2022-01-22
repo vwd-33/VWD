@@ -523,9 +523,6 @@ labels:
       DØDKVLT (fin) - "IV - You Sought the Truth Only to Find Death" CD: $12.00
 
 
-      EDELWEISS (hun) - "White Flower Power" CD: $16.00
-
-
       EINGAR (usa) - "Eingar" CD: $10.00
 
 
