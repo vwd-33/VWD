@@ -529,9 +529,6 @@ labels:
       EINSATZGRUPPEN / SHADOWGATE (usa/aus) - "Return Of Insurgency" CD: $12.00
 
 
-      ELITISM (fra) - "Requiem pour une race mourante" DIGIPACK CD: $13.00
-
-
       ELITISM (fra) - L’odeur des Déportés DIGIPACK CD: $12.00
 
 
