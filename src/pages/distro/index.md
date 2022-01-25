@@ -664,9 +664,6 @@ labels:
       HELDUNE - "Echoes of the Fallen" CD: $10.00
 
 
-      HERRENVOLK (usa) - "Erwache" DIGIPACK CD: $10.00
-
-
       HEYSEL (Swe) - "Motstånd" CD: $14.00
 
 
