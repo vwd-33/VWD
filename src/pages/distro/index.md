@@ -1492,9 +1492,6 @@ labels:
       FUROR (arg) - "Ice Doctrine" TAPE: $7.00
 
 
-      FÖRGJORD (fin) - "Uhripuu" TAPE: $8.00
-
-
       GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.50
 
 
