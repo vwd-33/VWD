@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: January 18, 2022**
+        .......  **Last Distro Update: January 30, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -2355,6 +2355,9 @@ labels:
 
 
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
+
+
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (M, L, XL): $60.00
 
 
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
