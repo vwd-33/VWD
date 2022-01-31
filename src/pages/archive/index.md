@@ -327,6 +327,9 @@ labels:
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" TSHIRT
 
 
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE
+
+
       WEWELSSBURG  (usa) - logo TSHIRT
 
 
