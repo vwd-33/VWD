@@ -1744,9 +1744,6 @@ labels:
       UNTERBOREA (arg) - "Unreaching Soul" TAPE: $7.00
 
 
-      VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.00
-
-
       VETALA (por) - "Demo 4" TAPE: $9.00
 
 
