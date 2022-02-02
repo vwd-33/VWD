@@ -1612,12 +1612,6 @@ labels:
       NORDWIND (can) - "Thy Will Be Done" TAPE: $8.00
 
 
-      NORRHEM (fin) - "Voima Ja Kunnia" TAPE: $8.50
-
-
-      OAK (nl) - "Their Death... Our Freedom" TAPE: $7.00
-
-
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" TAPE: $8.00
 
 
