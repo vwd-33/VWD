@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: January 30, 2022**
+        .......  **Last Distro Update: February 6, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -1639,6 +1639,9 @@ labels:
       POISON MIST (usa) - "Poison Mist" TAPE: $7.00
 
 
+      RAIO NEGRO (por) - "Demo III" TAPE: $9.00
+
+
       RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $8.50
 
 
@@ -1717,6 +1720,9 @@ labels:
       SWERDTHEGAN (usa) - "Rally Around the Banner of Our Blood" TAPE: $8.00
 
 
+      TERROR NOXPHERATUR (por) - "Devouring All Your Life" TAPE: $9.00
+
+
       THE SHADOW ORDER (gre) - "Untold" TAPE: $7.00
 
 
@@ -1778,6 +1784,9 @@ labels:
 
 
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
+
+
+      V/A - "Endlösung Vol. 2" TAPE: $10.50
   - title: 12" / 10" VINYL
     body: >-
       ABSURD (ger) - "Asgardsrei / Final Edition" LP: $28.00
@@ -2104,9 +2113,6 @@ labels:
       VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
 
 
-      VOTHANA (usa) - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" 2LP: $35.00
-
-
       VRILDOM (arg) - "Thus Spoke the Austral Wind…" LP: $25.00
 
 
@@ -2212,13 +2218,10 @@ labels:
       COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) - "Die welt gehört uns!!!" EP: $13.00
-
-
       SS1488 (austria) - "The J.. Hammer" EP: $13.00
 
 
-      ABSURD (ger) - "Thuringian Pagan Madness" EP (different cover art): $13.00
+      ABSURD (ger) - "Thuringian Pagan Madness" EP (alternate cover art): $13.00
 
 
       ABSURD (ger) - "Thuringian Pagan Madness" EP: $13.00
@@ -2245,7 +2248,7 @@ labels:
       ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
 
 
-      EVIL (bra) - "Rites of Cleansing" EP: $9.00
+      EVIL (bra) - "Rites of Cleansing" EP: $10.00
 
 
       EVIL / WALSUNG (bra) - split EP: $13.00
@@ -2272,10 +2275,13 @@ labels:
       NIDHOGGR (Fin) - "Ravens Over The Road Of Kings" EP: $10.00
 
 
-      NOKTURNE / MALÉFICE - split EP: $9.00
+      NOKTURNE / MALÉFICE (usa/fra) - "Die welt gehört uns!!!" EP: $11.00
 
 
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
+
+
+      RESISTENCIA 88 (bra) - "A Nova Ordem" EP: $14.00
 
 
       VAPAUDENRISTI / PYLVANAINEN (fin) - split EP: $12.00
@@ -2348,7 +2354,7 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (M, L | *Gildan Dry Blend*): $60.00
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (M, L, XL | *Gildan Dry Blend*): $60.00
 
 
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
@@ -2415,4 +2421,10 @@ labels:
 
 
       DOOMSDAY ELITE - label logo PATCH: $6.00
+
+
+      ................................................................................
+
+
+      ANCESTRAL ZINE #1 (NAZGUL, VIA DOLOROSA, DARKTHULE, VRILDOM, SCHUTZSTAFFEL, TOTENKOPF | Articles: Vril Gesellenschaft, the N..i Connection): $10.00
 ---
