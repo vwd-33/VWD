@@ -55,9 +55,6 @@ labels:
       *VWD 24:* SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
-      *VWD 26:* WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.00
-
-
       *VWD 27:* BLUTKULT / MALÉFICE (ger/fra) - "Der Geist der Vergangenheit" TAPE: $8.00
 
 
@@ -68,9 +65,6 @@ labels:
 
 
       *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $8.00
-
-
-      *VWD 38:* EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
 
 
       *VWD 40:* ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
@@ -1468,9 +1462,6 @@ labels:
       E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
 
 
-      EISERN 88 (ger) - "Keep the grail of Aryan Blood" TAPE: $8.00
-
-
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
 
@@ -1745,9 +1736,6 @@ labels:
 
 
       VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
-
-
-      WEHRWOLF SS (can) - "Aktion Reinhardt" TAPE: $8.00
 
 
       WEST WALL (usa) - "Blitzkrieg Symphony #1 in D-Minor" TAPE: $8.00
@@ -2351,7 +2339,7 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (M, L, XL | *Gildan Dry Blend*): $60.00
+      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (L, XL | *Gildan Dry Blend*): $60.00
 
 
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
