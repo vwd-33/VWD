@@ -1324,9 +1324,6 @@ labels:
       V/A - "Chronicles of Tyranny and Blood (Tribute to Graveland)" CD: $15.00
 
 
-      V/A - "Illegal Black Metal Vol. 2" DIGIPACK CD: $12.00
-
-
       V/A - "Power Electronics Against Communism Part 2" CD: $10.00
 
 
