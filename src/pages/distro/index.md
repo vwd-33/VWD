@@ -2101,12 +2101,6 @@ labels:
       ABSURD / HELDENTUM (ger) – "Totenburg / Die Eiche" EP: $13.00
 
 
-      COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
-
-
-      SS1488 (austria) - "The J.. Hammer" EP: $13.00
-
-
       ABSURD (ger) - "Thuringian Pagan Madness" EP (alternate cover art): $13.00
 
 
@@ -2116,13 +2110,13 @@ labels:
       AKTION T4 (fra/swe) - "The Afrikakorps" EP: $12.00
 
 
-      ALLERSEELEN (Austria) - Anubis / Chairete Daimones EP: $8.00
-
-
       ARYAN ROGUE (fin) - "Reinrassig" EP: $12.00 black wax / $13.00 purple wax
 
 
       BIRKENAU (usa) - "Burning" EP: $12.00
+
+
+      COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
@@ -2140,7 +2134,7 @@ labels:
       EVIL / WALSUNG (bra) - split EP: $13.00
 
 
-      GRAFVOLLUTH / Slavecrushing Tyrant (US/Pol) - split EP: $8.00
+      GRAFVOLLUTH / Slavecrushing Tyrant (usa/pol) - split EP: $8.00
 
 
       KOMMANDANT / ANIMUS MORTUS (usa/chile) - split EP: $8.00
@@ -2150,9 +2144,6 @@ labels:
 
 
       MALÉFICE / VIA DOLOROSA (fra/ita) - split EP: $12.00
-
-
-      NATION WAR / VIA DOLOROSA (mex/ita) - split EP: $10.00
 
 
       NECROSTRIGIS / WINTER BLACKNESS (Pol) - "W Mrokach Roziskrzonych Mrozem" EP: $10.00
@@ -2170,6 +2161,9 @@ labels:
       RESISTENCIA 88 (bra) - "A Nova Ordem" EP: $14.00
 
 
+      SS1488 (austria) - "The J.. Hammer" EP: $13.00
+
+
       VAPAUDENRISTI / PYLVANAINEN (fin) - split EP: $12.00
 
 
@@ -2183,7 +2177,7 @@ labels:
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
-      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL | *JHK TSRA 190, European sizing*): $22.00
+      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL | *JHK TSRA 190, European sizing*): $20.00
 
 
       BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | *Gildan Dry Blend*): $20.00
@@ -2222,7 +2216,7 @@ labels:
       NORDWIND (can) - "Heathen Death Worship" TSHIRT (S only | Gildan Ultra Cotton): $20.00
 
 
-      OHTAR (Pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
+      OHTAR (pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
 
 
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL | *Gildan Heavy Cotton*): $20.00
@@ -2243,7 +2237,7 @@ labels:
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE (L, XL | *Gildan Dry Blend*): $60.00
 
 
-      WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
+      WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
 
 
       WEWELSSBURG (usa) - Logo TSHIRT (L only | *Gildan Heavy Cotton*): $20.00
@@ -2285,7 +2279,7 @@ labels:
 
       NOKTURNE (usa) - Totenkopf Banner PATCH: $6.00
 
-      ORDER OF THE DEATH'S HEAD (fra) - Jewicide PATCH (black or white): $6.00
+      ORDER OF THE DEATH'S HEAD (fra) - J.wicide PATCH (black or white): $6.00
 
       ORDER OF THE WHITE HAND (fin) - Odal Rune PATCH: $6.00
 
