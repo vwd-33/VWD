@@ -331,18 +331,6 @@ labels:
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $15.00
 
 
-      BLACK WITCHERY (usa) - "Desecration of the Holy Kingdom" CD: $10.00
-
-
-      BLACK WITCHERY (usa) - "Evil Shall Prevail" CD: $10.00
-
-
-      BLACK WITCHERY (usa) - "Upheaval of Satanic Might" CD: $10.00
-
-
-      BLACK WITCHERY / REVENGE (usa/can) - "Holocaustic Death March To Humanity's Doom" CD: $10.00
-
-
       BLOOD LIBEL (can) - "Hate Propaganda Compendium" CD: $12.00
 
 
@@ -610,12 +598,6 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
-      GOATPENIS (bra) - "Biochemterrorism" CD: $12.00
-
-
-      GOATPENIS (bra) - "Flesh Consumed in the Battlefield" CD: $12.00
-
-
       GRAAVEHLDER (swe) - "Naturmystik I Midsommartid" CD: $12.00
 
 
@@ -679,13 +661,13 @@ labels:
       INSANE APOLLYON (Fin) - "Insane Apollyon" CD: $12.00
 
 
-      INTOLITARIAN (US) - "Berserker Savagery" DIGIPACK CD: $10.88
+      INTOLITARIAN (usa) - "Berserker Savagery" DIGIPACK CD: $10.88
 
 
-      INTOLITARIAN (US) - "Extermination Campaign" DIGIPACK CD: $10.88
+      INTOLITARIAN (usa) - "Extermination Campaign" DIGIPACK CD: $10.88
 
 
-      INTOLITARIAN (US) - "Suicidal Allegiance" DIGIPACK CD: $10.88
+      INTOLITARIAN (usa) - "Suicidal Allegiance" DIGIPACK CD: $10.88
 
 
       INTOLITARIAN (usa) - "Deathangle Absolution" DIGIPACK CD: $10.88
