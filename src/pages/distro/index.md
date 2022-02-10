@@ -268,9 +268,6 @@ labels:
       ARMATUS (ger) - "Armee Der Schwarzen Stiefel" DIGIPACK CD: $12.00
 
 
-      ARYAN BLOOD (ger) - "Stürme aus Stahl" CD: $15.00
-
-
       ARYAN FOREST (fin) - Of Barbarism and Nordic Ariosophy CD: $16.00
 
 
