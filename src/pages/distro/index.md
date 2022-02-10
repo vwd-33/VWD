@@ -538,12 +538,6 @@ labels:
       FEAST OF MOLOCH (usa) - "Demo MMXVIII" DIGIPACK CD: $8.00
 
 
-      FJÖRD (Can) - "Vor Tru" CD: $10.00
-
-
-      FJÖRD / DRUNEMETON (Can/Rus) - "A New Dawn Shall Rise / The Sacred Grove" CD: $10.00
-
-
       FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
 
 
@@ -692,9 +686,6 @@ labels:
 
 
       KRISTALLNACHT (fra) - "Warspirit" DIGIPACK CD: $15.00
-
-
-      KRYNITZA (rus) - "Ангел / Angel" CD: $10.00
 
 
       KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" DIGIPACK CD: $13.00
