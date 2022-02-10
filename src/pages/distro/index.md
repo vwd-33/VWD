@@ -640,25 +640,22 @@ labels:
       HELDUNE - "Echoes of the Fallen" CD: $10.00
 
 
-      HEYSEL (Swe) - "Motstånd" CD: $14.00
+      HEYSEL (swe) - "Motstånd" CD: $14.00
 
 
       HOLOCAUST / FROSTKRIEG / EPITHALIUM - "Call Of Thuringian Woods / Verwesung / Hel" CD: $10.00
 
 
-      HONOR / GRAVELAND (Pol) - "Raiders of Revenge" DIGIPACK CD: $14.00
-
-
-      HOSTIUM (Can) - "The Bloodwine of Satan" CD: $10.00
+      HONOR / GRAVELAND (pol) - "Raiders of Revenge" DIGIPACK CD: $14.00
 
 
       HUNOK (hun) - "Forgotten Honour" DIGIPACK CD: $12.00
 
 
-      HUNOK / ANCESTORS BLOOD (Hun/Fin) - "Vágyakozás / Lalli" CD: $10.00
+      HUNOK / ANCESTORS BLOOD (hun/fin) - "Vágyakozás / Lalli" CD: $10.00
 
 
-      INSANE APOLLYON (Fin) - "Insane Apollyon" CD: $12.00
+      INSANE APOLLYON (fin) - "Insane Apollyon" CD: $12.00
 
 
       INTOLITARIAN (usa) - "Berserker Savagery" DIGIPACK CD: $10.88
@@ -974,15 +971,6 @@ labels:
 
 
       RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $12.00
-
-
-      REVENGE (Can) - "Infilitration.Downfall.Death" CD: $10.00
-
-
-      REVENGE (Can) - "Scum.Collapse.Eradication" CD: $10.00
-
-
-      RIDE FOR REVENGE / RxAxPxE (Fin) ‎– RxFxRxRxAxPxE DIGIPACK CD: $15.00
 
 
       RUHMREICH (Ger) - "Goldenes Zeitalter" CD: $10.00
