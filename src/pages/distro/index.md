@@ -412,9 +412,6 @@ labels:
       CROSS OF IRON (pol) - "In The Steelstorms" CD: $10.00
 
 
-      CRUX DISSIMULATA (fra) - "Bleichmond" CD: $10.00
-
-
       DAEMONLUST (fin) - "Death, The Heart of Satan" CD: $14.00
 
 
@@ -442,16 +439,10 @@ labels:
       DARK FURY / POPRAVA (pol/czech) - "Furor Slavica" CD: $10.88
 
 
-      DEATH WORSHIP (can) - "Extermination Mass" CD: $10.00
-
-
       DEEP DESOLATION (pol) - "Boski Jad" CD: $10.00
 
 
       DEFENDERS OF EUROPE (pol) - "Wierni Krwi" CD: $8.00
-
-
-      DEMONIC SLAUGHTER (Pol) - "Dark Paths to Catharsis" CD: $10.00
 
 
       DER STÜRMER (gre) - "A Banner Greater Than Death" CD: $15.00
@@ -500,9 +491,6 @@ labels:
 
 
       DYSANGELIUM (fin) - "Dysangelium" 2CD: $17.00
-
-
-      DØDKVLT (fin) - "IV - You Sought the Truth Only to Find Death" CD: $12.00
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
@@ -754,13 +742,7 @@ labels:
       LEIBSTANDARTE (fra) - "Jusqu'au Sang! Volume 1" CD: $13.00
 
 
-      LIK (swe) - "Avgrundspoetens Flamma" CD: $12.00
-
-
       LIKVANN (nor) - "Bumerke" CD: $12.00
-
-
-      LIKVANN (nor) - "Furet og Vaerbitt" CD: $10.00
 
 
       LLYR (usa) - "Unil Glew Ysgnd (Lost And Forgotten)" CD: $10.00
@@ -937,9 +919,6 @@ labels:
       PERUNWIT (Pol) - "Perkunu Yra Dang" DIGIPACK CD: $10.00
 
 
-      PERUNWIT (Pol) - "Wszystkie Odcienie Szarosci DIGIPACK" CD: $10.00
-
-
       PERUNWIT / KRAINA ZIEMI (pol) - "Roots" DIGIPACK CD: $12.00
 
 
@@ -974,9 +953,6 @@ labels:
 
 
       RUHMREICH (Ger) - "Hymnen des Vaterlandes" CD: $10.00
-
-
-      RUHO (Fin) - "Mouth Of Extinction" CD: $10.00
 
 
       SACRIFICIA MORTUORUM / ORTHANC (fra) - split CD: $12.00
@@ -1039,9 +1015,6 @@ labels:
       SIGILLUM DIABOLICUM (fra) - "Ordo Repugnant : Les Maux du Monde Moderne" CD: $12.00
 
 
-      SLAEGT (Den) - "Ildsvanger" CD: $12.00
-
-
       SPEAR OF LONGINUS (Aus) - "N.O.M." CD: $15.00
 
 
@@ -1064,9 +1037,6 @@ labels:
 
 
       STUTTHOF (gre) - "An Ode To Thee Ancient Great Goddess (2017)" CD: $15.00
-
-
-      STWORZ (Pol) - "Blask Wiecznego Ognia" CD: $10.00
 
 
       SUASTI / ARYANWÜLF (spa/usa) - "Meine Ehre Heisst Treue" CD: $10.00
@@ -1303,16 +1273,7 @@ labels:
       ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
-      ACHERONTAS (Gre) - "Tat Tvam Asi" TAPE: $6.00
-
-
       AESIR (arg) - "Domo Argus" TAPE: $8.00
-
-
-      AKASHAH (usa) - "The Dance of Beltaine Fire" TAPE: $8.00
-
-
-      ANTICHRIST (Can) - "Sacrament of Blood" TAPE: $10.00
 
 
       ARKONA (pol) - "Bogowie Zapomnienia" TAPE: $8.00
@@ -1354,13 +1315,7 @@ labels:
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
 
 
-      BETHEL (fin) - "Northern Despondency" TAPE: $8.50
-
-
       BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.00
-
-
-      BLACK WITCHERY (usa) - "Live Desecration 2012" TAPE: $8.00
 
 
       BLUTKULT / CELTIC DANCE (ger/por) "We are the roar of thunder" TAPE: $8.00
@@ -1369,16 +1324,13 @@ labels:
       BLUTKULT / MALÉFICE (ger/fra) - "Der Geist der Vergangenheit" TAPE: $8.00
 
 
-      BOUND FOR GLORY (US) - "Glory Awaits" TAPE: $10.00
+      BOUND FOR GLORY (usa) - "Glory Awaits" TAPE: $10.00
 
 
       BRUTAL BEGUDE (fra) - "...Forever Ours" TAPE: $7.00
 
 
       BRUTAL BEGUDE (fra) - "Radikal Musik" TAPE: $7.00
-
-
-      BURZUM (nor) - "Aske" TAPE: $10.00
 
 
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
@@ -1391,9 +1343,6 @@ labels:
 
 
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
-
-
-      DEATH WORSHIP (Can) - "Extermination Mass" TAPE: $8.00
 
 
       DEEP DESOLATION (pol) - "Boski Jad" TAPE: $7.00
@@ -1438,9 +1387,6 @@ labels:
       FELLWINTER (usa) - "Blood of Victors" TAPE: $9.00
 
 
-      FJÖRD (Can) - "Vor Tru" TAPE: $6.00
-
-
       FOUR ARMED DEATH WHEEL / PLANTATION (can/usa) - split TAPE: $8.50
 
 
@@ -1451,9 +1397,6 @@ labels:
 
 
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $9.00
-
-
-      GRAFVOLLUTH (usa) - "Long Live Death!" TAPE: $7.00
 
 
       GRAND BELIAL'S KEY (usa) - "Mocking the Philanthropist" TAPE: $10.00
@@ -1648,9 +1591,6 @@ labels:
       SPEAR OF LONGINUS (aus) - "TYONS" TAPE: $8.50
 
 
-      STWORZ (pol) - Po Czasu Kres tape: $6.00
-
-
       SUNCHARIOT (usa) - "Bone Harvester" TAPE: $7.00
 
 
@@ -1669,22 +1609,16 @@ labels:
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
-      SURT (US) - "Yggdrasil" TAPE: $8.00
+      SURT (usa) - "Yggdrasil" TAPE: $8.00
 
 
       SWERDTHEGAN (usa) - "Rally Around the Banner of Our Blood" TAPE: $8.00
-
-
-      TERROR NOXPHERATUR (por) - "Devouring All Your Life" TAPE: $9.00
 
 
       THE SHADOW ORDER (gre) - "Untold" TAPE: $7.00
 
 
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" TAPE: $8.00
-
-
-      TOD (ita) - "Black Metal Manifesto" TAPE: $8.00
 
 
       TRIGGER (usa) - "Trigger" TAPE: $8.00
