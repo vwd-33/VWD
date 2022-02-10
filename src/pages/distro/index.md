@@ -787,9 +787,6 @@ labels:
       MALÉFICE / WALSUNG (fra/bra) - "Hyperborean Tales" DIGIPACK CD: $15.00
 
 
-      MARBLEBOG (hun) - "Wind of Moors" CD : $10.00
-
-
       MARTIAL / I.N.F.A.N.T.R.Y. (pol/usa) - "Execution / Black to the Future" CD: $15.00
 
 
