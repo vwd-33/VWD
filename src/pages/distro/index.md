@@ -1132,9 +1132,6 @@ labels:
       VERMINE (fra) - "Agonie D'une Nation" CD: $12.00
 
 
-      VERMINE (fra) - "Promethean - Ère du surhomme" DIGIPACK CD: $13.00
-
-
       VETALA (por) - "Burn Your Head with Satan" DIGIPACK CD: $14.00
 
 
