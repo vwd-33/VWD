@@ -1519,9 +1519,6 @@ labels:
       PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
 
 
-      POISON MIST (usa) - "Poison Mist" TAPE: $7.00
-
-
       RAIO NEGRO (por) - "Demo III" TAPE: $9.00
 
 
@@ -1600,13 +1597,13 @@ labels:
       SWERDTHEGAN (usa) - "Rally Around the Banner of Our Blood" TAPE: $8.00
 
 
+      TERROR NOXPHERATUR (por) - "Devouring All Your Life" TAPE: $9.00
+
+
       THE SHADOW ORDER (gre) - "Untold" TAPE: $7.00
 
 
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" TAPE: $8.00
-
-
-      TRIGGER (usa) - "Trigger" TAPE: $8.00
 
 
       TWO RUNES (fin) – “Herää Eurooppa!” TAPE: $8.50
@@ -1624,16 +1621,10 @@ labels:
       VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
 
 
-      WEST WALL (usa) - "Blitzkrieg Symphony #1 in D-Minor" TAPE: $8.00
-
-
       WEST WALL (usa) - "On My Shield" TAPE: $8.00
 
 
       WEST WALL (usa) - "Reconquest or Death" TAPE: $8.00
-
-
-      WITCHCRAFT (fin) - "Diablerie" TAPE: $8.00
 
 
       WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
