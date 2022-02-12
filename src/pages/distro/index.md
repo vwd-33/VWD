@@ -1804,9 +1804,6 @@ labels:
       GJENDØD (nor) - "Skygger fra dødsriket" LP: $25.00
 
 
-      GRAND BELIAL'S KEY (usa) - "Goat of a Thousand Young / Triumph of the Hordes" LP: $26.00
-
-
       GRAND BELIAL’S KEY (usa) - "Mocking the Philanthropist" 2LP: $40.00
 
 
