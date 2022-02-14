@@ -232,9 +232,6 @@ labels:
       AESIR / K'TAAGAR (arg/bra) - "Southern The Flame Still Burns" CD: $10.00
 
 
-      AKASHAH (usa) - "Eagna An Marbh" CD: $10.00
-
-
       AKASHAH (usa) - "Taran" CD: $10.00
 
 
@@ -586,9 +583,6 @@ labels:
       GRAND BELIAL'S KEY (usa) - “Mocking the Philanthropist” CD: $13.00
 
 
-      GRAVELAND (pol) - "The Celtic Winter" SLIPCASE CD: $10.00
-
-
       GROM (usa) - "By Oak, Ash, and Thorn" CD: $15.00
 
 
@@ -650,9 +644,6 @@ labels:
 
 
       IRREVERENT (usa) - "Blasphemous Crucifix Profanation" CD: $12.00
-
-
-      JUDAS ISCARIOT (usa) - "Dethroned, Conquered and Forgotten" CD: $10.00
 
 
       KAEVUM (nor) - "Natur" CD: $15.00
@@ -1213,7 +1204,7 @@ labels:
       WOLFSSTURM / STOLZKRIEG (spa/arg) - split CD: $10.00
 
 
-      WOLVES EYES (UK) - "Remembrance of Pagan Heroes" DIGIPACK CD: $10.00
+      WOLVES EYES (uk) - "Remembrance of Pagan Heroes" DIGIPACK CD: $10.00
 
 
       WOLVES' WINTER (Arg) - "Necrosophic Illumination" CD: $10.00
@@ -1316,12 +1307,6 @@ labels:
 
 
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
-
-
-      CELESTIA (fra) - "Delhÿs-cätess" TAPE: $6.00
-
-
-      CELESTIA (fra) - "Frigidiis Apotheosia: Abstinencia Genesiis" TAPE: $6.00
 
 
       CRIMSON MOON (usa) - "Oneironaut" TAPE: $8.50
@@ -1841,9 +1826,6 @@ labels:
 
 
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
-
-
-      LASCOWIEC (usa) - "Asgard Mysteries" 2LP: $30.00
 
 
       LORD OF EVIL (pol) - "Satan's Soldiers" LP: $25.00
