@@ -805,9 +805,6 @@ labels:
       NACHTGEBLÜT (arg) - "Dying echoes of a past forlorn" CD: $12.00
 
 
-      NATION WAR (mex) - "Honour" CD: $12.00
-
-
       NATION WAR (mex) - "Satan's Soldiers SS" CD: $10.00
 
 
