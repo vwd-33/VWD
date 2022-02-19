@@ -2186,9 +2186,6 @@ labels:
       TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
-      VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE ( L only | *Gildan Dry Blend*): $60.00
-
-
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
 
 
