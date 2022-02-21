@@ -1519,7 +1519,7 @@ labels:
       RECLUSE (usa) - "The Black Famine" TAPE: $7.00
 
 
-      REEK OF THE UNZEN GAS FUMES / SCATMOTHER (jap/ger) - "Grizzly Fetish / Nigamushi" SLIPCASED TAPE: $13.50
+      REEK OF THE UNZEN GAS FUMES x SCATMOTHER / GRIZZLY FETISH / 苦虫 (jap/ger) - split SLIPCASED TAPE: $13.50
 
 
       REIDH (fin) - "Children of Northern Sun" TAPE: $7.00
