@@ -640,9 +640,6 @@ labels:
       INTOLITARIAN (usa) - "Suicidal Allegiance" DIGIPACK CD: $10.88
 
 
-      INTOLITARIAN (usa) - "Deathangle Absolution" DIGIPACK CD: $10.88
-
-
       IRAE (por) - "Lurking in the Depths" DIGIPACK CD: $14.00
 
 
