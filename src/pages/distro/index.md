@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: February 14, 2022**
+        .......  **Last Distro Update: February 20, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -946,9 +946,6 @@ labels:
       SEGES FINDERE (bra) - "Massacre Supremacista" CD: $10.00
 
 
-      SEGES FINDERE (bra) - "Mortal Grinder" CD: $10.00
-
-
       SEGES FINDERE (bra) - "Proclamation of Blood Vengeance" CD: $10.00
 
 
@@ -1357,6 +1354,9 @@ labels:
       FOUR ARMED DEATH WHEEL / PLANTATION (can/usa) - split TAPE: $8.50
 
 
+      FUNERAL (fra) - "Black Flame of Unholy Hate" TAPE: $11.50
+
+
       FUROR (arg) - "Ice Doctrine" TAPE: $7.00
 
 
@@ -1522,6 +1522,9 @@ labels:
       RECLUSE (usa) - "The Black Famine" TAPE: $7.00
 
 
+      REEK OF THE UNZEN GAS FUMES / SCATMOTHER (jap/ger) - "Grizzly Fetish / Nigamushi" SLIPCASED TAPE: $13.50
+
+
       REIDH (fin) - "Children of Northern Sun" TAPE: $7.00
 
 
@@ -1534,10 +1537,7 @@ labels:
       SCHWARZMACHT (ger) - "Stirb und Werde" TAPE: $7.00
 
 
-      SEGES FINDERE (bra) - "Dessemitize" TAPE: $8.00
-
-
-      SEGES FINDERE (bra) - "Live Warnoise" TAPE: $7.00
+      SEIGNEUR VOLAND (fra) - "Seigneur Voland" TAPE: $11.50
 
 
       SEVERE STORM (pol) - "The Awakening" TAPE: $7.00
@@ -1595,6 +1595,9 @@ labels:
 
 
       UNTERBOREA (arg) - "Unreaching Soul" TAPE: $7.00
+
+
+      VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.50
 
 
       VETALA (por) - "Demo 4" TAPE: $9.00
