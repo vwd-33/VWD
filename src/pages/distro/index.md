@@ -367,12 +367,6 @@ labels:
       BOUND FOR GLORY (usa) - "Ironborn" CD: $12.00
 
 
-      BUREVIJ / Буревій (ukr) - "Concealed Beyond The Space" DIGIPACK CD: $10.00
-
-
-      BURZUM (nor) - "Anthology - Lord of Darkness" CD: $10.00
-
-
       BURZUM (nor) - "Balder's Dod" DIGIPACK CD: $15.00
 
 
@@ -542,9 +536,6 @@ labels:
 
 
       FUROR (arg) - "Ice Doctrine" CD: $12.00
-
-
-      FUROR VOLTURNO (bra) - "Aequilibrium" CD: $10.00
 
 
       GALDR (usa) - "Mörkergång" CD: $10.00
@@ -730,9 +721,6 @@ labels:
       M8L8TH / NEZHEGOL (rus) - "Wotanjugend" CD: $13.00
 
 
-      MALSAINT (fra) - "Anti Islamist Proselytism" CD: $12.00
-
-
       MALÉFICE (fra) - "Hexenkartothek" CD: $13.00
 
 
@@ -844,7 +832,7 @@ labels:
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" DIGIPACK CD: $10.00
 
 
-      ODOUR OF DEATH (Pol) - "Satanic Devotion‎" DIGIPACK CD: $10.00
+      ODOUR OF DEATH (pol) - "Satanic Devotion‎" DIGIPACK CD: $10.00
 
 
       OHTAR (pol) - "Emptiness" CD: $10.00
@@ -884,9 +872,6 @@ labels:
 
 
       PEROVOGOAT (fin) - "Pervogoat" CD: $12.00
-
-
-      PERUNWIT (Pol) - "Perkunu Yra Dang" DIGIPACK CD: $10.00
 
 
       PERUNWIT / KRAINA ZIEMI (pol) - "Roots" DIGIPACK CD: $12.00
