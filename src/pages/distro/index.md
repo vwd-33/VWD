@@ -565,9 +565,6 @@ labels:
       GESTAPO 666 (fra) - "Black Gestapo Metal" CD: $13.00
 
 
-      GESTAPO 666 (fra) - "Nostalgiah" CD (first press): $16.00
-
-
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
