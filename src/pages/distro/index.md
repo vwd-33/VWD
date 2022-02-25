@@ -2102,7 +2102,7 @@ labels:
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
-      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L, XL | *JHK TSRA 190, European sizing*): $20.00
+      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L only | *JHK TSRA 190, European sizing*): $20.00
 
 
       BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | *Gildan Dry Blend*): $20.00
@@ -2154,9 +2154,6 @@ labels:
 
 
       THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only | *Gildan Dry Blend*): $18.00
-
-
-      TODESSTRAFE (ita) - "Flags and Flames" TSHIRT (XL only | *JHK TSRA 190, European sizing*): $22.00
 
 
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
