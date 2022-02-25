@@ -1258,9 +1258,6 @@ labels:
       ASTARIUM (rus) - "Epoch of Tyrants" TAPE: $7.00
 
 
-      ASTARIUM (rus) - "Hyperborea" TAPE: $7.00
-
-
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
 
 
