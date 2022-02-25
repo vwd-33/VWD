@@ -502,9 +502,6 @@ labels:
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" DIGIPACK CD: $10.00
 
 
-      ETERNAL STRIFE / TYRANATH (usa) - "Vinlandic Hate Brigade / Swords of Promise" CD: $10.00
-
-
       ETERNUM (aus) - "The Devouring Descent" CD: $12.00
 
 
@@ -1076,9 +1073,6 @@ labels:
 
 
       TWO RUNES (fin) - "Herää Eurooppa!" CD: $14.00
-
-
-      TYRANATH / EINGAR / KVAATHAN (usa/can) - "Vinlandic War Hymns" CD: $10.00
 
 
       ULTRA SUR (arg) - "Nacido para ser Skin" CD: $10.00
