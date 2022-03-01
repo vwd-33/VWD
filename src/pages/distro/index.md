@@ -1702,9 +1702,6 @@ labels:
       DARK FURY (pol) - "Flooded Lands" LP: $22.00
 
 
-      DARK FURY (pol) - "Vae Victis!" LP: $20.00
-
-
       DARKTHULE (gre) – "Βιγλάτωρ" LP: $28.00
 
 
@@ -1778,9 +1775,6 @@ labels:
 
 
       HELDENTUM (ger) - "Waffenweihe" LP: $26.00
-
-
-      HOSTIUM (can) - "The Bloodwine of Satan" LP: $20.00
 
 
       IDOLATRY (can) - "In Nomine Mortis" LP: $18.00
