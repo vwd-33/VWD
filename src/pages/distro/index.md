@@ -2186,8 +2186,6 @@ labels:
 
       MOHAREBEH (usa) - logo PATCH (black or white): $6.00
 
-      KOMMANDEMENT (bel) - logo PATCH: $6.00
-
       NOKTURNE (usa) - Sigil Mord PATCH: $6.00
 
       NOKTURNE (usa) - Totenkopf Banner PATCH: $6.00
