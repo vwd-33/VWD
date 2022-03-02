@@ -2017,9 +2017,6 @@ labels:
       ABSURD (ger) - "Pure Darkness" EP: $12.00
 
 
-      ABSURD / HELDENTUM (ger) – "Totenburg / Die Eiche" EP: $13.00
-
-
       ABSURD (ger) - "Thuringian Pagan Madness" EP (alternate cover art): $13.00
 
 
