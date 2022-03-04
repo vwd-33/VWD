@@ -2002,9 +2002,6 @@ labels:
       WOTANORDEN (usa) - "The Hands of Fate" LP: $25.00
 
 
-      XENOPHOBIC (ger) - "Evangelium der Vergasung" 2LP: $40.00
-
-
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" LP: $30.00
 
 
