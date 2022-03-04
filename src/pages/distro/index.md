@@ -1687,9 +1687,6 @@ labels:
       BANNERWAR (gre) – "To Honour Fatherland" LP: $28.00
 
 
-      BILSKIRNIR (ger) - "In Solitary Silence" LP: $25.00
-
-
       BLOOD LIBEL (can) - "Museums Of Gas And Mirrors" LP: $28.00
 
 
