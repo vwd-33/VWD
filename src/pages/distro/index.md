@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: March 2, 2022**
+        .......  **Last Distro Update: March 7, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -251,6 +251,12 @@ labels:
 
 
       ARGENTUM / SIGVEGR - "Black Sun is Rising" CD: $10.00
+
+
+      ARGHOSLENT (usa) - "Unconquered Soldiery" CD: $13.00
+
+
+      ARGHOSLENT / MARTIAL BARRAGE (usa/can) - "Send Forth the Best Ye Breed" CD: $13.00
 
 
       ARKTOGAA (Ita) "Æra Yersinia Pestis Spiritvs" CD: $14.00
@@ -580,6 +586,9 @@ labels:
       HAVOC (swe) - "Legion" CD: $8.00
 
 
+      HEARSE (usa) - "Traipse Across the Empty Graves" CD: $13.00
+
+
       HEATHEN HAMMER (usa) - "Clandestine Oath" DIGIPACK CD: $10.00
 
 
@@ -728,6 +737,9 @@ labels:
 
 
       MARTIAL / I.N.F.A.N.T.R.Y. (pol/usa) - "Execution / Black to the Future" CD: $15.00
+
+
+      MARTIAL BARRAGE (can) - "Agents of the Wolf Age" CD: $13.00
 
 
       MASSENVERNICHTUNG / REEK OF THE UNZEN GAS FUMES / VIA DOLOROSA (ger/jap/ita) - "Tokio - Rom - Berlin" CD: $16.00
