@@ -1210,9 +1210,6 @@ labels:
       "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $10.00
   - title: TAPES
     body: >-
-      ABSURD (ger) - "Live In Suomi Finland Perkele 2008" TAPE: $10.00
-
-
       ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
 
 
@@ -1439,9 +1436,6 @@ labels:
 
 
       NOKTURNE - "Kruelty Kampaign" TAPE: $8.00
-
-
-      NOKTURNE / BLUTKULT (usa/ger) - "Ahnenerbe Blood Cult / Machtergreifung" TAPE: $10.00
 
 
       NOKTURNE / MALÉFICE - split TAPE: $8.00
