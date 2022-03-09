@@ -130,9 +130,6 @@ labels:
       *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $8.50
 
 
-      *VWD 62:* DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
-
-
       *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
 
 
@@ -1304,9 +1301,6 @@ labels:
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
-
-
-      DER STÜRMER (gre) - "A Banner Greater Than Death" TAPE: $8.50
 
 
       DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
