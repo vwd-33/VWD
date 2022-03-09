@@ -460,9 +460,6 @@ labels:
       DER STÜRMER / WAR 88 (gre/pol) - "Once and Again Plundering the Zion" CD: $16.00
 
 
-      DER STÜRMER / WODULF (gre) - "Paulistarum Terra Mater Live" CD: $16.00
-
-
       DESOLATION TRIUMPHALIS (fra) - "Forever Bound to Nothingness" DIGIPACK CD: $15.00
 
 
@@ -1139,9 +1136,6 @@ labels:
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
-
-
-      WODULF (gre) - "A Black Skullbanner over Argentum" DIGIPACK CD: $16.00
 
 
       WODULF (gre) - "...from the Corpsegates" CD: $15.00
