@@ -2159,7 +2159,7 @@ labels:
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
-      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S only / GREEN: S, XL, XXXL | *Gildan Ultra Cotton*): $18.00
+      WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S only / GREEN: S, XXXL | *Gildan Ultra Cotton*): $18.00
 
 
       WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT (M, L, XL | Gildan Heavy Cotton): $23.00
