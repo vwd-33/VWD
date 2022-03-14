@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: March 7, 2022**
+        .......  **Last Distro Update: March 14, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -202,6 +202,9 @@ labels:
       88 (bul) - "Power Against Propaganda" CD: $15.00
 
 
+      ABSURD (ger) - "Asgardsrei" DIGIPACK CD: $15.00
+
+
       ABSURD (ger) - "Blutgericht" CD: $13.00
 
 
@@ -221,6 +224,9 @@ labels:
 
 
       ABSURD / GRAND BELIAL'S KEY / SIGRBLOT (ger/usa/swe) - Weltenfeind DIGIPACK CD: $14.00
+
+
+      ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" DIGIPACK CD: $15.00
 
 
       ADORIA / FEUERNACHT / STAHLFRONT (ger) - "Wehrwolf Jugend" CD: $15.00
@@ -517,6 +523,9 @@ labels:
       FAMULUS AB SATANAS (fin) - ‎"Sacred Assembly Beneath Unholy Secrecy" CD: $14.00
 
 
+      FANISK (usa) - "Noontide" CD: $16.00
+
+
       FEAST OF MOLOCH (usa) - "Demo MMXVIII" DIGIPACK CD: $8.00
 
 
@@ -619,7 +628,16 @@ labels:
       HUNOK / ANCESTORS BLOOD (hun/fin) - "Vágyakozás / Lalli" CD: $10.00
 
 
+      ICONOCLAST CONTRA (usa) - "Combat is the Voice of the Heathen" CD: $14.00
+
+
       INSANE APOLLYON (fin) - "Insane Apollyon" CD: $12.00
+
+
+      I.N.F.A.N.T.R.Y. (usa) "Sambo: First Blood" CD: $16.00
+
+
+      I.N.F.A.N.T.R.Y. / MARTIAL (usa/pol) - "Black to the Future / Execution" CD: $15.00
 
 
       INTOLITARIAN (usa) - "Berserker Savagery" DIGIPACK CD: $10.88
@@ -731,9 +749,6 @@ labels:
 
 
       MALÉFICE / WALSUNG (fra/bra) - "Hyperborean Tales" DIGIPACK CD: $15.00
-
-
-      MARTIAL / I.N.F.A.N.T.R.Y. (pol/usa) - "Execution / Black to the Future" CD: $15.00
 
 
       MARTIAL BARRAGE (can) - "Agents of the Wolf Age" CD: $13.00
@@ -1211,6 +1226,9 @@ labels:
 
 
       V/A - "Svensk Arisk Black Metal" CD: $10.00
+
+
+      V/A - "White Death" compilation CD: $15.00
 
 
       "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $10.00
