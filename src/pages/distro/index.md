@@ -2132,7 +2132,7 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M, XL | Gildan Dry Blend): $20.00
+      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M only | Gildan Dry Blend): $20.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
