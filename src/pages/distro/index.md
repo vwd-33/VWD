@@ -2098,11 +2098,8 @@ labels:
       ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (photos coming soon | request by email for now)
     body: >-
-      ABSURD (ger) - "Der Sieg ist unser" TSHIRT (L only | *Gildan Heavy
+      AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
       Cotton*): $20.00
-
-
-      AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
       AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L only | *JHK TSRA 190, European sizing*): $20.00
