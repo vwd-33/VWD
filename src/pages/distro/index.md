@@ -1618,9 +1618,6 @@ labels:
       XASTHUR (usa) - "The Funeral of Being" TAPE: $10.00
 
 
-      XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" TAPE: $9.00
-
-
       V/A - "Endlösung Vol. 2" TAPE: $10.50
   - title: 12" / 10" VINYL
     body: >-
