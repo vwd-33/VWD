@@ -2120,7 +2120,7 @@ labels:
       DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL | *Gildan Ultra Cotton*): $20.00
 
 
-      ETERNAL STRIFE (usa) - MLK tshirt (L, XL | *Gildan Heavy Cotton*): $15.00
+      ETERNAL STRIFE (usa) - MLK tshirt (L, XL | *Gildan Heavy Cotton*): $18.00
 
 
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
