@@ -394,6 +394,12 @@ labels:
       BURZUM (nor) - "Umskiptar" CD: $15.00
 
 
+      CAPRICORNUS (pol) - "Alone Against All" CD: $16.00
+
+
+      CAPRICORNUS (pol) - "At Any Cost! Anthology: 1995-2005" CD: $16.00
+
+
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
@@ -1714,7 +1720,13 @@ labels:
       DARK FURY (pol) - "Flooded Lands" LP: $22.00
 
 
+      DARKTHULE (gre) - "Awakening of the Ancient Past / The Coming from the Past" LP: $28.00
+
+
       DARKTHULE (gre) – "Βιγλάτωρ" LP: $28.00
+
+
+      DARKTHULE (gre) - "Magna Europa / Under The Pagan Veil" LP: $28.00
 
 
       DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP **(*HAS SUBTLE CORNER DAMAGE AND RING WEAR)***: $22.00
