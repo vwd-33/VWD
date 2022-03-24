@@ -1249,7 +1249,7 @@ labels:
       AESIR (arg) - "Domo Argus" TAPE: $8.00
 
 
-      AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" TAPE: $13.00
+      AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" TAPE: $14.00
 
 
       ARKONA (pol) - "Bogowie Zapomnienia" TAPE: $8.00
@@ -1270,13 +1270,13 @@ labels:
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" TAPE: $9.00
 
 
-      ARYAN KAMPF 88 (bel) - "Aux Kamrades Emprisonné" TAPE: $13.00
+      ARYAN KAMPF 88 (bel) - "Aux Kamrades Emprisonné" TAPE: $14.00
 
 
-      ARYAN KAMPF 88 (bel) - "Belgik Fierté" TAPE: $13.00
+      ARYAN KAMPF 88 (bel) - "Belgik Fierté" TAPE: $14.00
 
 
-      ARYAN KAMPF 88 (bel) - "Sieg Heil" TAPE: $13.00
+      ARYAN KAMPF 88 (bel) - "Sieg Heil" TAPE: $14.00
 
 
       ARYSK (aus) - "Devastation" TAPE: $9.00
@@ -1669,7 +1669,7 @@ labels:
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
-      AKTION T4 (fra/swe) - " H....r Is Watching Us From A Distance" LP: $30.00
+      AKTION T4 (fra/swe) - " H....r Is Watching Us From A Distance" LP (Orange wax): $30.00
 
 
       AKTION T4 / BLUTKULT (fra/swe/ger) – "Mann Gegen Masse!" 10" MLP: $25.00
