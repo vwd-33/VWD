@@ -1702,9 +1702,6 @@ labels:
       ARYAN KAMPF 88 (bel) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $28.00
 
 
-      ARYAN KAMPF 88 (bel) - "N.S.B.M. - Anthologie D'un Kombat Belge" TEST PRESS, ALTERNATE FOLDOVER COVER LP: $45.00
-
-
       ARYAN KAMPF 88 (bel) – "De Bouillon à Gergovie" LP: $30.00
 
 
