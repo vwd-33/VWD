@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: March 14, 2022**
+        .......  **Last Distro Update: March 24, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -1249,6 +1249,9 @@ labels:
       AESIR (arg) - "Domo Argus" TAPE: $8.00
 
 
+      AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" TAPE: $13.00
+
+
       ARKONA (pol) - "Bogowie Zapomnienia" TAPE: $8.00
 
 
@@ -1265,6 +1268,15 @@ labels:
 
 
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" TAPE: $9.00
+
+
+      ARYAN KAMPF 88 (bel) - "Aux Kamrades Emprisonné" TAPE: $13.00
+
+
+      ARYAN KAMPF 88 (bel) - "Belgik Fierté" TAPE: $13.00
+
+
+      ARYAN KAMPF 88 (bel) - "Sieg Heil" TAPE: $13.00
 
 
       ARYSK (aus) - "Devastation" TAPE: $9.00
@@ -1657,6 +1669,9 @@ labels:
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
+      AKTION T4 (fra/swe) - " H....r Is Watching Us From A Distance" LP: $30.00
+
+
       AKTION T4 / BLUTKULT (fra/swe/ger) – "Mann Gegen Masse!" 10" MLP: $25.00
 
 
@@ -1664,6 +1679,9 @@ labels:
 
 
       ANAL CUNT (usa) - "If You Think It’s A Joke You Are A..." 12" MLP: $28.00
+
+
+      ANTISEMITEX (pol) - "Świt Nowej Ery" LP: $30.00
 
 
       ARGHOSLENT (usa) - "Arsenal of Glory" LP: $28.00
@@ -1729,6 +1747,9 @@ labels:
       DARKTHULE (gre) - "Magna Europa / Under The Pagan Veil" LP: $28.00
 
 
+      DEATHKEY (usa) - "Hammer of Aryan Terror" LP: $30.00
+
+
       DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP **(*HAS SUBTLE CORNER DAMAGE AND RING WEAR)***: $22.00
 
 
@@ -1739,6 +1760,9 @@ labels:
 
 
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
+
+
+      DER STÜRMER / TOTENBURG (gre/ger) - "Si Vis Pacem Para Bellum" LP: $28.00
 
 
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" LP: $20.00
