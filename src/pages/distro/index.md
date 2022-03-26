@@ -1276,9 +1276,6 @@ labels:
       ARYAN KAMPF 88 (bel) - "Sieg Heil" TAPE: $14.00
 
 
-      ARYSK (aus) - "Devastation" TAPE: $9.00
-
-
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
@@ -1457,9 +1454,6 @@ labels:
 
 
       MOONTOWER (pol) - "Praise the Apocalypse" TAPE: $6.00
-
-
-      MOONTOWER (pol) - "The Wolf's Hunger" TAPE: $6.00
 
 
       MOONTOWER / TARAN (pol) - "Devil's Incarnation" TAPE: $6.00
