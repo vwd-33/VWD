@@ -1561,9 +1561,6 @@ labels:
       SUNCHARIOT (usa) - "The Path of Desolation" TAPE: $7.00
 
 
-      SUNCHARIOT / WANGELEN (usa/chile) - "Lunar Misanthropy" TAPE: $7.00
-
-
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
@@ -1924,9 +1921,6 @@ labels:
       SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" LP: $20.00
 
 
-      STREICHER (aus) - "Genius of Victory" LP: $30.00
-
-
       STURMGEWEHR (usa) - "Aufhetzung des Hakenkreuz-Volkes" LP: $26.00
 
 
@@ -2165,7 +2159,7 @@ labels:
       OHTAR (pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
 
 
-      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L, XL | *Gildan Heavy Cotton*): $20.00
+      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L | *Gildan Heavy Cotton*): $20.00
 
 
       SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
