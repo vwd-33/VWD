@@ -154,10 +154,10 @@ labels:
       *VWD 69:* E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
 
 
-      *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.50
+      *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
 
 
-      *VWD 74:* BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.50
+      *VWD 74:* BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.00
 
 
       *VWD 75:* RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
@@ -166,10 +166,10 @@ labels:
       *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
 
 
-      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.50
+      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
 
 
-      *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.50
+      *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.00
 
 
       *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $11.00
@@ -1252,6 +1252,9 @@ labels:
       AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" TAPE: $14.00
 
 
+      AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
+
+
       ARKONA (pol) - "Bogowie Zapomnienia" TAPE: $8.00
 
 
@@ -1324,10 +1327,10 @@ labels:
       DEFILE (usa) - "Poser Holocaust" TAPE: $7.00
 
 
-      DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.00
+      DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.50
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
 
 
       DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
@@ -1342,10 +1345,10 @@ labels:
       DREADFUL RELIC (gre) - "Warlords Of Cosmic Sovereign" TAPE: $8.00
 
 
-      E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.00
+      E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
 
 
-      E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
+      E.A.G.L.E. (can) - "Fortitude" TAPE: $8.50
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
@@ -1369,7 +1372,7 @@ labels:
       GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.50
 
 
-      GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $9.00
+      GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $10.00
 
 
       GRAND BELIAL'S KEY (usa) - "Mocking the Philanthropist" TAPE: $10.00
@@ -1420,7 +1423,7 @@ labels:
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $8.50
+      KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.00
 
 
       LASCOWIEC (usa) - "Frostwinds of the Apocalypse" TAPE: $8.00
@@ -1489,7 +1492,7 @@ labels:
       PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
 
 
-      PANTHEON (usa) - "Paganuclear" TAPE: $9.00
+      PANTHEON (usa) - "Paganuclear" TAPE: $10.00
 
 
       PANZERJAGER (usa) - "Nuclear Streets!" TAPE: $8.00
@@ -1504,7 +1507,7 @@ labels:
       RAIO NEGRO (por) - "Demo III" TAPE: $9.00
 
 
-      RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $8.50
+      RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
 
 
       RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
@@ -1615,7 +1618,7 @@ labels:
       WODULF (gre) - "Venom from the Mouth of the Dead" TAPE: $9.00
 
 
-      WODULF (gre) - "Zerezat" TAPE: $8.50
+      WODULF (gre) - "Zerezat" TAPE: $9.00
 
 
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
