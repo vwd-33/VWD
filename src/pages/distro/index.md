@@ -121,16 +121,16 @@ labels:
       *VWD 58:* WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
 
 
-      *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.00
+      *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.50
 
 
-      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.00
+      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.50
 
 
-      *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $8.50
+      *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $9.00
 
 
-      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
+      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
 
 
       *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
@@ -142,46 +142,46 @@ labels:
       *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
-      *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $9.00
+      *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $10.00
 
 
       *VWD 67:* WODULF (gre) - "...from the Corpsegates" TAPE: $9.00
 
 
-      *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.50
+      *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $8.00
 
 
-      *VWD 69:* E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.00
+      *VWD 69:* E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
 
 
-      *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
+      *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.50
 
 
-      *VWD 74:* BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.00
+      *VWD 74:* BLACK SUN SORCERY (usa) - "Hymns Under the Rays of a Setting Black Sun" TAPE: $8.50
 
 
-      *VWD 75:* RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $8.50
+      *VWD 75:* RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
 
 
-      *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $8.50
+      *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
 
 
-      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
+      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.50
 
 
-      *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $8.50
+      *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.50
 
 
       *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $11.00
 
 
-      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.00
+      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.50
 
 
       *VWD 95:* AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER (fin/usa/ita) - "Artifacts of War" CD: $12.00
 
 
-      *VWD 97:* PANTHEON (usa) - "Paganuclear" TAPE: $9.00
+      *VWD 97:* PANTHEON (usa) - "Paganuclear" TAPE: $10.00
   - title: Exclusive Distribution
     body: >-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
