@@ -121,9 +121,6 @@ labels:
       *VWD 58:* WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
 
 
-      *VWD 59:* E.A.G.L.E. (can) - "Fortitude" TAPE: $8.50
-
-
       *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.50
 
 
@@ -1346,9 +1343,6 @@ labels:
 
 
       E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
-
-
-      E.A.G.L.E. (can) - "Fortitude" TAPE: $8.50
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
