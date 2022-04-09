@@ -1456,9 +1456,6 @@ labels:
       MOHAREBEH (usa) - "We Are At War!!!" TAPE: $8.50
 
 
-      MOONTOWER (pol) - "Antichrist Supremacy Domain" TAPE: $6.00
-
-
       MOONTOWER (pol) - "In the Shadow of the Wolf" TAPE: $6.00
 
 
