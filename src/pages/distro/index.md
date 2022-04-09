@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: March 26, 2022**
+        .......  **Last Distro Update: April 9, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -865,6 +865,15 @@ labels:
       OHTAR (pol) - "Emptiness" CD: $10.00
 
 
+      ORDER OF THE DEATH'S HEAD (fra) - "Hakenkreuz" DIGIPACK CD: $16.00
+
+
+      ORDER OF THE DEATH'S HEAD (fra) - "Pogrom Ritual" DIGIPACK CD: $16.00
+
+
+      ORDER OF THE DEATH'S HEAD (fra) - "Soldat Inconnu" DIGIPACK CD: $16.00
+
+
       OVADER (Bul) - "Wotankult" CD: $10.00
 
 
@@ -1004,6 +1013,9 @@ labels:
 
 
       STELLA ARJA (rus) - “Borning Star by Myself” CD: $14.00
+
+
+      STERNATIS (rus) - "Blazebirth Hall" DIGIPACK CD: $16.00
 
 
       STOSSTRUPP (gre) - “Wir Kommen/Rehearsal 110”  CD: $12.00
