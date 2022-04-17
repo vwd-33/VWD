@@ -214,9 +214,6 @@ labels:
       ABSURD (ger) - "Promo 11/2019 A.Y.P.S." DIGISLEEVE CD: $7.00
 
 
-      ABSURD (ger) - "Raubritter/Grimmige Volksmusik" CD: $13.00
-
-
       ABSURD (ger) - "Werwolfthron" CD: $15.00
 
 
