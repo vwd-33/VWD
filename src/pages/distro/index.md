@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: April 9, 2022**
+        .......  **Last Distro Update: April 19, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -2142,6 +2142,9 @@ labels:
 
 
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
+
+
+      GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XL, XXL | *Gildan Heavy Cotton*)
 
 
       KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M only | Gildan Dry Blend): $20.00
