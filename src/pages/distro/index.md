@@ -1927,9 +1927,6 @@ labels:
       SVETOVID (usa) - "Nature's Fury" LP: $20.00
 
 
-      SVETOVID (usa) - "Valhallan Dreams" LP: $25.00
-
-
       THE RAUNCHOUS BROTHERS (usa) - "Die! F. Die!" LP: $30.00
 
 
