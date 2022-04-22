@@ -928,9 +928,6 @@ labels:
       RAVENBANNER (gre) - " ...And Ravens Sing Our Glorious Past" DIGIPACK CD: $15.00
 
 
-      RAVENDARK'S MONARCHAL CANTICLE (Bra) - "Sobre as Cinzas do Fracasso Alheio" DIGIPACK CD: $10.00
-
-
       RESISTENCIA 88 (bra) - "A Nova Ordem" MCD: $12.00
 
 
