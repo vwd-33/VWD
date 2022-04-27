@@ -691,10 +691,10 @@ labels:
       KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" DIGIPACK CD: $13.00
 
 
-      KVASIR'S BLOOD (usa) - "The Eternal Return" CD: $16.00
+      KVASIR'S BLOOD (usa) - "The Eternal Return" CD: $15.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" CD: $15.00
+      KVASIR'S BLOOD (usa) - "The Golden Thread" CD: $13.00
 
 
       KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $15.00
@@ -1837,7 +1837,7 @@ labels:
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" LP: $30.00
+      KVASIR'S BLOOD (usa) - "The Golden Thread" LP: $28.00
 
 
       LORD OF EVIL (pol) - "Satan's Soldiers" LP: $25.00
@@ -1957,7 +1957,7 @@ labels:
       VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
 
 
-      VRILDOM (arg) - "Sigma Octantis" LP: $30.00
+      VRILDOM (arg) - "Sigma Octantis" LP: $28.00
 
 
       VRILDOM (arg) - "Thus Spoke the Austral Wind…" LP: $25.00
