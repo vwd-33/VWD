@@ -229,6 +229,12 @@ labels:
       AESIR / K'TAAGAR (arg/bra) - "Southern The Flame Still Burns" CD: $10.00
 
 
+      AKOLYYTTI (fin) - "Akolyytti" CD: $15.00
+
+
+      AKOLYYTTI (fin) - "Transcendence - The Beast Within" CD: $13.00
+
+
       AKASHAH (usa) - "Taran" CD: $10.00
 
 
