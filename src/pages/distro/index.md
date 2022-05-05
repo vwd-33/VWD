@@ -2168,7 +2168,7 @@ labels:
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
 
 
-      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S, XL | *Gildan Dry Blend*): $18.00
+      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S only | *Gildan Dry Blend*): $18.00
 
 
       NORDWIND (can) - Logo TSHIRT (S only | Gildan Ultra Cotton): $20.00
