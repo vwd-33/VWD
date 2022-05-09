@@ -376,9 +376,6 @@ labels:
       BOUND FOR GLORY (usa) - "Ironborn" CD: $12.00
 
 
-      BURZUM (nor) - "Balder's Dod" DIGIPACK CD: $15.00
-
-
       BURZUM (nor) - "Belus" CD: $15.00
 
 
