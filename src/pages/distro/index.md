@@ -1630,9 +1630,6 @@ labels:
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
 
 
-      XASTHUR (usa) - "The Funeral of Being" TAPE: $10.00
-
-
       V/A - "Endlösung Vol. 2" TAPE: $10.50
   - title: 12" / 10" VINYL
     body: >-
