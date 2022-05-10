@@ -811,9 +811,6 @@ labels:
       MÜTIILATION (fra) "Remains of a Ruined, Dead, Cursed Soul" CD: $14.00
 
 
-      MÜTIILATION (fra) "Vampires of Black Imperial Blood" CD: $14.00
-
-
       NACHTGEBLÜT (arg) - "Dying echoes of a past forlorn" CD: $12.00
 
 
