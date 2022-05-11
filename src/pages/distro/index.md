@@ -2192,9 +2192,6 @@ labels:
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M | *Gildan Softstyle*): $15.00
 
 
-      WODULF (gre) - "Venom from the Mouth of the Dead" TSHIRT (M only | *Gildan Heavy Cotton*): $22.00
-
-
       WODULF (gre) - "Zerezat" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
