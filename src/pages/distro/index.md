@@ -28,7 +28,7 @@ description2:
 
         -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
     - text: "........................................................................\
-        .......  **Last Distro Update: May 4, 2022**
+        .......  **Last Distro Update: May 10, 2022**
         .......................................................................\
         ........ "
 labels:
@@ -1666,6 +1666,9 @@ labels:
       AKTION T4 (fra/swe) - " H....r Is Watching Us From A Distance" LP (Orange wax): $30.00
 
 
+      AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" LP: $30.00
+
+
       AKTION T4 / BLUTKULT (fra/swe/ger) – "Mann Gegen Masse!" 10" MLP: $25.00
 
 
@@ -1718,6 +1721,9 @@ labels:
 
 
       BRAUNAU (ger) - "Braunau - Unsere Lösung Heißt Gewalt" LP: $28.00
+
+
+      COMMAND (bra) - "Sturmangriff" LP: $30.00
 
 
       DAIMON (gre) - "... From the Black Caverns" LP: $28.00
@@ -1930,6 +1936,9 @@ labels:
       SPEAR OF LONGINUS (aus) - "Nothing is forever, and, forever is nothing" LP: $20.00
 
 
+      STOLZKRIEG (arg) - "NS Battlemarch" LP: $28.00
+
+
       STURMGEWEHR (usa) - "Aufhetzung des Hakenkreuz-Volkes" LP: $26.00
 
 
@@ -1961,6 +1970,9 @@ labels:
 
 
       VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
+
+
+      WALKNUT (rus) - "Graveforests and Their Shadows" LP: $28.00
 
 
       WARAGE (fra) - "Die Organisation Des Todes" LP: $28.00
