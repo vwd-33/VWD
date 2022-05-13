@@ -2162,7 +2162,7 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
 
 
-      GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*)
+      GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $23.00
 
 
       KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M only | Gildan Dry Blend): $20.00
