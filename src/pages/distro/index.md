@@ -8,27 +8,34 @@ description2:
   email: vinlandicwerwolf@hotmail.com
   descriptionList:
     - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
-        THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING. **"
-    - text: "*All orders ship from the United States. All prices are in USD.*"
-    - text: International orders are possible, but the postage is expensive. We have
-        no control over it, so don’t waste our time or your time if you aren’t
-        prepared to pay the high shipping cost!
-    - text: "To place an order via Email:"
+        THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING, YOUR EMAIL
+        WILL BE IGNORED!**"
     - text: >-
-        - Clearly list all items you want to buy.
+        -*All orders ship from the United States. All prices are in USD.*
 
-        - Mention your name and full address, so that we can calculate the postage and get back to you with a total price and payment instructions.
+        -*PayPal is NOT accepted. Don't ask.*
 
-        - If you live outside of the United States then a phone number will be required with your address!
+        -*Please allow up to 14-21 days for your order to ship. Patience is a virtue!*
 
-        - Regarding items listed in “Available VINLANDIC WERWOLF releases” and “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for potential wholesale orders / trades, but keep in mind that they cannot be guaranteed due to limited quantities!
+        -*Tracking numbers are not generally provided unless they are asked for, since 99% of the time all orders will arrive without problems. Still, feel free to request one if you are concerned about things such as package theft or if it has been 14 or more days since your order was placed.*
 
-        - Please allow up to 14 days for your order to ship. Patience is a virtue!
+        -*International orders are possible, but the postage is expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
+    - text: >-
+        ...............................................................................
+        *To place an order via Email:*
+        ...............................................................................
 
+        *-Clearly list all items you want to buy.*
 
-        -We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!
+        *-Mention your name and full address, so that we can calculate the postage and get back to you with a total price and payment instructions.*
+
+        *-If you live outside of the United States then a phone number will be required with your address!
+
+        -Regarding items listed in “Available VINLANDIC WERWOLF releases” and “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for potential wholesale orders / trades, but keep in mind that they cannot be guaranteed due to limited quantities!*
+
+        *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  **Last Distro Update: May 10, 2022**
+        .......  *Last Distro Update: May 10, 2022*
         .......................................................................\
         ........ "
 labels:
