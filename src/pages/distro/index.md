@@ -2190,7 +2190,7 @@ labels:
       OHTAR (pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
 
 
-      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S, L | *Gildan Heavy Cotton*): $20.00
+      PANTHEON (usa) - "Iotunkrieg" TSHIRT (S only | *Gildan Heavy Cotton*): $20.00
 
 
       SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
@@ -2203,9 +2203,6 @@ labels:
 
 
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
-
-
-      WEWELSSBURG (usa) - Logo TSHIRT (L only | *Gildan Heavy Cotton*): $20.00
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M | *Gildan Softstyle*): $15.00
