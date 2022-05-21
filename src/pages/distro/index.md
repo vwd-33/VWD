@@ -1037,9 +1037,6 @@ labels:
       SUASTI / ARYANWÜLF (spa/usa) - "Meine Ehre Heisst Treue" CD: $10.00
 
 
-      SUNCHARIOT (usa) - "Bone Harvester" CD: $10.88
-
-
       SUNCHARIOT / HADAK URA (usa) - split CD: $10.00
 
 
