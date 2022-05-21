@@ -329,9 +329,6 @@ labels:
       AZELSGARD (pol) - "Confraternity of Lawlessness" CD: $12.00
 
 
-      BEKËTH NEXËHMÜ (swe) - "De svarta riterna" CD: $13.00
-
-
       BESTIAL WHORE (usa) - "Pentagram Perversion" CD: $10.00
 
 
