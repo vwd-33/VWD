@@ -1613,9 +1613,6 @@ labels:
       WEST WALL (usa) - "Reconquest or Death" TAPE: $8.00
 
 
-      WITCHSWORD / FELLWINTER (usa) - split TAPE: $8.00
-
-
       WODULF (gre) - "...from the Corpsegates" TAPE: $9.00
 
 
