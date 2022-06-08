@@ -704,7 +704,7 @@ labels:
       KVASIR'S BLOOD (usa) - "Triumph of the Will" DIGIPACK CD: $15.00
 
 
-      LASCOWIEC (usa) - " A Warcry Rises Above The Frozen Lands " CD: $10.88
+      LASCOWIEC (usa) - "A Warcry Rises Above The Frozen Lands " CD: $10.88
 
 
       LASCOWIEC (usa) - "Frostwinds of the Apocalypse" CD: $10.88
@@ -714,6 +714,9 @@ labels:
 
 
       LASCOWIEC (usa) - "Survival" CD: $10.88
+
+
+      LASCOWIEC (usa) - "Unbroken Spirit" CD
 
 
       LASCOWIEC (usa) - "Winds of Victory" CD: $10.88
