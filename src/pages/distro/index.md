@@ -962,9 +962,6 @@ labels:
       SEGES FINDERE (bra) - "Massacre Supremacista" CD: $10.00
 
 
-      SEGES FINDERE (bra) - "Proclamation of Blood Vengeance" CD: $10.00
-
-
       SEGES FINDERE (bra) - "Warmasted by Deathkorps' CD: $10.00
 
 
