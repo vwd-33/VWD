@@ -1709,9 +1709,6 @@ labels:
       BANNERWAR (gre) – "To Honour Fatherland" LP: $28.00
 
 
-      BLOOD LIBEL (can) - "Museums Of Gas And Mirrors" LP: $28.00
-
-
       BLUE EYED DEVILS / AGGRAVATED ASSAULT (usa) - "Hate Crimes" LP: $30.00
 
 
