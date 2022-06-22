@@ -980,9 +980,6 @@ labels:
       SELBSTMORD (pol) - "Radical Declaration" CD: $12.00
 
 
-      SELBSTMORD (pol) - "Some Day the Whole World..." CD: $13.00
-
-
       SELBSTMORD (pol) - "Spectre of Hate" CD: $13.00
 
 
