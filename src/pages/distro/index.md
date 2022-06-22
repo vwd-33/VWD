@@ -533,9 +533,6 @@ labels:
       FAMULUS AB SATANAS (fin) - ‎"Sacred Assembly Beneath Unholy Secrecy" CD: $14.00
 
 
-      FANISK (usa) - "Noontide" CD: $16.00
-
-
       FEAST OF MOLOCH (usa) - "Demo MMXVIII" DIGIPACK CD: $8.00
 
 
