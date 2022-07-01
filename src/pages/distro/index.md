@@ -1631,9 +1631,6 @@ labels:
       ABSURD (ger) - "Facta Loquuntur" (No Colours replica): $30.00
 
 
-      ABSURD (ger) - "Sonnenritter" 12" MLP: $28.00
-
-
       ABSURD (ger) - "Totenlieder" LP: $28.00
 
 
@@ -2070,9 +2067,6 @@ labels:
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
-
-
-      DER STÜRMER (gre) - "Siegtruppen" EP: $15.00
 
 
       ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
