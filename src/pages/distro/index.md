@@ -1085,9 +1085,6 @@ labels:
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
 
 
-      THUNDERBOLT (pol) - "The sons of the Darkness" CD: $13.00
-
-
       THUNDERBOLT / KATAXU (pol) - “Black Clouds Over Dark Majesty / Roots Thunder” CD: $15.00
 
 
