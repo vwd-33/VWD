@@ -398,9 +398,6 @@ labels:
       CAPRICORNUS (pol) - "Alone Against All" CD: $16.00
 
 
-      CAPRICORNUS (pol) - "At Any Cost! Anthology: 1995-2005" CD: $16.00
-
-
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
@@ -465,9 +462,6 @@ labels:
 
 
       DER STÜRMER (gre) - "Carelian Pagan Madness" CD: $15.00
-
-
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" CD: $15.00
 
 
       DER STÜRMER / GALGENBERG (gre/pol) - "Europa Erwache ! / Galgenberg" DIGIPACK CD: $16.00
