@@ -1643,7 +1643,7 @@ labels:
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
 
 
-      ABYSSIC HATE (aus) - "A Decade of Hate" 2LP: $30.00
+      ABYSSIC HATE (aus) - "Suicidal Emotions" LP: $28.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
@@ -1707,6 +1707,9 @@ labels:
 
 
       BRAUNAU (ger) - "Braunau - Unsere Lösung Heißt Gewalt" LP: $28.00
+
+
+      COMBAT (pol) - "Northwind / Aryan Spirit of War" LP: $28.00
 
 
       COMMAND (bra) - "Sturmangriff" LP: $30.00
