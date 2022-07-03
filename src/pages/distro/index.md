@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: June 30, 2022*
+        .......  *Last Distro Update: July 3, 2022*
         .......................................................................\
         ........ "
 labels:
@@ -281,6 +281,9 @@ labels:
       ARMATUS (ger) - "Armee Der Schwarzen Stiefel" DIGIPACK CD: $12.00
 
 
+      ARYAN BLOOD (ger) - "Stürme aus Stahl" CD: $15.00
+
+
       ARYAN FOREST (fin) - Of Barbarism and Nordic Ariosophy CD: $16.00
 
 
@@ -333,6 +336,12 @@ labels:
 
 
       BESTIAL WHORE (usa) - "Sabbatic Goat Birth" CD: $10.00
+
+
+      BILSKIRNIR (ger) - "Hyperborea" CD: $15.00
+
+
+      BILSKIRNIR (ger) - "In Flames of Purification / Totenheer" CD: $15.00
 
 
       BILSKIRNIR (ger) - "In Solitary Silence" CD: $15.00
@@ -411,6 +420,9 @@ labels:
 
 
       DAEMONLUST (fin) - "Death, The Heart of Satan" CD: $14.00
+
+
+      DARK FURY (pol) - "...And We Shall Never Surrender" DIGIPACK CD: $13.00
 
 
       DARK FURY (pol) - "Flooded Lands" CD: $10.88
