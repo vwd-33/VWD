@@ -1157,9 +1157,6 @@ labels:
       WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $15.00
 
 
-      WINTERGEWITTER (ger) - "Operation Wintergewitter" CD: $10.00
-
-
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" CD: $10.00
 
 
@@ -1203,9 +1200,6 @@ labels:
 
 
       WOLFSSCHREI (Ger) - "Torture of a Human Soul" CD: $10.00
-
-
-      WOLFSSTURM / STOLZKRIEG (spa/arg) - split CD: $10.00
 
 
       WOLVES EYES (uk) - "Remembrance of Pagan Heroes" DIGIPACK CD: $10.00
