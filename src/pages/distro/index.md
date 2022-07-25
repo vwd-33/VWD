@@ -1490,9 +1490,6 @@ labels:
       RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
 
 
-      RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
-
-
       RAVENDARK'S MONARCHAL CANTICLE (bra) - "Sobre as Cinzas do Fracasso Alheio" TAPE: $8.00
 
 
