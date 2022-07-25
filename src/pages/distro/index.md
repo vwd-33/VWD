@@ -71,9 +71,6 @@ labels:
       *VWD 30:* OHTAR (pol) - "Emptiness" CD: $10.00
 
 
-      *VWD 30:* OHTAR (pol) - "Emptiness" TAPE: $8.00
-
-
       *VWD 40:* ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
@@ -1473,9 +1470,6 @@ labels:
 
 
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" TAPE: $8.00
-
-
-      OHTAR (pol) - "Emptiness" TAPE: $8.00
 
 
       OLD SCYTHIA (ukr) - “Blind War”  TAPE: $7.00
