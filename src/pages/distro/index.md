@@ -1634,9 +1634,6 @@ labels:
       ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" LP: $26.00
 
 
-      ARYAN KAMPF 88 (bel) - "N.S.B.M. - Anthologie D'un Kombat Belge" LP: $28.00
-
-
       ARYAN KAMPF 88 (bel) – "De Bouillon à Gergovie" LP: $30.00
 
 
