@@ -623,9 +623,6 @@ labels:
       HERRENVOLK (usa) - "Erwache" DIGIPACK CD: $10.00
 
 
-      HEYSEL (swe) - "Motstånd" CD: $14.00
-
-
       HOLOCAUST / FROSTKRIEG / EPITHALIUM - "Call Of Thuringian Woods / Verwesung / Hel" CD: $10.00
 
 
