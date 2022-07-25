@@ -818,9 +818,6 @@ labels:
       NEKROKRIST SS (fin) - “Neljän Käärmeen Veljeskunta” CD: $12.00
 
 
-      NEMESIS (sco) - "The Forgotten Soldier" CD: $14.00
-
-
       NOCTIFER (ita) - "454 - Anno Bastardi Domini" CD: $10.00
 
 
