@@ -1175,9 +1175,6 @@ labels:
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
 
 
-      WOLFBLOOD (aus) - "Wolfblood' DIGIPACK CD: $12.00
-
-
       WOLFENBURG (pol) - “Imperium Wilkow” CD: $12.00
 
 
