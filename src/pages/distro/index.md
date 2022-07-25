@@ -488,9 +488,6 @@ labels:
       DREADFUL RELIC (gre) - "Hyborian Sorcery" CD: $10.00
 
 
-      DREADMOON (usa) - "Dreadmoon" CD: $10.00
-
-
       DYSANGELIUM (fin) - "Dysangelium" 2CD: $17.00
 
 
