@@ -881,9 +881,6 @@ labels:
       PAGAN HELLFIRE (can) - "Chant of Forgotten Times" 2CD: $16.00
 
 
-      PAGAN SKULL (fin) - "White Genocide" CD: $12.00
-
-
       PAGANBLUT (bul) - "Auf der Suche nach reine heidnischen Seelen" 2CD: $16.00
 
 
