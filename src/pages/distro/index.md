@@ -1400,9 +1400,6 @@ labels:
       KASTIJDER (nl) - "Kastijder" TAPE: $8.50
 
 
-      KATAXU (pol) - "North" TAPE: $11.00
-
-
       KOMMANDEMENT (bel) - "732 Anno Domini" TAPE: $8.50
 
 
