@@ -1067,9 +1067,6 @@ labels:
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
 
 
-      THUNDERBOLT / KATAXU (pol) - “Black Clouds Over Dark Majesty / Roots Thunder” CD: $15.00
-
-
       TODESZONE (swiss) - "Todeszone" CD: $12.00
 
 
