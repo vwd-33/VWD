@@ -965,9 +965,6 @@ labels:
       SEGES FINDERE / MORBID DESECRATION (bra) - "Never Stop The Hate" DIGIPACK CD: $10.00
 
 
-      SEIGNEUR VOLAND (fra) - "Black Metal Blitzkrieg" CD: $15.00
-
-
       SELBSTMORD (pol) - "Radical Declaration" CD: $12.00
 
 
