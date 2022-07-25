@@ -1796,9 +1796,6 @@ labels:
       KOHORT (pol) - "Megiddo Eve" LP: $18.00
 
 
-      KOMMANDEMENT (bel) - "732 anno domini" LP   *HAS CORNER DAMAGE*: $22.00
-
-
       KORGONTHURUS (fin) - "Korgonthurus / Ristillä Mädäntyen" LP: $18.00
 
 
