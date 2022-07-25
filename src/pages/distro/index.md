@@ -2028,9 +2028,6 @@ labels:
 
 
       V/A - "Leaderless Resistance - A Pan-Aryan Compilation" 2LP: $40.00
-
-
-      V/A - "Werewolves Of The Night II - Public Enemies Of The Northeast" LP: $20.00
   - title: 7" VINYL
     body: >-
       ABSURD (ger) - "Pure Darkness" EP: $12.00
