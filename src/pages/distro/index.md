@@ -536,9 +536,6 @@ labels:
       FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
 
 
-      FORLORN WINDS (usa) - "Murmurs with the Decapitated" CD: $13.00
-
-
       FRANGAR (ita) - "Vomini Vincere" CD: $13.00
 
 
