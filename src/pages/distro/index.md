@@ -1352,9 +1352,6 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $10.00
 
 
-      GRAND BELIAL'S KEY (usa) - "Mocking the Philanthropist" TAPE: $10.00
-
-
       GROM (usa) - "Pagan War Machine" TAPE: $7.00
 
 
