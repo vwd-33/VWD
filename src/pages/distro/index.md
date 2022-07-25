@@ -713,7 +713,7 @@ labels:
       LASCOWIEC (usa) - "Survival" CD: $10.88
 
 
-      LASCOWIEC (usa) - "Unbroken Spirit" CD
+      LASCOWIEC (usa) - "Unbroken Spirit" CD: $10.88
 
 
       LASCOWIEC (usa) - "Winds of Victory" CD: $10.88
