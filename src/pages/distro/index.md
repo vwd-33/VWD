@@ -1904,9 +1904,6 @@ labels:
       ULFSDALIR (ger) - "Wolfzeit" LP: $28.00
 
 
-      VOTHANA (usa) - "Không Bao Giờ Nộp / Never To Submit" 2LP: $35.00
-
-
       VRILDOM (arg) - "Sigma Octantis" LP: $28.00
 
 
