@@ -1262,9 +1262,6 @@ labels:
       ARYAN KAMPF 88 (bel) - "Belgik Fierté" TAPE: $14.00
 
 
-      ARYAN KAMPF 88 (bel) - "Sieg Heil" TAPE: $14.00
-
-
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
