@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: July 3, 2022*
+        .......  *Last Distro Update: August 22, 2022*
         .......................................................................\
         ........ "
 labels:
@@ -170,6 +170,9 @@ labels:
       VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
 
 
+      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.88
+
+
       *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.00
 
 
@@ -183,6 +186,9 @@ labels:
 
 
       *VWD 97:* PANTHEON (usa) - "Paganuclear" TAPE: $10.00
+
+
+      *VWD 100:* ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $12.00
   - title: Exclusive Distribution
     body: >-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
@@ -297,6 +303,9 @@ labels:
 
 
       ARYMAN (pol) - "...i nienazwanych Dyjabłów" DIGIPACK CD: $10.00
+
+
+      ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $12.00
 
 
       ASSASSINATION (ger) - "Circles within Circles" CD: $12.00
@@ -896,6 +905,9 @@ labels:
       PANZERFAUST (Pol) - "I, Phallus God" CD: $10.00
 
 
+      PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.88
+
+
       PEROVOGOAT (fin) - "Pervogoat" CD: $12.00
 
 
@@ -1158,6 +1170,9 @@ labels:
 
 
       WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
+
+
+      WOLFNACHT / GOATMOON / THY SERPENT (gre/fin) - Split CD: $16.00
 
 
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
