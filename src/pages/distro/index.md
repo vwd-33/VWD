@@ -1049,9 +1049,6 @@ labels:
       SØRGELIG (Gre) - "We, the Oblivious" CD: $10.00
 
 
-      TAGHUT (usa) - "Ejaculate Upon The Holy Qur'an" CD: $12.00
-
-
       TEMNOZOR (Rus) - "Folkstorm of the Azure Nights" CD: $12.00
 
 
