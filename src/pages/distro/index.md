@@ -1331,9 +1331,6 @@ labels:
       ETERNAL STRIFE / PLANTATION (usa) - "Traitors Beware!" TAPE: $8.00
 
 
-      FELLWINTER (usa) - "Blood of Victors" TAPE: $9.00
-
-
       FOUR ARMED DEATH WHEEL / PLANTATION (can/usa) - split TAPE: $8.50
 
 
