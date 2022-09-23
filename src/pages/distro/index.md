@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: August 22, 2022*
+        .......  *Last Distro Update: September 23, 2022*
         .......................................................................\
         ........ "
 labels:
@@ -162,6 +162,9 @@ labels:
 
 
       *VWD 75:* RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
+
+
+      *VWD 79:* DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
 
 
       *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
@@ -2016,6 +2019,9 @@ labels:
 
 
       COUNCIL DAIMONION (fra) - "Rise Into the Dark" EP: $13.00
+
+
+      DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
