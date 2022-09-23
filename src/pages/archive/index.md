@@ -240,6 +240,9 @@ labels:
       VWD 86 KVASIR'S BLOOD - "The Golden Thread" Pro CS
 
 
+      VWD 87 SKALLAGRIMSSON - "Aryan Triumph" Pro CS
+
+
       VWD 88 VOTHANA - "Hành Động Bây Giờ, Tương Lai Đảm Bảo / Action Now, Assured Future" Pro CS
 
 
@@ -249,7 +252,16 @@ labels:
       VWD 95 AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER - "Artifacts of War" CD
 
 
+      VWD 96 KVASIR'S BLOOD - "The Eternal Return" Pro CS
+
+
       VWD 97 PANTHEON - "Paganuclear" Pro CS
+
+
+      VWD 98 CHÂTEAU NOIR - "Troubadours Of Pestilence" Pro CS
+
+
+      VWD 99 VRILDOM - "Sigma Octantis" Pro CS
 
 
       VWD 100 ASSASSINATION - "Autumn Brown is the New Black" DIGIPACK CD
