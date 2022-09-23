@@ -228,6 +228,9 @@ labels:
       VWD 75 RATTENKÖNIG - "Rodentia's Wrath" Pro CS
 
 
+      VWD 79 DARK FURY / KVASIR'S BLOOD - split 7" EP
+
+
       VWD 84 AMALEK / NACHTKULT - "Das letzte Aufgebot" Pro CS
 
 
@@ -247,6 +250,9 @@ labels:
 
 
       VWD 97 PANTHEON - "Paganuclear" Pro CS
+
+
+      VWD 100 ASSASSINATION - "Autumn Brown is the New Black" DIGIPACK CD
   - title: VINLANDIC WERWOLF Merchandise Releases
     body: >-
       ABSURD (ger) - "Der Sieg ist unser" TSHIRT
