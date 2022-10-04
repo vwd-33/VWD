@@ -1382,9 +1382,6 @@ labels:
       KASTIJDER (nl) - "Kastijder" TAPE: $8.50
 
 
-      KOMMANDEMENT (bel) - "732 Anno Domini" TAPE: $8.50
-
-
       KONFLICT (sri lanka) - "Trigger Universal Conflict" TAPE: $9.00
 
 
