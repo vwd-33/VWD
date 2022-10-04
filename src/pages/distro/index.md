@@ -1541,9 +1541,6 @@ labels:
       THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" TAPE: $8.00
 
 
-      TWO RUNES (fin) – “Herää Eurooppa!” TAPE: $8.50
-
-
       UNTERBOREA (arg) - "Forever Departed" TAPE: $7.00
 
 
