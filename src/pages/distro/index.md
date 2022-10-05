@@ -707,9 +707,6 @@ labels:
       LASCOWIEC (usa) - "A Warcry Rises Above The Frozen Lands " CD: $10.88
 
 
-      LASCOWIEC (usa) - "Frostwinds of the Apocalypse" CD: $10.88
-
-
       LASCOWIEC (usa) - "Isolation" CD: $10.88
 
 
