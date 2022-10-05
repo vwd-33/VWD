@@ -1499,9 +1499,6 @@ labels:
       SILEXATER (ger) - "Mad Sorcer" TAPE: $8.50
 
 
-      SOMNOLENCE (usa) - "As Midgard Weeps" TAPE: $6.00
-
-
       SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" TAPE: $8.50
 
 
