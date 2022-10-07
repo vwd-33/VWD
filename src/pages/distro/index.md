@@ -1286,12 +1286,6 @@ labels:
       BOUND FOR GLORY (usa) - "Glory Awaits" TAPE: $10.00
 
 
-      BRUTAL BEGUDE (fra) - "...Forever Ours" TAPE: $7.00
-
-
-      BRUTAL BEGUDE (fra) - "Radikal Musik" TAPE: $7.00
-
-
       CAMPO DE MAYO / PERMAFROST (arg) - split TAPE: $7.00
 
 
