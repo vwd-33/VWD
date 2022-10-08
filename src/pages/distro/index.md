@@ -350,9 +350,6 @@ labels:
       BILSKIRNIR (ger) - "In Flames of Purification / Totenheer" CD: $15.00
 
 
-      BILSKIRNIR (ger) - "In Solitary Silence" CD: $15.00
-
-
       BLOOD LIBEL (can) - "Hate Propaganda Compendium" CD: $12.00
 
 
