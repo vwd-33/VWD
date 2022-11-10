@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: October 2, 2022*
+        .......  *Last Distro Update: November 9, 2022*
         .......................................................................\
         ........ "
 labels:
@@ -327,6 +327,9 @@ labels:
 
 
       AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER (fin/usa/ita) - "Artifacts of War" CD: $12.00
+
+
+      AVARIS (gre) - "The Doctrine Of Awakening" DIGIPACK CD: $15.00
 
 
       AYYADIEH (usa) - "Oath of Allegiance" CD: $10.00
@@ -2088,7 +2091,7 @@ labels:
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
 
 
-      NOKTURNE (usa) - Totenkopf Banner TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
+      NOKTURNE (usa) - Totenkopf Banner TSHIRT (L, XL | *Gildan Heavy Cotton*): $20.00
 
 
       NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S only | *Gildan Dry Blend*): $18.00
