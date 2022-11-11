@@ -572,9 +572,6 @@ labels:
       GEISTAZ'IKA (den) - "Trolddomssejd i Skovens Dybe Kedel" DIGIPACK CD: $14.00
 
 
-      GESTAPO 666 (fra) - "Black Gestapo Metal" CD: $13.00
-
-
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
