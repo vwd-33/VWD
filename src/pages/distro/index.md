@@ -1592,9 +1592,6 @@ labels:
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
-      AKTION T4 (fra/swe) - " H....r Is Watching Us From A Distance" LP (Orange wax): $30.00
-
-
       AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" LP: $30.00
 
 
