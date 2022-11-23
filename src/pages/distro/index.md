@@ -512,9 +512,6 @@ labels:
       EMK (usa) - "Doomsday Kult" CD: $10.00
 
 
-      ENCIRCLING WOLVES (uk) - "The Trial of Traitors" CD: $10.00
-
-
       ENDSIEG (usa) - "Twilight of Aryan Consciousness" CD: $13.00
 
 
