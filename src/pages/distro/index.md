@@ -389,9 +389,6 @@ labels:
       BLUTORDEN / KRISTALLNACHT (fra) - "MCMXCVII A.Y.P.S." DIGIPACK CD: $15.00
 
 
-      BOUND FOR GLORY (usa) - "Bad Apple" MCD: $13.00
-
-
       BOUND FOR GLORY (usa) - "Ironborn" CD: $12.00
 
 
