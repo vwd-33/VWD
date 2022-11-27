@@ -2100,9 +2100,6 @@ labels:
       SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
 
 
-      THE RAUNCHOUS BROTHERS (usa) - Hail Metal... TSHIRT (S only | *Gildan Dry Blend*): $18.00
-
-
       WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
 
 
