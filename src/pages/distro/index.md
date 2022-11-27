@@ -1568,9 +1568,6 @@ labels:
       ABSURD (ger) - "Facta Loquuntur" (No Colours replica): $30.00
 
 
-      ABSURD (ger) - "Totenlieder" LP: $28.00
-
-
       ABSURD (ger) - "Werwolfthron" LP: $26.00
 
 
