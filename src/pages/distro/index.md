@@ -1715,9 +1715,6 @@ labels:
       GJENDØD (nor) - "Skygger fra dødsriket" LP: $25.00
 
 
-      GRAND BELIAL’S KEY (usa) - "Mocking the Philanthropist" 2LP: $40.00
-
-
       GRAUSAMKEIT (ger) - "Christenschmähung" LP: $30.00
 
 
