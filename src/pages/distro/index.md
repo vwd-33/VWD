@@ -1694,9 +1694,6 @@ labels:
       FRAKASS (fra) - "Siegfried" LP: $25.00
 
 
-      FULLMOON (pol) - "United Aryan Evil" LP: $26.00
-
-
       FUNERAL (fra) - "Black Flame Of Unholy Hate" LP: $26.00 black vinyl / $28.00 clear vinyl
 
 
