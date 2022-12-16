@@ -545,9 +545,6 @@ labels:
       FRANGAR (ita) - "Vomini Vincere" CD: $13.00
 
 
-      FULLMOON (pol) - "United Aryan Evil" CD: $15.00
-
-
       FUROR (arg) - "Ice Doctrine" CD: $12.00
 
 
