@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: November 9, 2022*
+        .......  *Last Distro Update: January 16, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -675,9 +675,6 @@ labels:
 
 
       KREMATORIUM (ger) - "Götterdämmerung" CD: $15.00
-
-
-      KRISTALLNACHT (fra) - "Warspirit" DIGIPACK CD: $15.00
 
 
       KVASIR'S BLOOD (usa) - "Phantoms of the Deepest Night" DIGIPACK CD: $13.00
@@ -1469,9 +1466,6 @@ labels:
       SCHWARZMACHT (ger) - "Stirb und Werde" TAPE: $7.00
 
 
-      SEIGNEUR VOLAND (fra) - "Seigneur Voland" TAPE: $11.50
-
-
       SEVERE STORM (pol) - "The Awakening" TAPE: $7.00
 
 
@@ -1566,9 +1560,6 @@ labels:
 
 
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
-
-
-      ABYSSIC HATE (aus) - "Suicidal Emotions" LP: $28.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
@@ -1704,12 +1695,6 @@ labels:
 
 
       GJENDØD (nor) - "Skygger fra dødsriket" LP: $25.00
-
-
-      GRAUSAMKEIT (ger) - "Christenschmähung" LP: $30.00
-
-
-      GRAUSAMKEIT (ger) - "Nostalgia-Okkultes Blut" LP: $30.00
 
 
       GRINDED NIG (usa) - "Shriek of the Mutilated" LP: $25.00
@@ -1883,9 +1868,6 @@ labels:
       WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $35.00
 
 
-      WEHRHAMMER (ger) - "Fürchtet Euch Vor Seinem Zorn" 2LP: $35.00
-
-
       WEHRHAMMER (ger) - "My Father Satan" 2LP: $35.00
 
 
@@ -1925,13 +1907,7 @@ labels:
       WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
-      WOLFNACHT (gre) - "Eine Flamme Im Dunkeln" LP: $32.00
-
-
       WOLFNACHT (gre) - "Project Ordensburg" LP: $32.00
-
-
-      WOLFNACHT (gre) - "Töten Für W.O.T.A.N." LP: $32.00
 
 
       WOLFNACHT (gre) - "Ypervoreia" LP: $32.00
@@ -2064,7 +2040,7 @@ labels:
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
 
 
-      NOKTURNE (usa) - Totenkopf Banner TSHIRT (L, XL | *Gildan Heavy Cotton*): $20.00
+      NOKTURNE (usa) - Totenkopf Banner TSHIRT (L only | *Gildan Heavy Cotton*): $20.00
 
 
       NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S only | *Gildan Dry Blend*): $18.00
