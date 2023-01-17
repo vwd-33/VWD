@@ -2102,8 +2102,4 @@ labels:
       THE RAUNCHOUS BROTHERS (usa) - PATCH: $6.00
 
       DOOMSDAY ELITE - label logo PATCH: $6.00
-  - title: ZINES
-    body: "ANCESTRAL ZINE #1 (NAZGUL, VIA DOLOROSA, DARKTHULE, VRILDOM,
-      SCHUTZSTAFFEL, TOTENKOPF | Articles: Vril Gesellenschaft, the N..i
-      Connection): $10.00"
 ---
