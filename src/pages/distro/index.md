@@ -1478,9 +1478,6 @@ labels:
       SUNCHARIOT (usa) - "Bone Harvester" TAPE: $7.00
 
 
-      SUNCHARIOT (usa) - "Songs of the Past from Beyond" TAPE: $7.00
-
-
       SUNCHARIOT (usa) - "Sun Cross (Blood Honor and Strength / Climbing the Avalanche)" TAPE: $7.00
 
 
@@ -2029,9 +2026,6 @@ labels:
 
 
       GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $23.00
-
-
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TSHIRT (M only | Gildan Dry Blend): $20.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
