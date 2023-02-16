@@ -329,9 +329,6 @@ labels:
       AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER (fin/usa/ita) - "Artifacts of War" CD: $12.00
 
 
-      AVARIS (gre) - "The Doctrine Of Awakening" DIGIPACK CD: $15.00
-
-
       AYYADIEH (usa) - "Oath of Allegiance" CD: $10.00
 
 
