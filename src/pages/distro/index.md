@@ -1145,9 +1145,6 @@ labels:
       WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
 
 
-      WOLFNACHT / GOATMOON / THY SERPENT (gre/fin) - Split CD: $16.00
-
-
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
 
 
@@ -1296,9 +1293,6 @@ labels:
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
-
-
-      ETERNAL STRIFE / PLANTATION (usa) - "Traitors Beware!" TAPE: $8.00
 
 
       FOUR ARMED DEATH WHEEL / PLANTATION (can/usa) - split TAPE: $8.50
