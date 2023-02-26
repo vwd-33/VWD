@@ -1793,9 +1793,6 @@ labels:
       SELBSTMORD (pol) - "Some Day the Whole World..." LP: $26.00
 
 
-      SELBSTMORD (pol) - "Spectre of Hate" LP: $26.00
-
-
       SONS OF SATAN (swe) - "In Times of Fire" LP: $26.00
 
 
