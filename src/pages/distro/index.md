@@ -1983,7 +1983,7 @@ labels:
 
 
       ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
-  - title: T-SHIRTS (photos coming soon | request by email for now)
+  - title: T-SHIRTS (request photos by email)
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
       Cotton*): $20.00
@@ -2065,7 +2065,7 @@ labels:
 
 
       CORNELIU CODREANU tribute TSHIRT (S, M | *Gildan Heavy Cotton*): $12.00
-  - title: PINS, PATCHES, ETC (photos coming soon | request by email for now)
+  - title: PINS, PATCHES, ETC (request photos by email)
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $9.00
 
