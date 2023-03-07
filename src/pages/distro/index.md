@@ -317,9 +317,6 @@ labels:
       ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
 
 
-      ASSASSINATION (ger) - "Mental Warfare Commanding Emperor" CD: $10.00
-
-
       ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
 
 
