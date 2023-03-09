@@ -227,9 +227,6 @@ labels:
       ABSURD (ger) - "Promo 11/2019 A.Y.P.S." DIGISLEEVE CD: $7.00
 
 
-      ABSURD (ger) - "Werwolfthron" CD: $15.00
-
-
       ABSURD / GRAND BELIAL'S KEY / SIGRBLOT (ger/usa/swe) - Weltenfeind DIGIPACK CD: $14.00
 
 
@@ -801,9 +798,6 @@ labels:
 
 
       NOKTURNAL MORTUM (ukr) - "11 Years Among The Sheep" 2CD: $20.00
-
-
-      NOKTURNE (usa) - "Embracer Of Dark Ages" CD: $10.88
 
 
       NOKTURNE / EISENWINTER (usa/swiss) - "Templars of Iron Will" CD: $15.00
