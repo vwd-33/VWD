@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: February 26, 2023*
+        .......  *Last Distro Update: March 10, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -2002,6 +2002,9 @@ labels:
 
 
       GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $23.00
+
+
+      KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $25.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
