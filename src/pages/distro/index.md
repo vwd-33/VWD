@@ -1583,9 +1583,6 @@ labels:
       BANNERWAR (gre) – "Centuries of Heathen Might" LP: $28.00
 
 
-      BANNERWAR (gre) – "To Honour Fatherland" LP: $28.00
-
-
       BLUE EYED DEVILS / AGGRAVATED ASSAULT (usa) - "Hate Crimes" LP: $30.00
 
 
@@ -1773,9 +1770,6 @@ labels:
 
 
       ROSTORCHESTER (swiss) - "Die Sonne und der Mond in Ketten" LP: $25.00
-
-
-      SELBSTMORD (pol) - "Dawn of a New Era" LP: $20.00
 
 
       SELBSTMORD (pol) - "Some Day the Whole World..." LP: $26.00
