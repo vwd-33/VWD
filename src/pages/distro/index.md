@@ -176,9 +176,6 @@ labels:
       VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.88
 
 
-      *VWD 86:* KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.00
-
-
       *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $11.00
 
 
@@ -1335,9 +1332,6 @@ labels:
 
 
       KORPBLOD (swe) - "Hymner" TAPE: $7.00
-
-
-      KVASIR'S BLOOD (usa) - "The Golden Thread" TAPE: $9.00
 
 
       LASCOWIEC (usa) - "Frostwinds of the Apocalypse" TAPE: $8.00
