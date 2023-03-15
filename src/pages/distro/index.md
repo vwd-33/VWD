@@ -1616,9 +1616,6 @@ labels:
       DER STÜRMER (gre) - "Mors Triumphalis (Demo Collection 1999 - 2017)" 2LP: $40.00
 
 
-      DER STÜRMER (gre) - "Bloodsworn II" 2LP: $40.00
-
-
       DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
 
 
@@ -1866,9 +1863,6 @@ labels:
 
 
       WOLFNACHT (gre) - "Project Ordensburg" LP: $32.00
-
-
-      WOLFNACHT (gre) - "Ypervoreia" LP: $32.00
 
 
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
