@@ -110,9 +110,6 @@ labels:
       *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" TAPE: $9.00
 
 
-      *VWD 55:* ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
-
-
       *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
@@ -1178,9 +1175,6 @@ labels:
       "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $10.00
   - title: TAPES
     body: >-
-      ABYSSIC HATE (aus) - "A Decade of Hate" TAPE: $8.50
-
-
       ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
