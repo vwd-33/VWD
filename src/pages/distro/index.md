@@ -125,9 +125,6 @@ labels:
       *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.50
 
 
-      *VWD 61:* WODULF (gre) - "Zerezat" TAPE: $9.00
-
-
       *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
 
 
@@ -1494,9 +1491,6 @@ labels:
 
 
       WODULF (gre) - "Venom from the Mouth of the Dead" TAPE: $9.00
-
-
-      WODULF (gre) - "Zerezat" TAPE: $9.00
 
 
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
