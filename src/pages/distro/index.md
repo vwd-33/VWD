@@ -404,9 +404,6 @@ labels:
       CROSS OF IRON (pol) - "In The Steelstorms" CD: $10.00
 
 
-      DAEMONLUST (fin) - "Death, The Heart of Satan" CD: $14.00
-
-
       DARK FURY (pol) - "...And We Shall Never Surrender" DIGIPACK CD: $13.00
 
 
@@ -542,9 +539,6 @@ labels:
       GEIMHRE (can) - "For The Blood of Hinterland" CD: $10.00
 
 
-      GEISTAZ'IKA (den) - "Trolddomssejd i Skovens Dybe Kedel" DIGIPACK CD: $14.00
-
-
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
@@ -630,9 +624,6 @@ labels:
 
 
       INTOLITARIAN (usa) - "Suicidal Allegiance" DIGIPACK CD: $10.88
-
-
-      IRAE (por) - "Lurking in the Depths" DIGIPACK CD: $14.00
 
 
       IRREVERENT (usa) - "Blasphemous Crucifix Profanation" CD: $12.00
@@ -872,9 +863,6 @@ labels:
       PERUNWIT / KRAINA ZIEMI (pol) - "Roots" DIGIPACK CD: $12.00
 
 
-      PESTIS CULTUS (aus) - "Pestis Cultus" DIGIPACK CD: $13.00
-
-
       PIAREVARCIEN (pol) – "U Pošukach Pačatku Tych Šlachoŭ" DIGIPACK CD: $10.00
 
 
@@ -1062,9 +1050,6 @@ labels:
 
 
       VERMINE (fra) - "Agonie D'une Nation" CD: $12.00
-
-
-      VETALA (por) - "Burn Your Head with Satan" DIGIPACK CD: $14.00
 
 
       VOLSHEBNIK (usa) - "An Infertile Memory" CD: $12.00
