@@ -137,6 +137,9 @@ labels:
       *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
 
 
+      *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" LP: $30.00
+
+
       *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $10.00
 
 
@@ -1490,9 +1493,6 @@ labels:
       ABSURD (ger) - "Asgardsrei" LP (Wolftower replica): $30.00
 
 
-      ABSURD (ger) - "Facta Loquuntur / Final Edition" LP: $28.00
-
-
       ABSURD (ger) - "Facta Loquuntur" (No Colours replica): $30.00
 
 
@@ -1500,6 +1500,9 @@ labels:
 
 
       ABSURD / PANTHEON (ger/usa) - "Wolfskrieger / Galdur Vikodlaks" LP: $28.00
+
+
+      ABYSSIC HATE (aus) - "Suicidal Emotions" LP: $28.00
 
 
       AKOLYYTTI (fin) - "Origin - Igniting the Luciferian Flame" LP: $25.00
@@ -1547,9 +1550,6 @@ labels:
       ASKE (fin) - "Goatfuck / Saatan Legio" LP: $25.00
 
 
-      BANNERWAR (gre) – "Centuries of Heathen Might" LP: $28.00
-
-
       BLUE EYED DEVILS / AGGRAVATED ASSAULT (usa) - "Hate Crimes" LP: $30.00
 
 
@@ -1584,6 +1584,9 @@ labels:
 
 
       DEATHKEY / BIZARRE UPROAR / GRUNT / CALIGULA031 - "Beyond" LP **(*HAS SUBTLE CORNER DAMAGE AND RING WEAR)***: $22.00
+
+
+      DER STÜRMER (gre) - "Bloodsworn II" 2LP: $40.00
 
 
       DER STÜRMER (gre) - "Mors Triumphalis (Demo Collection 1999 - 2017)" 2LP: $40.00
@@ -1622,7 +1625,7 @@ labels:
       GESTAPO (ger) - "Heil dem Führer" LP: $30.00
 
 
-      GESTAPO 666 (fra) - "Nostalgiah" LP: $25.00
+      GESTAPO SS (usa) - "Vinlandic Stormtroopers" LP: $30.00
 
 
       GJENDØD (nor) - "Krigsdøger" LP: $25.00
@@ -1794,9 +1797,6 @@ labels:
 
 
       WEHRHAMMER (ger) - "Fleisch und Blut" 2LP: $35.00
-
-
-      WEHRHAMMER (ger) - "My Father Satan" 2LP: $35.00
 
 
       WEHRHAMMER (ger) - "Schwarzes Eisen" 2LP: $35.00
