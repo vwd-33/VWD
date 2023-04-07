@@ -1941,7 +1941,7 @@ labels:
       DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only | *Gildan Ultra Cotton*): $18.00
 
 
-      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S. XXL | *Gildan Ultra Cotton*): $20.00
+      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S, XXL | *Gildan Ultra Cotton*): $20.00
 
 
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL | *Gildan Heavy Cotton*): $18.00
@@ -1953,7 +1953,7 @@ labels:
       GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $23.00
 
 
-      KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $25.00
+      KVASIR'S BLOOD (usa) - "Triumph of the Will" WHITE TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $25.00
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
