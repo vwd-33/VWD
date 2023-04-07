@@ -1511,7 +1511,7 @@ labels:
       AKTION T4 (fra/swe) - "Evgeniks" LP: $28.00
 
 
-      AKTION T4 (fra/swe) - "Of Aryan Blood and White Power" LP: $30.00
+      AKTION T4 (fra/swe) - "Of A. Blood and W. Power" LP: $30.00
 
 
       AKTION T4 / BLUTKULT (fra/swe/ger) – "Mann Gegen Masse!" 10" MLP: $25.00
@@ -1712,9 +1712,6 @@ labels:
       ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" LP: $26.00
 
 
-      ORDER OF THE WHITE HAND (fin) - "Veren Muisto" LP: $20.00
-
-
       ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" LP: $25.00
 
 
@@ -1848,9 +1845,6 @@ labels:
 
 
       XENOPHOBIC (ger) - "Holocaust Black 'n' RAC Metal" LP: $30.00
-
-
-      V/A - "Flammes De France Opus II" LP: $25.00
 
 
       V/A - "Leaderless Resistance - A Pan-Aryan Compilation" 2LP: $40.00
