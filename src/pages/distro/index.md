@@ -1859,9 +1859,6 @@ labels:
       ABSURD (ger) - "Thuringian Pagan Madness" EP: $13.00
 
 
-      AKTION T4 (fra/swe) - "The Afrikakorps" EP: $12.00
-
-
       ARYAN ROGUE (fin) - "Reinrassig" EP: $12.00 black wax / $13.00 purple wax
 
 
