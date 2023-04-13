@@ -1610,9 +1610,6 @@ labels:
       GROM (usa) - "Pagan War Machine" LP: $25.00
 
 
-      HAMMER (fin) - "Rautasiipien Alla" LP: $26.00
-
-
       HELDENTUM (ger) - "Waffenweihe" LP: $26.00
 
 
