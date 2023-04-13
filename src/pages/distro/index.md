@@ -392,9 +392,6 @@ labels:
       BURZUM (nor) - "Umskiptar" CD: $15.00
 
 
-      CAPRICORNUS (pol) - "Alone Against All" CD: $16.00
-
-
       CALIGULA (arg) - Viaje Dentro De La Fría Niebla CD: $10.00
 
 
