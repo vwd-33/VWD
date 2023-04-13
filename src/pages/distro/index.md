@@ -1869,9 +1869,6 @@ labels:
 
 
       VAPAUDENRISTI / PYLVANAINEN (fin) - split EP: $12.00
-
-
-      ZYKLON-B (nor) - "Blood Must Be Shed" EP: $13.00
   - title: T-SHIRTS (request photos by email)
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
