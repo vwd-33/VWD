@@ -1169,9 +1169,6 @@ labels:
       ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" TAPE: $8.50
 
 
-      ARMNATT (por) - "Darkness Times" TAPE: $9.00
-
-
       ARYAN KAMPF 88 (bel) - "Le Kombat Continue!" TAPE: $9.00
 
 
@@ -1278,12 +1275,6 @@ labels:
 
 
       INTOLITARIAN (usa) - "Suicidal Allegiance" TAPE: $9.00
-
-
-      IRAE (por) - "Lurking in the Depths" TAPE: $9.00
-
-
-      IRAE (por) - "The Maniac Perversion Of My Soul" TAPE: $9.00
 
 
       KASTIJDER (nl) - "Kastijder" TAPE: $8.50
@@ -1443,9 +1434,6 @@ labels:
 
 
       VELES / LEGION (pol) - "Blood on my Knife" SLIPCASED TAPE: $13.50
-
-
-      VETALA (por) - "Demo 4" TAPE: $9.00
 
 
       VICARIVS FILII DEI (austria) - "Index Librorum Prohibitorum" TAPE: $9.00
@@ -1848,12 +1836,6 @@ labels:
 
 
       ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
-
-
-      EVIL (bra) - "Rites of Cleansing" EP: $10.00
-
-
-      EVIL / WALSUNG (bra) - split EP: $13.00
 
 
       GRAFVOLLUTH / Slavecrushing Tyrant (usa/pol) - split EP: $8.00
