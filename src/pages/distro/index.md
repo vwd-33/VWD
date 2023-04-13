@@ -1685,9 +1685,6 @@ labels:
       NO REMORSE (uk) - "Start up the Panzers" LP: $30.00
 
 
-      NOKTURNAL MORTUM (ukr) - "Нехристь / NeChrist" 2LP: $30.00
-
-
       OHTAR (pol) - "Emptiness" LP: $25.00
 
 
@@ -1761,9 +1758,6 @@ labels:
 
 
       VRILDOM (arg) – “Terra Australis Ignota” LP: $25.00
-
-
-      WALKNUT (rus) - "Graveforests and Their Shadows" LP: $28.00
 
 
       WARAGE (fra) - "Die Organisation Des Todes" LP: $28.00
