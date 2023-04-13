@@ -1814,9 +1814,6 @@ labels:
       WOLFKRIEG (rus) - "Wolvish Reign" LP: $20.00
 
 
-      WOLFNACHT (gre) - "Project Ordensburg" LP: $32.00
-
-
       WOODTEMPLE (pol) - "Forgotten Pride" LP: $18.00
 
 
