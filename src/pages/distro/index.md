@@ -593,9 +593,6 @@ labels:
       HELDUNE - "Echoes of the Fallen" CD: $10.00
 
 
-      HERRENVOLK (usa) - "Erwache" DIGIPACK CD: $10.00
-
-
       HOLOCAUST / FROSTKRIEG / EPITHALIUM - "Call Of Thuringian Woods / Verwesung / Hel" CD: $10.00
 
 
@@ -783,9 +780,6 @@ labels:
 
 
       NOKTURNAL MORTUM (ukr) - "11 Years Among The Sheep" 2CD: $20.00
-
-
-      NOKTURNE / EISENWINTER (usa/swiss) - "Templars of Iron Will" CD: $15.00
 
 
       NOKTURNE / TODESWEIHE (usa/ger) - "Blitzkrieg Death Invocations" CD: $10.88
@@ -1107,9 +1101,6 @@ labels:
 
 
       WOLFNACHT (gre) - "Töten Für W.O.T.A.N." CD: $16.00
-
-
-      WOLFNACHT (gre) - "Ypervoreia" CD: $16.00
 
 
       WOLF'S MOON (pol) - "Ethos of the Aryan Heritage" CD: $15.00
