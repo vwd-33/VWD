@@ -149,9 +149,6 @@ labels:
       *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $8.00
 
 
-      *VWD 69:* E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
-
-
       *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
 
 
@@ -1239,9 +1236,6 @@ labels:
 
 
       DREADFUL RELIC (gre) - "Warlords Of Cosmic Sovereign" TAPE: $8.00
-
-
-      E.A.G.L.E. (can) - "Autumn Hearts in the Iron Winter" TAPE: $8.50
 
 
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
