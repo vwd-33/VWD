@@ -1676,9 +1676,6 @@ labels:
       OHTAR (pol) - "Emptiness" LP: $25.00
 
 
-      ORDER OF THE DEATH'S HEAD (fra) - "Rehearsal 2013" LP: $26.00
-
-
       ORLOK / WAMPYR DUNGEON (fin/fra) - "The Carpathian Plague" LP: $25.00
 
 
