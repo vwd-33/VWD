@@ -1604,9 +1604,6 @@ labels:
       GJENDØD (nor) - "Skygger fra dødsriket" LP: $25.00
 
 
-      GRINDED NIG (usa) - "Shriek of the Mutilated" LP: $25.00
-
-
       GROM (usa) - "Pagan War Machine" LP: $25.00
 
 
