@@ -182,7 +182,7 @@ labels:
       *VWD 97:* PANTHEON (usa) - "Paganuclear" TAPE: $10.00
 
 
-      *VWD 100:* ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $12.00
+      *VWD 100:* ASSASSINATION (ger) - "Autumn Brown is the New Black" DIGIPACK CD: $12.00
   - title: Exclusive Distribution
     body: >-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
@@ -1530,9 +1530,6 @@ labels:
 
 
       DER STÜRMER (gre) - "Mors Triumphalis (Demo Collection 1999 - 2017)" 2LP: $40.00
-
-
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" LP: $26.00
 
 
       DER STÜRMER / TOTENBURG (gre/ger) - "Si Vis Pacem Para Bellum" LP: $28.00
