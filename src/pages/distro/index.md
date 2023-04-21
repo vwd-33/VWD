@@ -1220,12 +1220,6 @@ labels:
       DRACONES (usa) - "Son of the Devil" TAPE: $8.00
 
 
-      DREADFUL RELIC (gre) - "Hyborian Sorcery" TAPE: $8.00
-
-
-      DREADFUL RELIC (gre) - "Warlords Of Cosmic Sovereign" TAPE: $8.00
-
-
       ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
 
 
@@ -1302,9 +1296,6 @@ labels:
 
 
       NACHTGEBLÜT (arg) - "Dying echoes of a Past Forlorn" TAPE: $8.00
-
-
-      NECROSLEEZER (can) - "Pope Kill" TAPE: $7.00
 
 
       NOKTURNE - "Kruelty Kampaign" TAPE: $8.00
@@ -1566,9 +1557,6 @@ labels:
 
 
       FUNERAL (fra) - "Black Flame Of Unholy Hate" LP: $26.00 black vinyl / $28.00 clear vinyl
-
-
-      FYRDUNG (swe) - "Hyperborea" LP: $23.00
 
 
       GESTAPO (ger) - "Heil dem Führer" LP: $30.00
