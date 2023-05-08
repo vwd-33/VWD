@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: March 10, 2023*
+        .......  *Last Distro Update: May 7, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -693,15 +693,6 @@ labels:
 
 
       M8L8TH / NEZHEGOL (rus) - "Wotanjugend" CD: $13.00
-
-
-      MALÉFICE (fra) - "Hexenkartothek" CD: $13.00
-
-
-      MALÉFICE (fra) - "Le Dernier Drapeau" DIGIPACK CD: $15.00
-
-
-      MALÉFICE / WALSUNG (fra/bra) - "Hyperborean Tales" DIGIPACK CD: $15.00
 
 
       MARTIAL BARRAGE (can) - "Agents of the Wolf Age" CD: $13.00
