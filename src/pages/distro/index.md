@@ -1601,9 +1601,6 @@ labels:
       MOHAREBEH (usa) - "We Are At War!!!" LP: $20.00
 
 
-      MOONCITADEL (fin) - "Moon Calls to Wander... The Winter's Majesty" LP: $26.00
-
-
       MOONCITADEL (fin) - "Onyx Castles and Silver Keys" 12" MLP: $26.00
 
 
