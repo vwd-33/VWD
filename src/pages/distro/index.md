@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: May 10, 2023*
+        .......  *Last Distro Update: July 9, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -159,6 +159,9 @@ labels:
 
 
       *VWD 79:* DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
+
+
+      *VWD 80:* DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00
 
 
       *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
@@ -1770,6 +1773,9 @@ labels:
 
 
       DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
+
+
+      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
