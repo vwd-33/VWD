@@ -161,7 +161,7 @@ labels:
       *VWD 79:* DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
 
 
-      *VWD 80:* DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00
+      *VWD 80:* DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00 black vinyl / $13.00 white vinyl
 
 
       *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
@@ -1775,7 +1775,7 @@ labels:
       DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
 
 
-      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00
+      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00 black vinyl / $13.00 white vinyl
 
 
       DEATHROW (Ita) - Like A Lion Devouring The Sun EP: $8.00
