@@ -219,6 +219,9 @@ labels:
       VWD 71 ARMAGGEDON - "Trumpets of Christian Holocaust" Pro CS
 
 
+      VWD 72 HYPERBOREAN LORE - "Shores of Hyperborea" CD
+
+
       VWD 73 DISANNULLETH - "Modern Crusades Against Abrahamic Scum" Pro CS
 
 
@@ -231,7 +234,7 @@ labels:
       VWD 79 DARK FURY / KVASIR'S BLOOD - split 7" EP
 
 
-      VWD 80 DARK FURY / MOHAREBEH (pol/usa) - split 7" EP:
+      VWD 80 DARK FURY / MOHAREBEH  - split 7" EP
 
 
       VWD 84 AMALEK / NACHTKULT - "Das letzte Aufgebot" Pro CS
