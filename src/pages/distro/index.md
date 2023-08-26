@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: July 9, 2023*
+        .......  *Last Distro Update: August 25, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -147,6 +147,9 @@ labels:
 
 
       *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $8.00
+
+
+      *VWD 72:* HYPERBOREAN LORE (usa) - "Shores of Hyperborea" CD: $15.00
 
 
       *VWD 73:* DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
@@ -600,6 +603,9 @@ labels:
 
 
       HUNOK / ANCESTORS BLOOD (hun/fin) - "Vágyakozás / Lalli" CD: $10.00
+
+
+      HYPERBOREAN LORE (usa) - "Shores of Hyperborea" CD: $15.00
 
 
       ICONOCLAST CONTRA (usa) - "Combat is the Voice of the Heathen" CD: $14.00
