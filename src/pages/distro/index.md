@@ -1827,9 +1827,6 @@ labels:
       Cotton*): $20.00
 
 
-      AKTION T4 / FRANGAR (fra/swe/ita) - "Hungarian Revolution" TSHIRT (L only | *JHK TSRA 190, European sizing*): $20.00
-
-
       BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | *Gildan Dry Blend*): $20.00
 
 
@@ -1866,9 +1863,6 @@ labels:
       NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S only | *Gildan Dry Blend*): $18.00
 
 
-      NORDWIND (can) - Logo TSHIRT (S only | Gildan Ultra Cotton): $20.00
-
-
       NORDWIND (can) - "Heathen Death Worship" TSHIRT (S only | Gildan Ultra Cotton): $20.00
 
 
@@ -1876,15 +1870,6 @@ labels:
 
 
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S only | *Gildan Heavy Cotton*): $20.00
-
-
-      SATANIC WARMASTER (fin) - "Opferblut" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
-
-
-      SATANIC WARMASTER (fin) - "Strength & Honour" TSHIRT (M, L | *Fruit of the Loom, European sizing*): $18.00
-
-
-      WAR 88 (pol) - TSHIRT (XL only | *JHK TSRA 190, European sizing*): $20.00
 
 
       WITCHBLOOD (usa) - "Sorceress of the Black Sun" TSHIRT (S, M | *Gildan Softstyle*): $15.00
