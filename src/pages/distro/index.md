@@ -1848,7 +1848,7 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
 
 
-      GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $23.00
+      GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L | *Gildan Heavy Cotton*): $23.00
 
 
       KVASIR'S BLOOD (usa) - "Triumph of the Will" WHITE TSHIRT (M, L, XXL | *Gildan Heavy Cotton*): $25.00
@@ -1858,9 +1858,6 @@ labels:
 
 
       NOKTURNE (usa) - Totenkopf Banner TSHIRT (L only | *Gildan Heavy Cotton*): $20.00
-
-
-      NOKTURNE / MALÉFICE (usa/fra) - split TSHIRT (S only | *Gildan Dry Blend*): $18.00
 
 
       NORDWIND (can) - "Heathen Death Worship" TSHIRT (S only | Gildan Ultra Cotton): $20.00
