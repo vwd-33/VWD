@@ -101,9 +101,6 @@ labels:
       *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
 
 
-      *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" TAPE: $9.00
-
-
       *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
@@ -1011,9 +1008,6 @@ labels:
 
 
       ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
-
-
-      ASSASSINATION (ger) - "Red Magick Faction" TAPE: $9.00
 
 
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
