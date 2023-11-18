@@ -311,12 +311,6 @@ labels:
       BLOOD STRONGHOLD (pol/aus) - "Vengeance in Sacrificial Blood" DIGIPACK CD: $12.00
 
 
-      BLUT UND EHRE (ger) - "Ygg Vidrir" CD: $14.00
-
-
-      BLUTFAHNE / GROMA GLAS (ukr/rus) - "The Awakening" CD: $12.00
-
-
       BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.88
 
 
@@ -366,9 +360,6 @@ labels:
 
 
       DARK FURY / POPRAVA (pol/czech) - "Furor Slavica" CD: $10.88
-
-
-      DEEP DESOLATION (pol) - "Boski Jad" CD: $10.00
 
 
       DEFENDERS OF EUROPE (pol) - "Wierni Krwi" CD: $8.00
