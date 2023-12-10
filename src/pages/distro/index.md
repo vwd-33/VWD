@@ -247,6 +247,9 @@ labels:
       LEBENSRAUM (europa) - "Werwolf" CD: $10.88
 
 
+      NOKTURNE / EISENWINTER (usa/swiss) - "Templars of Iron Will" CD: $15.00
+
+
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" DIGIPACK CD: $10.00
 
 
