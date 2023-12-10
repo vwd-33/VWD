@@ -74,13 +74,7 @@ labels:
       *VWD 43:* SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" TAPE: $8.50
 
 
-      *VWD 44:* SPEAR OF LONGINUS (aus) - "TYONS" TAPE: $8.50
-
-
       *VWD 45:* RAVENDARK'S MONARCHAL CANTICLE / WALSUNG (bra) - "Brotherhood in Battle" TAPE: $8.00
-
-
-      *VWD 46:* RAVENDARK'S MONARCHAL CANTICLE (bra) - "Quando as Botas Insistem à Marchar!" TAPE: $8.00
 
 
       *VWD 48*: DRACONES (usa) - "Son of the Devil" TAPE: $8.00
@@ -99,9 +93,6 @@ labels:
 
 
       *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
-
-
-      *VWD 56:* ABYSSIC HATE (aus) - "Suicidal Emotions" TAPE: $8.50
 
 
       *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
