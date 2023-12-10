@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: August 25, 2023*
+        .......  *Last Distro Update: December 10, 2023*
         .......................................................................\
         ........ "
 labels:
@@ -181,17 +181,10 @@ labels:
 
       *VWD 100:* ASSASSINATION (ger) - "Autumn Brown is the New Black" DIGIPACK CD: $12.00
   - title: Exclusive Distribution
-    body: >-
+    body: |-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
 
-
       EINGAR (usa) - "Eingar" CD: $10.00
-
-
-      ARYANWÜLF / KRIGSROP (usa/nor) - split CD: $10.00
-
-
-      ENDSIEG / EINGAR (usa) - "Twilight of Aryan Consciousness / Luminous Hues Adorn the Grey" TAPE: $8.00
   - title: CDs
     body: >-
       ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $12.00
