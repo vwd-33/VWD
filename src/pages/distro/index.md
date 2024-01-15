@@ -274,6 +274,9 @@ labels:
       PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.00
 
 
+      SAMMAS' EQUINOX (fin) - "Tulikehrät" DIGIPACK CD: $10.00
+
+
       SIGEFOLC / HADAK URA / HEIDENTOR / WOLVES EYES / PANZERJAGER - split DIGIPACK CD: $10.00
 
 
