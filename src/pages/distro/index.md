@@ -41,7 +41,7 @@ description2:
 labels:
   - title: Available VINLANDIC WERWOLF Releases
     body: >-
-      *VWD 09:* BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.88
+      *VWD 09:* BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.00
 
 
       *VWD 16:* WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
@@ -50,7 +50,7 @@ labels:
       *VWD 19:* BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
 
 
-      *VWD 21:* PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
+      *VWD 21:* PANTHEON (usa) - "Ginnungagap" TAPE: $9.00
 
 
       *VWD 24:* SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
@@ -71,7 +71,7 @@ labels:
       *VWD 41:* SVETOVID / VRILDOM (usa/arg) - split CD: $10.00
 
 
-      *VWD 43:* SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" TAPE: $8.50
+      *VWD 43:* SPEAR OF LONGINUS (aus) - "Golden Palace 88 Fortune" TAPE: $9.00
 
 
       *VWD 45:* RAVENDARK'S MONARCHAL CANTICLE / WALSUNG (bra) - "Brotherhood in Battle" TAPE: $8.00
@@ -92,28 +92,28 @@ labels:
       *VWD 52:* ODIUM TOTUS (usa) - "In Inceptum Finis Est"  TAPE: $8.00
 
 
-      *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
+      *VWD 54:* ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $11.00
 
 
-      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $11.00
 
 
-      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
+      *VWD 57:* ASSASSINATION (ger) - "Into space and out of reach" TAPE: $10.00
 
 
       *VWD 58:* WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
 
 
-      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.50
+      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $10.00
 
 
-      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
+      *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
 
 
-      *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
+      *VWD 64:* THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.00
 
 
-      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.88
+      *VWD 65:* LEBENSRAUM (europa) - "Werwolf" CD: $10.00
 
 
       *VWD 66:* GESTAPO SS (usa) - "Vinlandic Stormtroopers" CD: $12.00
@@ -128,7 +128,10 @@ labels:
       *VWD 67:* WODULF (gre) - "...from the Corpsegates" TAPE: $9.00
 
 
-      *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $8.00
+      *VWD 68:* GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.00
+
+
+      *VWD 71:* ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" TAPE: $8.00
 
 
       *VWD 72:* HYPERBOREAN LORE (usa) - "Shores of Hyperborea" CD: $15.00
@@ -143,10 +146,10 @@ labels:
       *VWD 75:* RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
 
 
-      *VWD 79:* DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
+      *VWD 79:* DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $11.00
 
 
-      *VWD 80:* DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00 black vinyl / $13.00 white vinyl
+      *VWD 80:* DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $11.00 black vinyl / $12.00 white vinyl
 
 
       *VWD 84:* AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
@@ -155,13 +158,13 @@ labels:
       VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
 
 
-      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.88
+      VWD 85: PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.00
 
 
-      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $11.00
+      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" MCD: $10.00
 
 
-      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.50
+      *VWD 94:* DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.00
 
 
       *VWD 95:* AUSCHWITZ SYMPHONY ORCHESTRA / ETERNAL STRIFE / TODESSTRAFE / ARYAN HAMMER (fin/usa/ita) - "Artifacts of War" CD: $12.00
@@ -170,7 +173,7 @@ labels:
       *VWD 97:* PANTHEON (usa) - "Paganuclear" TAPE: $10.00
 
 
-      *VWD 100:* ASSASSINATION (ger) - "Autumn Brown is the New Black" DIGIPACK CD: $12.00
+      *VWD 100:* ASSASSINATION (ger) - "Autumn Brown is the New Black" DIGIPACK CD: $11.00
   - title: Exclusive Distribution
     body: |-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
@@ -178,10 +181,10 @@ labels:
       EINGAR (usa) - "Eingar" CD: $10.00
   - title: CDs
     body: >-
-      ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $12.00
+      ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $11.00
 
 
-      ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $13.00
+      ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $11.00
 
 
       ASSASSINATION (ger) - "Red Magick Faction" A5 DIGIPACK CD: $12.00
@@ -202,19 +205,25 @@ labels:
       BLOOD LIBEL (can) - "Museums of Gas and Mirrors" CD: $12.00
 
 
-      BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.88
+      BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.00
 
 
-      DARK FURY (pol) - "...And We Shall Never Surrender" DIGIPACK CD: $13.00
+      DARK FURY (pol) - "Slavonic Thunder" DIGIPACK CD: $12.00
 
 
-      DRACONES (usa) - "Son of the Devil" CD: $13.00
+      DARK FURY (pol) - "Vae Victis" DIGIPACK CD: $12.00
+
+
+      DARK FURY (pol) - "...And We Shall Never Surrender" DIGIPACK CD: $12.00
+
+
+      DRACONES (usa) - "Son of the Devil" CD: $12.00
 
 
       EINGAR (usa) - "Eingar" CD: $10.00
 
 
-      ENDSIEG (usa) - "Twilight of Aryan Consciousness" CD: $13.00
+      ENDSIEG (usa) - "Twilight of Aryan Consciousness" CD: $12.00
 
 
       ETERNAL STIRFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
@@ -223,7 +232,7 @@ labels:
       ETERNAL STRIFE (usa) - "Vinlandic Hate Brigade" DIGIPACK CD: $10.00
 
 
-      FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $13.00
+      FORLORN WINDS (usa) - "Apparitions of the Åsgårdsreien" CD: $12.00
 
 
       HYPERBOREAN LORE (usa) - "Shores of Hyperborea" CD: $15.00
@@ -244,7 +253,7 @@ labels:
       KVASIR'S BLOOD / VRILDOM (usa/arg) - "A Pact of Steel from North to South" CD: $15.00
 
 
-      LEBENSRAUM (europa) - "Werwolf" CD: $10.88
+      LEBENSRAUM (europa) - "Werwolf" CD: $10.00
 
 
       NOKTURNE / EISENWINTER (usa/swiss) - "Templars of Iron Will" CD: $15.00
@@ -259,7 +268,7 @@ labels:
       OVADER (Bul) - "Wotankult" CD: $10.00
 
 
-      PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.88
+      PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.00
 
 
       SIGEFOLC / HADAK URA / HEIDENTOR / WOLVES EYES / PANZERJAGER - split DIGIPACK CD: $10.00
@@ -274,7 +283,7 @@ labels:
       SVOLDER (can) - "The Beast's Mercenaries" CD: $12.00
 
 
-      THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.88
+      THULE DEL SUR (arg) - "Four Meditations Under the Polar Star" DIGIPACK CD: $10.00
 
 
       WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
@@ -289,13 +298,13 @@ labels:
       AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
 
 
-      ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" TAPE: $8.50
+      ARMAGGEDON (fra) - "Trumpets of Christian Holocaust" TAPE: $8.00
 
 
       ASHEN HUSK (usa) - "All We Hold Sacred" TAPE: $7.00
 
 
-      ASSASSINATION (ger) - "Into space and out of reach" TAPE: $11.00
+      ASSASSINATION (ger) - "Into space and out of reach" TAPE: $10.00
 
 
       BERGHOF / ADLERHORST (usa) - "Gebrauchmusik" TAPE: $7.00
@@ -313,10 +322,10 @@ labels:
       DEFILE (usa) - "Poser Holocaust" TAPE: $7.00
 
 
-      DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.50
+      DER STÜRMER (gre) - "Europa Erwache!" TAPE: $9.00
 
 
-      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.50
+      DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
 
 
       DISANNULLETH (usa) - "Modern Crusades Against Abrahamic Scum" TAPE: $8.00
@@ -328,7 +337,7 @@ labels:
       FUROR (arg) - "Ice Doctrine" TAPE: $7.00
 
 
-      GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.50
+      GARDIEN DE PORCS (fra) - "Dans les terres" TAPE: $7.00
 
 
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TAPE: $10.00
@@ -340,7 +349,7 @@ labels:
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" TAPE: $8.00
 
 
-      PANTHEON (usa) - "Ginnungagap" TAPE: $8.50
+      PANTHEON (usa) - "Ginnungagap" TAPE: $9.00
 
 
       PANTHEON (usa) - "Paganuclear" TAPE: $10.00
@@ -391,19 +400,19 @@ labels:
       WODULF (gre) - "...from the Corpsegates" LP: $26.00
   - title: 7" VINYL
     body: >-
-      DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $12.00
+      DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $11.00
 
 
-      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $12.00 black vinyl / $13.00 white vinyl
+      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $11.00 black vinyl / $12.00 white vinyl
 
 
-      ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $12.00
+      ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $11.00
 
 
-      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $13.00
+      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $11.00
 
 
-      RESISTENCIA 88 (bra) - "A Nova Ordem" EP: $14.00
+      RESISTENCIA 88 (bra) - "A Nova Ordem" EP: $11.00
   - title: T-SHIRTS (request photos by email)
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
