@@ -382,6 +382,9 @@ labels:
       WODULF (gre) - "...from the Corpsegates" TAPE: $9.00
 
 
+      WODULF (gre) - "Zerezat" TAPE: $8.00
+
+
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
   - title: 12" / 10" VINYL
     body: >-
