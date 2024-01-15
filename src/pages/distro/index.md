@@ -184,7 +184,7 @@ labels:
       EINGAR (usa) - "Eingar" CD: $10.00
   - title: CDs
     body: >-
-      ASSASSINATION (ger) - " Autumn Brown is the New Black" DIGIPACK CD: $11.00
+      AKOLYYTTI (fin) - "Transcendence: The Beast Within" CD: $10.00
 
 
       ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $11.00
@@ -292,10 +292,10 @@ labels:
       WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $15.00
+      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" DIGIPACK CD: $12.00
 
 
-      "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $10.00
+      "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $8.00
   - title: TAPES
     body: >-
       AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
