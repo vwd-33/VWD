@@ -268,7 +268,7 @@ labels:
       OHTAR (pol) - "Emptiness" CD: $10.00
 
 
-      OVADER (Bul) - "Wotankult" CD: $10.00
+      OVADER (bul) - "Wotankult" CD: $10.00
 
 
       PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" CD: $10.00
