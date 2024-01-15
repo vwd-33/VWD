@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: December 10, 2023*
+        .......  *Last Distro Update: January 15, 2024*
         .......................................................................\
         ........ "
 labels:
@@ -105,6 +105,9 @@ labels:
 
 
       *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $10.00
+
+
+      *VWD 60:* WODULF (gre) - "Zerezat" TAPE: $8.00
 
 
       *VWD 63:* DER STÜRMER (gre) - "Transcendental Racial Idealism" TAPE: $10.00
