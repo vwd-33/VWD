@@ -104,7 +104,7 @@ labels:
       *VWD 58:* WEHRMACHT (bra/ger) - "Wehrmacht" CD: $12.00
 
 
-      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $10.00
+      *VWD 60:* RESISTENCIA 88 (bra) - "A Nova Ordem" TAPE: $9.00
 
 
       *VWD 60:* WODULF (gre) - "Zerezat" TAPE: $8.00
@@ -409,19 +409,19 @@ labels:
       WODULF (gre) - "...from the Corpsegates" LP: $26.00
   - title: 7" VINYL
     body: >-
-      DARK FURY / KVASIR'S BLOOD (pol/usa) - Split 7" EP: $11.00
+      DARK FURY / KVASIR'S BLOOD (pol/usa) - split 7" EP: $11.00
 
 
-      DARK FURY / MOHAREBEH (pol/usa) - Split 7" EP: $11.00 black vinyl / $12.00 white vinyl
+      DARK FURY / MOHAREBEH (pol/usa) - split 7" EP: $11.00 black vinyl / $12.00 white vinyl
 
 
-      ETERNAL STRIFE / MOHAREBEH (usa) - split EP: $11.00
+      ETERNAL STRIFE / MOHAREBEH (usa) - split 7" EP: $11.00
 
 
-      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split EP: $11.00
+      RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $11.00
 
 
-      RESISTENCIA 88 (bra) - "A Nova Ordem" EP: $11.00
+      RESISTENCIA 88 (bra) - "A Nova Ordem" 7" EP: $11.00
   - title: T-SHIRTS (request photos by email)
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
