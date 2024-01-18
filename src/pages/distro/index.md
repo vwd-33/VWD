@@ -187,6 +187,9 @@ labels:
       AKOLYYTTI (fin) - "Transcendence: The Beast Within" CD: $10.00
 
 
+      ARYAN HAMMER (fin) - "Einsatzkommando Finnland" CD: $10.00
+
+
       ARYMAN (pol) - "...i nienazwanych Dyjabłów" DIGIPACK CD: $10.00
 
 
