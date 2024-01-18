@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: January 15, 2024*
+        .......  *Last Distro Update: January 17, 2024*
         .......................................................................\
         ........ "
 labels:
@@ -187,6 +187,9 @@ labels:
       AKOLYYTTI (fin) - "Transcendence: The Beast Within" CD: $10.00
 
 
+      ARYMAN (pol) - "...i nienazwanych Dyjabłów" DIGIPACK CD: $10.00
+
+
       ASSASSINATION (ger) - "Into space and out of reach" A5 DIGIPACK CD: $11.00
 
 
@@ -263,6 +266,9 @@ labels:
 
 
       ODIUM TOTUS (usa) - "In Inceptum Finis Est" DIGIPACK CD: $10.00
+
+
+      ODOUR OF DEATH (pol) - "Satanic Devotion" DIGIPACK CD: $10.00
 
 
       OHTAR (pol) - "Emptiness" CD: $10.00
@@ -364,6 +370,9 @@ labels:
       PANZERJAGER / AESIR (usa/arg) - "War Chants for Ragnarok" TAPE: $8.00
 
 
+      RAIO NEGRO (por) - "Demo III" TAPE: $9.00
+
+
       RATTENKÖNIG (aus) - "Rodentia's Wrath" TAPE: $9.00
 
 
@@ -382,6 +391,9 @@ labels:
       SUPERNAL REFUSE (usa) - "Inversion Protocol" TAPE: $8.00
 
 
+      TERROR NOXPHERATUR (por) - "Devouring All Your Life" TAPE: $9.00
+
+
       WODULF (gre) - "...from the Corpsegates" TAPE: $9.00
 
 
@@ -389,6 +401,9 @@ labels:
 
 
       WOLFSPIRIT (ger/pol) - "Marching Towards The Abyss Of Death" TAPE: $8.00
+
+
+      V/A - "Endlösung Vol. 2" TAPE: $9.00
   - title: 12" / 10" VINYL
     body: >-
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" LP: $30.00
@@ -421,7 +436,7 @@ labels:
       RATTENKÖNIG / WEWELSSBURG (aus/usa) - split 7" EP: $11.00
 
 
-      RESISTENCIA 88 (bra) - "A Nova Ordem" 7" EP: $11.00
+      RESISTENCIA 88 (bra) - "A Nova Ordem" 7" EP: $11.00 black vinyl / $12.00 white vinyl
   - title: T-SHIRTS (request photos by email)
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
