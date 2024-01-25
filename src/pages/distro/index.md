@@ -15,9 +15,9 @@ description2:
 
         -*PayPal is NOT accepted. Don't ask.*
 
-        -*Please allow up to 14-21 days for your order to ship. Patience is a virtue!*
+        -*Orders are now generally shipped within 3-4 days.*
 
-        -*Tracking numbers are not generally provided unless they are asked for, since 99% of the time all orders will arrive without problems. Still, feel free to request one if you are concerned about things such as package theft or if it has been 14 or more days since your order was placed.*
+        -*As of January 2024, tracking numbers are automatically provided when your order ships.*
 
         -*International orders are possible, but the postage is expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
     - text: >-
@@ -35,7 +35,7 @@ description2:
 
         *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
     - text: "........................................................................\
-        .......  *Last Distro Update: January 17, 2024*
+        .......  *Last Distro Update: January 24, 2024*
         .......................................................................\
         ........ "
 labels:
@@ -412,19 +412,19 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" LP: $30.00
 
 
-      KVASIR'S BLOOD (usa) - "The Golden Thread" LP: $28.00
+      KVASIR'S BLOOD (usa) - "The Golden Thread" LP: $25.00
 
 
-      OHTAR (pol) - "Emptiness" LP: $25.00
+      OHTAR (pol) - "Emptiness" LP: $20.00
 
 
-      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $22.00
+      WEWELSSBURG (usa) - "Into The Ritual Chamber" 12" MLP: $20.00
 
 
-      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $28.00
+      WEWELSSBURG (usa) - "Subterranean Gestation of the Glorious New Era" 12" MLP: $25.00
 
 
-      WODULF (gre) - "...from the Corpsegates" LP: $26.00
+      WODULF (gre) - "...from the Corpsegates" LP: $25.00
   - title: 7" VINYL
     body: >-
       DARK FURY / KVASIR'S BLOOD (pol/usa) - split 7" EP: $11.00
@@ -455,12 +455,6 @@ labels:
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
-      DER STÜRMER (gre) - "A Spartan Reborn" TANK TOP (S only | *Gildan Ultra Cotton*): $18.00
-
-
-      DREADFUL RELIC (gre) - "Hyborian Sorcery" TSHIRT (S, XXL | *Gildan Ultra Cotton*): $20.00
-
-
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL | *Gildan Heavy Cotton*): $18.00
 
 
@@ -471,9 +465,6 @@ labels:
 
 
       MOHAREBEH (usa) - "Total Support" TSHIRT (S only | *Gildan Ultra Cotton*): $18.00
-
-
-      NORDWIND (can) - "Heathen Death Worship" TSHIRT (S only | Gildan Ultra Cotton): $20.00
 
 
       OHTAR (pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
@@ -489,12 +480,6 @@ labels:
 
 
       WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT (M, L, XL | Gildan Heavy Cotton): $23.00
-
-
-      AIDS Kills .... TSHIRT (S, M, L | *Gildan Dry Blend*): $12.00
-
-
-      CORNELIU CODREANU tribute TSHIRT (S, M | *Gildan Heavy Cotton*): $12.00
   - title: PINS, PATCHES, ETC (request photos by email)
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $9.00
