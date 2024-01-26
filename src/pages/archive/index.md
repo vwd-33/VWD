@@ -333,6 +333,9 @@ labels:
       MOHAREBEH (usa) - ZIPPER HOODIE
 
 
+      NOKTURNE (usa) - "Shield Banner" TSHIRT
+
+
       NOKTURNE (usa) - "Totenkopf Arsenal" TSHIRT
 
 
