@@ -21,7 +21,7 @@ description2:
 
         -*International orders are possible, but the postage is expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
 
-        -*Emails are generally replied to within 48 hours. If you do not receive a reply to your inquiry within 48 hours, please send your inquiry to this alternate email address: vwd_88@hotmail.com*
+        -*Emails are generally replied to within 48 hours. If you do not receive a reply within 48 hours, please send your inquiry to this alternate email address: vwd_88@hotmail.com*
     - text: >-
         ...............................................................................
         *To place an order via Email:*
