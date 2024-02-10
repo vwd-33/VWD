@@ -455,6 +455,9 @@ labels:
       Cotton*): $20.00
 
 
+      ![]()
+
+
       BEHOLD BARBARITY - "D.J.S.U.U" TSHIRT (L, XXL | *Gildan Dry Blend*): $20.00
 
 
@@ -470,6 +473,9 @@ labels:
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" TSHIRT (M, L, XL | *Gildan Dry Blend*): $20.00
 
 
+      ![](/img/gss-tshirt-preview.png)
+
+
       GOATMOON (fin) - "Juden Sind Hier Unerwünscht" TSHIRT (M, L | *Gildan Heavy Cotton*): $23.00
 
 
@@ -477,6 +483,9 @@ labels:
 
 
       OHTAR (pol) - "Emptiness" TSHIRT (S, M, L, XL, XXL, XXXL | *JHK TSRA 190, European sizing*): $20.00
+
+
+      ![](/img/ohtar-tshirt-preview.png)
 
 
       PANTHEON (usa) - "Iotunkrieg" TSHIRT (S only | *Gildan Heavy Cotton*): $20.00
