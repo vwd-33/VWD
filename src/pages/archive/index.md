@@ -327,6 +327,9 @@ labels:
       KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (Black Tshirts & Forest Green Tshirts)
 
 
+      KVASIR'S BLOOD (usa) - "Triumph of the Will" TSHIRT (Alternate design on WHITE Tshirt)
+
+
       MOHAREBEH (usa) - "Total Support" TSHIRT
 
 
