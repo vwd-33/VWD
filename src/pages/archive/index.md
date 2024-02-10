@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 path: /archive
-title: Release Archive
+title: ✠ Release Archive ✠
 image: /img/vwd-logo-censored-3-copy.png
 description2:
   descriptionList:
@@ -11,7 +11,7 @@ description2:
 
         If a release is listed here, but is NOT listed in the "Distro" page, then that means it is sold out. 
 
-        Any inquiries about sold out releases will be ignored!
+        Any inquiries regarding the purchase of sold out releases will be ignored!
 labels:
   - title: VINLANDIC WERWOLF Music Releases
     body: >-
@@ -337,6 +337,9 @@ labels:
 
 
       NOKTURNE (usa) - "Totenkopf Arsenal" TSHIRT
+
+
+      NOKTURNE (usa) - "Runic Death Kommando" TSHIRT
 
 
       OHTAR (pol) - "Emptiness" TSHIRT
