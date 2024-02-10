@@ -464,6 +464,9 @@ labels:
       DARK FURY (pol) - "W.A.R. Against Christianity" TSHIRT (M, L, XL | *Gildan Heavy Cotton*): $20.00
 
 
+      ![](/img/df-preview.png)
+
+
       ETERNAL STRIFE (usa) - MLK tshirt (L, XL | *Gildan Heavy Cotton*): $18.00
 
 
@@ -485,10 +488,16 @@ labels:
       WODULF (gre) - "Zerezat" TSHIRT (M, L | *Gildan Heavy Cotton*): $20.00
 
 
+      ![](/img/wodulf-tshirt-preview.png)
+
+
       WOLFNACHT (gre) - "Licht Des Sieges TSHIRT (BLACK: S only / BLUE: S only / GREEN: S, XXXL | *Gildan Ultra Cotton*): $18.00
 
 
       WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT (M, L, XL | Gildan Heavy Cotton): $23.00
+
+
+      ![](/img/wotanorden-tshirt-preview.png)
   - title: ✠ PINS, PATCHES, ETC ✠
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $9.00
