@@ -7,10 +7,10 @@ description2:
   emailText: ALL orders by Email to
   email: vinlandicwerwolf@hotmail.com
   descriptionList:
-    - text: "** READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW
-        THESE SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING, YOUR EMAIL
-        WILL BE IGNORED!**"
-    - text: >-
+    - text: "**READ THE TERMS BELOW BEFORE PLACING AN ORDER. IF YOU CAN'T FOLLOW THESE
+        SIMPLE INSTRUCTIONS THEN DON'T EVEN BOTHER WRITING, YOUR EMAIL WILL BE
+        IGNORED!*"
+    - text: >+
         -*All orders ship from the United States. All prices are in USD.*
 
         -*PayPal is NOT accepted. Don't ask.*
@@ -19,9 +19,11 @@ description2:
 
         -*As of January 2024, tracking numbers are automatically provided when your order ships.*
 
-        -*International orders are possible, but the postage is expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
 
-        -*Emails are generally replied to within 48 hours. If you do not receive a reply within 48 hours, please send your inquiry to this alternate email address: vwd_88@hotmail.com*
+        -*International orders now require a minimum purchase amount of $30.00 USD (shipping excluded) - if you try to place an order with a subtotal under $30.00 USD, your email will be ignored! 
+
+        -Additionally, international postage costs are expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
+
     - text: >-
         ...............................................................................
         *To place an order via Email:*
@@ -31,13 +33,18 @@ description2:
 
         *-Mention your name and full address, so that we can calculate the postage and get back to you with a total price and payment instructions.*
 
-        *-If you live outside of the United States then a phone number will be required with your address!
+        *-If you live outside of the United States then a phone number will be required with your address!*
 
-        -Regarding items listed in “Available VINLANDIC WERWOLF releases” and “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for potential wholesale orders / trades, but keep in mind that they cannot be guaranteed due to limited quantities!*
 
-        *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a compromise that is fair & honest for both parties!*
+        *-Regarding items listed in “Available VINLANDIC WERWOLF releases” and “EXCLUSIVE DISTRIBUTION”, labels / distros can get in touch for potential wholesale orders / trades, but keep in mind that they cannot be guaranteed due to limited quantities!*
+
+
+        *-We are NOT responsible for lost or damaged packages. All orders are carefully packed and once it's handed off to the post office it becomes their responsibility to do their job properly. WITH THAT BEING SAID, if something is wrong with your order then please send an email and we will be very open to reaching a resolution that is fair & honest for both parties!*
+
+
+        -*Emails generally receive a reply within 48 hours. If you do not receive a reply within 48 hours, please send your inquiry to this alternate email address: vwd_88@hotmail.com*
     - text: "........................................................................\
-        .......  *Last Distro Update: January 24, 2024*
+        .......  *Last Distro Update: February 10, 2024*
         .......................................................................\
         ........ "
 labels:
@@ -442,7 +449,7 @@ labels:
 
 
       RESISTENCIA 88 (bra) - "A Nova Ordem" 7" EP: $11.00 black vinyl / $12.00 white vinyl
-  - title: T-SHIRTS (request photos by email)
+  - title: T-SHIRTS
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
       Cotton*): $20.00
@@ -482,7 +489,7 @@ labels:
 
 
       WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT (M, L, XL | Gildan Heavy Cotton): $23.00
-  - title: PINS, PATCHES, ETC (request photos by email)
+  - title: PINS, PATCHES, ETC
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $9.00
 
