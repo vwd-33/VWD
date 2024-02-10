@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 path: /distro
-title: Distro
+title: ✠ Distro ✠
 image: /img/vwd-logo-white-censored-thicker-outline.png
 description2:
   emailText: ALL orders by Email to
@@ -48,7 +48,7 @@ description2:
         .......................................................................\
         ........ "
 labels:
-  - title: Available VINLANDIC WERWOLF Releases
+  - title: ✠ Available VINLANDIC WERWOLF Releases ✠
     body: >-
       *VWD 09:* BLUTKRIEG (usa) - "Wotan's Harrow" DIGIPACK CD: $10.00
 
@@ -186,12 +186,12 @@ labels:
 
 
       *VWD 100:* ASSASSINATION (ger) - "Autumn Brown is the New Black" DIGIPACK CD: $11.00
-  - title: Exclusive Distribution
+  - title: ✠ Exclusive Distribution ✠
     body: |-
       ETERNAL STRIFE (usa) - "When the World Comes Crumbling Down" CD: $10.00
 
       EINGAR (usa) - "Eingar" CD: $10.00
-  - title: CDs
+  - title: ✠ CDs ✠
     body: >-
       AKOLYYTTI (fin) - "Transcendence: The Beast Within" CD: $10.00
 
@@ -317,7 +317,7 @@ labels:
 
 
       "MARCHES OF THE IRON GUARD - IN MARCIA GUARDIE DI FERRO" CD: $8.00
-  - title: TAPES
+  - title: ✠ TAPES ✠
     body: >-
       AMALEK / NACHTKULT (ger/bra) - "Das letzte Aufgebot" TAPE: $9.00
 
@@ -416,7 +416,7 @@ labels:
 
 
       V/A - "Endlösung Vol. 2" TAPE: $9.00
-  - title: 12" / 10" VINYL
+  - title: ✠ 12" / 10" VINYL ✠
     body: >-
       GESTAPO SS (usa) - "Vinlandic Stormtroopers" LP: $30.00
 
@@ -434,7 +434,7 @@ labels:
 
 
       WODULF (gre) - "...from the Corpsegates" LP: $25.00
-  - title: 7" VINYL
+  - title: ✠ 7" VINYL ✠
     body: >-
       DARK FURY / KVASIR'S BLOOD (pol/usa) - split 7" EP: $11.00
 
@@ -449,7 +449,7 @@ labels:
 
 
       RESISTENCIA 88 (bra) - "A Nova Ordem" 7" EP: $11.00 black vinyl / $12.00 white vinyl
-  - title: T-SHIRTS
+  - title: ✠ T-SHIRTS ✠
     body: >-
       AMALEK (ger) - "German Aryan Black Metal" TSHIRT (M, L, XL | *Gildan Heavy
       Cotton*): $20.00
@@ -489,7 +489,7 @@ labels:
 
 
       WOTANORDEN (usa) - "From the Storm come the Wolves" TSHIRT (M, L, XL | Gildan Heavy Cotton): $23.00
-  - title: PINS, PATCHES, ETC
+  - title: ✠ PINS, PATCHES, ETC ✠
     body: |-
       ENDSIEG (usa) - logo METAL PIN: $9.00
 
