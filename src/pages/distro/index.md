@@ -2,7 +2,7 @@
 templateKey: product-page
 path: /distro
 title: Distro
-image: /img/vwd-logo-censored-3-copy.png
+image: /img/vwd-logo-white-censored-thicker-outline.png
 description2:
   emailText: ALL orders by Email to
   email: vinlandicwerwolf@hotmail.com
