@@ -20,7 +20,7 @@ description2:
         -*As of January 2024, tracking numbers are automatically provided when your order ships.*
 
 
-        -*International orders now require a minimum purchase amount of $30.00 USD (shipping excluded) - if you try to place an order with a subtotal under $30.00 USD, your email will be ignored! 
+        -*International orders now require a minimum purchase amount of $30.00 USD (before shipping) - if you try to place an international order with a subtotal under $30.00 USD then your email will be ignored! 
 
         -Additionally, international postage costs are expensive. We have no control over it, so don’t waste our time or your time if you aren’t prepared to pay the high shipping cost!*
 
