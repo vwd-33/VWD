@@ -339,10 +339,13 @@ labels:
       NOKTURNE (usa) - "Totenkopf Shield Banner" TSHIRT
 
 
-      NOKTURNE (usa) - "Totenkopf Arsenal" TSHIRT
+      NOKTURNE (usa) - "Death Head's Arsenal" TSHIRT
 
 
       NOKTURNE (usa) - "Runic Death Kommando" TSHIRT
+
+
+      NOKTURNE (usa) - "Stormtroopers of Decimation" TSHIRT
 
 
       OHTAR (pol) - "Emptiness" TSHIRT
@@ -363,7 +366,7 @@ labels:
       VOTHANA (usa) - "NGƯỜI DO THÁI LÀ BẤT HẠNH CỦA CHÚNG TÔI" PULLOVER HOODIE
 
 
-      WEWELSSBURG  (usa) - logo TSHIRT
+      WEWELSSBURG (usa) - logo TSHIRT
 
 
       WODULF (gre) - "Zerezat" TSHIRT
@@ -382,4 +385,7 @@ labels:
 
 
       ENDSIEG (usa) - logo METAL PIN
+
+
+      NOKTURNE (usa) - "Werwolf Blood Order" Embroidered PATCH
 ---
